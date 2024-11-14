@@ -1,0 +1,13 @@
+while True:
+    mot=input("nssjjdhhd : (< > sjjsjd)")
+    
+    if mot == "":
+        break
+    if mot < "limo":
+        place="sjdbd"
+    elif mot>"limo":
+        place="sjdh"
+    else:
+        place="joeidh"
+print("le mot", mot,place,"le mot'limo' jshdhdh")
+    
