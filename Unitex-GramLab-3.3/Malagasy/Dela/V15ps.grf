@@ -1,0 +1,26 @@
+#Unigraph
+SIZE 1232 840
+FONT Times New Roman:  12
+OFONT Arial Unicode MS:B 14
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+6
+"<E>" 46 222 4 2 3 4 5 
+"" 545 222 0 
+":a15ps41Io+:a15ps41Ioy+:az15ps41Io+:z15ps41Io+:a15ps42Io+:a15ps42Iy+:a15ps42Ioy+:z15ps42Io+:a15ps43Iy+:z15ps43Io+:z15ps43Ioy+:a15ps72Io+:a15ps72Iy" 218 271 1 1 
+":a15ps4vIo+:v15ps4vIv+:z15ps4vIo+:a15ps14vIo+:a15ps14vIy+:az15ps14vIo+:az15ps14vIy+:z15ps14vIo" 107 101 1 1 
+":a15ps141Io+:z15ps141Io+:az15ps141Io+:a15ps141Iy+:a15ps142Io+:a15ps142Iy+:z15ps142Io+:z15ps142Ioy+:a15ps143Io+:a15ps143Iy+:a15ps171Io+:a15ps171Iy+:a15ps172Iy" 344 315 1 1 
+":z15ps4iIo+:a15ps4iIoy" 355 124 1 1 

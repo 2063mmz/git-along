@@ -1,0 +1,36 @@
+#Unigraph
+SIZE 1232 840
+FONT Times New Roman:  12
+OFONT Arial Unicode MS:B 14
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+16
+"<E>" 36 424 1 2 
+"" 710 424 0 
+"<E>/{" 109 424 6 3 13 11 5 7 9 
+"o" 208 199 1 4 
+"<E>/,ko.PRO+1+s}" 371 199 1 1 
+"ay" 211 424 1 6 
+"<E>/,nay.PRO+1+p}" 374 424 1 1 
+"areo" 214 488 1 8 
+"<E>/,nareo.PRO+2+p}" 377 488 1 1 
+"ny" 211 621 2 10 15 
+"<E>/,.PRO+3+s}" 374 621 1 1 
+"tsika" 211 361 1 12 
+"<E>/,ntsika.PRO+1+p}" 375 361 1 1 
+"ao" 209 255 1 14 
+"<E>/,nao.PRO+2+s}" 372 255 1 1 
+"<E>/,.PRO+3+p}" 381 706 1 1 

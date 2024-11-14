@@ -1,0 +1,64 @@
+c3af058 -  (HEAD, origin/master, origin/HEAD, master) [ci minor fix] Update shellcheck download link (4 years, 7 months ago) <Cristian Martinez>
+f164d1b -   [ci minor fix] Update shellcheck download link (4 years, 7 months ago) <Cristian Martinez>
+08df338 -  [minor refactor] Update copyright date to 2017 (4 years, 7 months ago) <Cristian Martinez>
+bb6bf9d -  Fix issues raised by ShellCheck 0.4.4 (4 years, 11 months ago) <Cristian MARTINEZ>
+375be0e -  Fix can't follow non-constant source (4 years, 11 months ago) <Cristian Martinez>
+8ad0ba2 -  Fix can't follow non-constant source (4 years, 11 months ago) <Cristian Martinez>
+07dccd1 -  [ci minor fix] Update shellcheck download link (4 years, 11 months ago) <Cristian Martinez>
+8ef0321 -  Update for compatibility with Vinber 2.0.0 (5 years ago) <Cristian Martinez>
+d8062e4 -  Update shellcheck-check.sh (5 years ago) <Cristian Martinez>
+a693fd2 -  Update shellcheck-install.sh (5 years ago) <Cristian Martinez>
+a92e0f1 -  Update README.md (5 years ago) <Cristian Martinez>
+5e3aa89 -  minor: rename README.txt to README.md (6 years ago) <Cristian Martinez>
+fa5684d -  minor: rename README.txt to README.md (6 years ago) <Cristian Martinez>
+82eb679 -  Update LICENSE.md.in (6 years ago) <Cristian Martinez>
+2f4f725 -  minor: harmonize variable names with build system (6 years ago) <Cristian Martinez>
+39fe30f -  Update mo (6 years ago) <Cristian Martinez>
+0d9cc20 -  Update INSTALL (6 years ago) <Cristian Martinez>
+b391a6c -  Update INSTALL (6 years ago) <Cristian Martinez>
+e41a221 -  create a modular setup system (6 years ago) <Cristian MARTINEZ>
+f89d48a -  Update LGPLLR license info (6 years ago) <Cristian MARTINEZ>
+45a0d06 -  Update LICENSE.md.in (6 years ago) <Cristian Martinez>
+4d1609e -  show platform binaries information (6 years ago) <Cristian MARTINEZ>
+c67f0c3 -  minor desktop entry value refactor (6 years ago) <Cristian MARTINEZ>
+b859fac -  rename desktop entries (6 years ago) <Cristian MARTINEZ>
+a7d44e1 -  add INSTALL instructions (6 years ago) <Cristian MARTINEZ>
+67ee08a -  minor fix: do not try to remove a non-existent file (6 years ago) <Cristian MARTINEZ>
+f2c6539 -  fix to avoid failures when interactive input is unavailable (6 years ago) <Cristian Martinez>
+1c817f4 -  add Unitex and GramLab IDE launcher scripts (6 years ago) <Cristian Martinez>
+048a3ae -  minor fix workspace home name (6 years ago) <Cristian Martinez>
+da57bd4 -  add modularize dependencies (6 years ago) <Cristian Martinez>
+8c6edc4 -  enhance script modules (6 years ago) <Cristian Martinez>
+2e28faa -  shell launchers are only created when necessary (6 years ago) <Cristian Martinez>
+c0af73b -  minor function names refactor (6 years ago) <Cristian Martinez>
+05cb2a8 -  rename to java-launcher (6 years ago) <Cristian Martinez>
+ea5b29e -  enhance launcher shell scripts without extension (6 years ago) <Cristian Martinez>
+3890bbf -  minor code refactor (6 years ago) <Cristian Martinez>
+20ac0a7 -  fix shell launchers names (6 years ago) <Cristian MARTINEZ>
+07ad182 -  fix to load workspaces paths if they already exist (6 years ago) <Cristian MARTINEZ>
+cbd4111 -  add portable echo command (6 years ago) <Cristian MARTINEZ>
+6984e23 -  minor fixes (6 years ago) <Cristian Martinez>
+49bc7f7 -  minor fixes (6 years ago) <Cristian Martinez>
+ba74c37 -  new java-launch script (6 years ago) <Cristian Martinez>
+a8b646e -  enhance setup creates now desktop entries (6 years ago) <Cristian Martinez>
+7062ca8 -  enhance license readability (6 years ago) <Cristian Martinez>
+dcf0120 -  refactor comment (6 years ago) <Cristian Martinez>
+9c258cc -  minor fix OS X 'open' as latest fallback (6 years ago) <Cristian Martinez>
+21a0126 -  include java detection support (6 years ago) <Cristian Martinez>
+b1247dd -  enhance user feedback (6 years ago) <Cristian Martinez>
+bf151ba -  enhance license text readability (6 years ago) <Cristian Martinez>
+326aa6b -  minor refactor messages (6 years ago) <Cristian Martinez>
+da4b284 -  minor fix no core sources warning (6 years ago) <Cristian Martinez>
+910389a -  new platform script file (6 years ago) <Cristian Martinez>
+88b5dec -  enhance add an installation completed message (6 years ago) <Cristian Martinez>
+386d710 -  fix shellcheck warnings (6 years ago) <Cristian Martinez>
+560fa2c -  add app setup script (6 years ago) <Cristian Martinez>
+92f458e -  add setup installer license template (6 years ago) <Cristian Martinez>
+a80d162 -  shellcheck now ignore makeself directory (6 years ago) <Cristian Martinez>
+28b4808 -  add makeself tool directory (6 years ago) <Cristian Martinez>
+2242ea5 -  add shell-ci-build travis support (6 years ago) <Cristian Martinez>
+7c27548 -  add mo library: mustache templates in pure bash (6 years ago) <Cristian Martinez>
+a095c98 -  new .gitignore file (6 years ago) <Cristian Martinez>
+b0c161c -  Update README.md (6 years ago) <Cristian Martinez>
+05c513d -  Update README.md (6 years ago) <Cristian Martinez>
+f06b8e1 -  Initial commit (6 years ago) <Cristian Martinez>

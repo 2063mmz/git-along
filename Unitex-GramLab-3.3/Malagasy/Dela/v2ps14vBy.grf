@@ -1,0 +1,51 @@
+#Unigraph
+SIZE 1872 903
+FONT Times New Roman:  12
+OFONT Arial Unicode MS:B 14
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+31
+"<E>/" 27 248 1 7 
+"" 836 246 0 
+":t1" 190 130 1 3 
+":2" 243 130 1 6 
+"<V+0+v2ps14vBy>/$V$" 358 113 1 5 
+"<E>/,$V.LEMMA$.$V.CODE$}" 517 113 2 9 26 
+"<E>/{" 301 167 3 4 24 27 
+"$<" 74 248 1 8 
+"<E>//" 105 248 4 2 10 16 22 
+"$>" 785 246 1 1 
+":t2" 187 291 2 15 29 
+"<V+ana+v2ps14vBy>/$V$" 353 291 1 12 
+"<E>/,$V.LEMMA$.$V.CODE$}" 515 291 1 14 
+"<E>/{" 297 291 1 11 
+":X" 598 291 1 9 
+":B" 239 291 1 13 
+":t6" 188 365 2 17 30 
+":B" 242 341 1 20 
+"<V+imprt+v2ps14vBy>/$V$" 352 365 1 19 
+"<E>/,$V.LEMMA$.$V.CODE$}" 516 365 1 21 
+"<E>/{" 298 365 1 18 
+":yy" 596 365 1 9 
+":t4" 188 165 1 23 
+":ps4" 229 165 1 6 
+"<V+v+v2ps14vBy>/$V$" 360 166 1 25 
+"<E>/,$V.LEMMA$.$V.CODE$}" 517 193 2 28 26 
+":prop" 581 113 1 9 
+"<V+c+v2ps14vBy>/$V$" 360 224 1 25 
+":pror" 582 193 1 9 
+":ps8" 233 211 1 6 
+":ps8" 239 392 1 20 

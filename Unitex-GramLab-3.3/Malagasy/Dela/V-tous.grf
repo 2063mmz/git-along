@@ -1,0 +1,30 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  12
+OFONT Arial Unicode MS:B 14
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+10
+"<E>" 42 225 8 2 3 4 5 6 7 8 9 
+"" 831 191 0 
+":V10ps+:V11ps+:V12ps+:V13ps+:V14ps+:V15ps+:V16ps+:V17ps+:V18ps+:V19ps" 226 152 1 1 
+":V1ps+:V2ps+:V3ps+:V5ps+:V6ps+:V7ps+:V8ps+:V9ps" 149 103 1 1 
+":V20ps+:V21ps+:V22ps+:V23ps+:V24ps+:V25ps+:V27ps+:V29ps" 299 257 1 1 
+":V-autres" 589 352 1 1 
+":V32ps+:V33ps+:V34ps+:V35ps+:V37ps" 226 379 1 1 
+":V41ps+:V42ps+:V43ps+:V44ps+:V45ps+:V46ps+:V47ps+:V48ps+:V49ps" 378 385 1 1 
+":V51ps+:V52ps+:V53ps+:V55ps+:V56ps+:V57ps+:V59ps" 476 405 1 1 
+":V64ps" 559 460 1 1 

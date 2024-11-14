@@ -1,0 +1,136 @@
+bb65d45 -  (HEAD, tag: v3.3-rc, tag: v3.3, origin/master, origin/HEAD, master) [minor ci] Bump v3.3beta (4 months ago) <Cristian Martinez>
+f518310 -  (tag: v3.3-beta) [minor refactor] Update copyright date to 2021 (4 months ago) <Cristian Martinez>
+947340e -  [minor fix] Avoid error status if maven files are missing (1 year, 2 months ago) <Cristian Martinez>
+0c73b31 -  [minor fix] Update travis config (1 year, 2 months ago) <Cristian Martinez>
+af0bcec -  [minor refactor] Update copyright date to 2020 (1 year, 2 months ago) <Cristian Martinez>
+d3c5922 -  (tag: v3.3-alpha, tag: v3.2) [minor refactor] Update copyright date to 2019 (2 years, 7 months ago) <Cristian Martinez>
+38270d8 -  Update .travis.yml (2 years, 9 months ago) <Cristian Martinez>
+f6977ce -  [ci minor fix] Follow redirections (2 years, 9 months ago) <Cristian Martinez>
+b5668e9 -  (tag: v3.2-rc) Update .travis.yml (2 years, 11 months ago) <Cristian Martinez>
+b9e8184 -  (tag: v3.2-beta) [enhance] Identify chinese language ID (3 years ago) <Cristian Martinez>
+3c3ed40 -  (origin/develop) [refactor] Update Unitex/GramLab download url (4 years, 7 months ago) <Cristian Martinez>
+12299df -  Update links (4 years, 7 months ago) <Cristian Martinez>
+a5cae1f -  [feature] Add splash screen (4 years, 7 months ago) <Cristian Martinez>
+5091c28 -  Update icons (4 years, 7 months ago) <Cristian Martinez>
+0fbecd6 -  [fix] Resolve issue with bitmap images on Win > XP (4 years, 7 months ago) <Cristian Martinez>
+7a40d41 -  Enable latest-alpha installer creation (4 years, 7 months ago) <Cristian Martinez>
+f4b007b -  Don't inherit explicitly email notification on forks (4 years, 7 months ago) <Cristian Martinez>
+73e60a0 -  Update nsis to v3.01 nsis-install.sh (4 years, 7 months ago) <Cristian Martinez>
+b37a387 -  [feature] Add new installer theme (4 years, 7 months ago) <Cristian MARTINEZ>
+003ef48 -  Update .gitignore (4 years, 7 months ago) <Cristian MARTINEZ>
+4d5b7a4 -  [minor refactor] Update copyright date to 2017 (4 years, 8 months ago) <Cristian Martinez>
+6d68fee -  [minor fix] Add backward compatibility with v3.1 (5 years ago) <Cristian Martinez>
+014acb3 -  Update NSIS version from 3.0b0 to 3.0 (5 years ago) <Cristian Martinez>
+738f47b -  Update for compatibility with Vinber 2.0.0 (5 years ago) <Cristian Martinez>
+c2a5389 -  remove unitex1.ico (5 years ago) <Cristian MARTINEZ>
+cc40beb -  (tag: v3.2-alpha) Update README.md (5 years ago) <Cristian Martinez>
+361219f -  Update README.md (5 years ago) <Cristian Martinez>
+12f918b -  update README.md [ci skip] (5 years ago) <Cristian MARTINEZ>
+d223508 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+a90f508 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+76bafe6 -  update patch (5 years ago) <Cristian MARTINEZ>
+03e50a0 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+d656a24 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+0a51282 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+d509c7b -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+ed4ae83 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+14683db -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+3b0895e -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+f96c975 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+ce06baf -  update nsis patch (5 years ago) <Cristian MARTINEZ>
+e1db9a3 -  add -fpermissive as workaround when compiled on Travis (5 years ago) <Cristian MARTINEZ>
+2c99a03 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+35252b5 -  enhance nsis-install.sh (5 years ago) <Cristian MARTINEZ>
+6b5eb39 -  add nsis-3.0a2 patch (5 years ago) <Cristian MARTINEZ>
+823e748 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+f624292 -  minor fix (5 years ago) <Cristian MARTINEZ>
+c03b32d -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+5854113 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+9a46dc3 -  minor fix (5 years ago) <Cristian MARTINEZ>
+d79fcc8 -  minor fix nsis patch (5 years ago) <Cristian MARTINEZ>
+c5e749d -  minor fix nsis patch (5 years ago) <Cristian MARTINEZ>
+97d5483 -  minor shellcheck fix SC2155 (5 years ago) <Cristian MARTINEZ>
+93598fe -  compile nsis from sources (5 years ago) <Cristian MARTINEZ>
+a277f4b -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+87df950 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+7af2c81 -  update nsis-install.sh (5 years ago) <Cristian MARTINEZ>
+a863830 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+aea6327 -  update nsis-install.sh (5 years ago) <Cristian MARTINEZ>
+f3f78e3 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+629d1a4 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+656809f -  update nsis-install.sh (5 years ago) <Cristian MARTINEZ>
+0d59680 -  add execution permissions (5 years ago) <Cristian MARTINEZ>
+591f6a7 -  add script to install nsis (5 years ago) <Cristian MARTINEZ>
+81cf5b6 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+118c249 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+648379f -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+23fdbb1 -  minor fix .travis.yml (5 years ago) <Cristian MARTINEZ>
+e6760a1 -  fix #6 add repository to Travis CI (5 years ago) <Cristian MARTINEZ>
+394b047 -  update README.md (5 years ago) <Cristian MARTINEZ>
+483ab3b -  update LGPLLR link (5 years ago) <Cristian MARTINEZ>
+3e21b28 -  replace Close button label on the uninstall page (5 years ago) <Cristian MARTINEZ>
+e6b0484 -  refactor: install/uninstall messages (5 years ago) <Cristian Martinez>
+0227a88 -  minor: replace Gramlab.last by GramLab.last (6 years ago) <Cristian Martinez>
+86489c1 -  gramlab_revision.date and revision.date are no longer used (6 years ago) <Cristian Martinez>
+72fb08b -  minor: refactor copyright year (6 years ago) <Cristian Martinez>
+36310f7 -  fix #4: IDEs are launched only if a desktop shortcut was created (6 years ago) <Cristian Martinez>
+b606c9f -  refactor: spaces by tabs (6 years ago) <Cristian Martinez>
+1cbf77d -  minor: rename README.txt to README.md (6 years ago) <Cristian Martinez>
+f06ba00 -  Update unitex.nsi (6 years ago) <Cristian Martinez>
+d1c1099 -  hotfix: /nonfatal for third-party files (6 years ago) <Cristian Martinez>
+b6d02df -  enhance:  introducing App/lib hierarchy (6 years ago) <Cristian Martinez>
+cb14878 -  minor enhance: install disclaimers recursively (6 years ago) <Cristian Martinez>
+70c780c -  minor: add LICENSE.md (6 years ago) <Cristian Martinez>
+0737b23 -  enhance: english linguistic resources are not longer marked as required (6 years ago) <Cristian Martinez>
+43d320f -  fix #2 - GramLab Java IDE depends upon Unitex.jar (6 years ago) <Cristian Martinez>
+7cda6cf -  fix #3 - allow user to create workspace at a disk root (6 years ago) <Cristian Martinez>
+3b982a4 -  minor fix: install disclaimers inside disclaimers folder (6 years ago) <Cristian Martinez>
+f075427 -  enhance: support Licenses and Disclaimers dirs (6 years ago) <Cristian Martinez>
+44c7277 -  enhance: add Win64 binaries installation support (6 years ago) <Cristian Martinez>
+d25c837 -  Update Apache license file version (6 years ago) <Cristian Martinez>
+6fb8fce -  Update README.md (6 years ago) <Cristian Martinez>
+dfdd478 -  Update README.md (6 years ago) <Cristian Martinez>
+b0b18ff -  minor: revert OUTPUT_PACKAGES_DIR to OUTPUT_RELEASES_DIR (6 years ago) <Cristian Martinez>
+b98365d -  minor: OUTPUT_RELEASES_DIR is now OUTPUT_PACKAGES_DIR (6 years ago) <Cristian Martinez>
+ec11013 -  minor: remove option to update the latest releases directory (6 years ago) <Cristian Martinez>
+a61f1f2 -  minor: remove option to compute the SHA1 hash (6 years ago) <Cristian Martinez>
+5264297 -  minor: remove option to compute the MD5 checksum (6 years ago) <Cristian Martinez>
+8672319 -  Update README.md (6 years ago) <Cristian Martinez>
+a3b8a74 -  minor: changing default input package name prefix (6 years ago) <Cristian Martinez>
+ea2df1b -  minor change rename README.TXT to README.txt (6 years ago) <Cristian Martinez>
+911c224 -  Update README.md (6 years ago) <Cristian Martinez>
+48b191d -  minor fix: fr/UnitexManual to fr/ManuelUnitex (6 years ago) <Cristian Martinez>
+169e355 -  minor fix: add trailing slash to timestamp directory (6 years ago) <Cristian Martinez>
+a4097f7 -  minor fix: checkout directory are now timestamp (6 years ago) <Cristian Martinez>
+59a7c1b -  Update README.md (6 years ago) <Cristian Martinez>
+299b804 -  refactor: fix comments (6 years ago) <Cristian Martinez>
+5cebde1 -  minor fix: manuals are now bundled in App/manual (6 years ago) <Cristian Martinez>
+797ee97 -  add -DFINALIZE_SIGN_FILE definition to call signcode tool (6 years ago) <martinec>
+6ea90ca -  Update README.md (6 years ago) <Cristian Martinez>
+49b74d3 -  Update README.md (6 years ago) <Cristian Martinez>
+eff8ca5 -  minor refactor spaces (7 years ago) <martinec>
+cdb8cae -  enhance Internet client plug-in is now bunndled with the project (7 years ago) <martinec>
+23ddede -  refactor unitex description (7 years ago) <martinec>
+f084ff4 -  minor cosmetic change (7 years ago) <martinec>
+a171dc2 -  minor cosmetic change (7 years ago) <martinec>
+9fdae29 -  replace all references to Linguistic Resources by Language Resources (7 years ago) <martinec>
+9fb5c82 -  Update README.md (7 years ago) <martinec>
+7a68d8d -  minimal JRE version is now 1.7 (7 years ago) <martinec>
+ae62142 -  update homepage and forum urls (7 years ago) <martinec>
+5971800 -  minor fix bugs ulr link (7 years ago) <martinec>
+e011bf8 -  enhance launch unitex after completing the installation (7 years ago) <martinec>
+7d110bd -  enhance add a new page to select workspace folders (7 years ago) <martinec>
+93cb53f -  refactor message (7 years ago) <martinec>
+3616381 -  update LGPL-LR url (7 years ago) <martinec>
+8c8e2f3 -  update JRE installer link processing (7 years ago) <martinec>
+e3b5c50 -  minor refactor code comments (7 years ago) <martinec>
+24ed7b2 -  add licensing information section (7 years ago) <martinec>
+abf364e -  add contributing section (7 years ago) <martinec>
+8312e92 -  add installer features section (7 years ago) <martinec>
+87f9a11 -  add command line parameters section (7 years ago) <martinec>
+dbda50e -  add compilation section (7 years ago) <martinec>
+eb8132a -  add dependencies section (7 years ago) <martinec>
+2c38788 -  add intro section (7 years ago) <martinec>
+902af8d -  new unitex installer NSIS files (7 years ago) <martinec>
+c254502 -  new gitignore file (7 years ago) <martinec>
+d365cf9 -  Initial commit (7 years ago) <martinec>

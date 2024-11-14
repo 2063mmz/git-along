@@ -1,0 +1,365 @@
+0f3b6e9 -  (HEAD, origin/master, origin/HEAD, master) what's new from 3.2 to 3.3 (#56) (8 hours ago) <Eric Laporte>
+0f89729 -  (tag: v3.3-rc, tag: v3.3) Bump version to v3.3-rc (2 months ago) <Cristian Martinez>
+bf64201 -  [ci minor hotfix] Return true from apt update (4 months ago) <Cristian Martinez>
+e637e28 -  [ci minor fix] Increase apt timeout and retries (4 months ago) <Cristian Martinez>
+08575ad -  (tag: v3.3-beta) [minor refactor] Update copyright date to 2021 (4 months ago) <Cristian Martinez>
+238bac6 -  (tag: v3.3-alpha) Bump version to 3.3.0 (1 year, 3 months ago) <Cristian Martinez>
+c043780 -  [ci minor fix] Update github API key (1 year, 8 months ago) <Cristian Martinez>
+e6a17ba -  [ci minor fix] Update github API key (1 year, 8 months ago) <Cristian Martinez>
+dc49392 -  (tag: v3.2) [doc minor feature] Add UniRunScript options (#55) (1 year, 9 months ago) <Eric Laporte>
+1603111 -  Minor changes new features authors (#52) (1 year, 9 months ago) <Eric Laporte>
+ce42868 -  list new features of 3.2 and update list of authors of doc (#51) (1 year, 9 months ago) <Eric Laporte>
+b65f05f -  fix issue #18 (#41) (2 years, 2 months ago) <Eric Laporte>
+b3008d0 -  fix issue #16 on Explore graph paths (#40) (2 years, 2 months ago) <Eric Laporte>
+faa366c -  Fix issue #15 (#39) (2 years, 2 months ago) <Eric Laporte>
+f0e9b92 -  fix ref to section 3.6 from section3.5.4 (#38) (2 years, 2 months ago) <Eric Laporte>
+4ee9db1 -  Revise part 12.3 (tagging generalization graphs) (#37) (2 years, 2 months ago) <Eric Laporte>
+f326d09 -  fix/button-tgg (#36) (2 years, 2 months ago) <Eric Laporte>
+cd3675c -  Documenting Find and Replace (#34) (2 years, 4 months ago) <Eric Laporte>
+a97302f -  Update 12-cassys_EN_utf8.tex (#33) (2 years, 5 months ago) <Eric Laporte>
+25822aa -  Enhance documentation of the Standoff option of CasSys (#31) (2 years, 5 months ago) <Eric Laporte>
+fafeed2 -  Documenting the use of Unitex/GramLab through scripts (#30) (2 years, 5 months ago) <Eric Laporte>
+8f8e4a5 -  documenting vowel omission in Arabic (#27) (2 years, 6 months ago) <Eric Laporte>
+845b74b -  intro-dict-graphs (#26) (2 years, 6 months ago) <Eric Laporte>
+eae917a -  doc menu character size setting (#25) (2 years, 6 months ago) <Eric Laporte>
+12d6e8c -  Update README.md (2 years, 6 months ago) <Cristian Martinez>
+8303140 -  [enhance] Update CasSys' generic graphs documentation (2 years, 6 months ago) <Denis Maurel>
+f6cd4c4 -  [minor refactor] Merge the two DumpOffset section in french manual (2 years, 6 months ago) <Gilles Vollant>
+0753b83 -  Update doc to match new options and minor fix (#23) (2 years, 7 months ago) <Kalkhas>
+5bc10e7 -  [minor refactor] Update copyright date to 2019 (2 years, 7 months ago) <Cristian Martinez>
+dd334a6 -  [ci minor fix] Update deployment task (2 years, 9 months ago) <Cristian Martinez>
+aee1c19 -  (tag: v3.2-rc) [bin minor fix] Rename PNG to png (2 years, 10 months ago) <Cristian Martinez>
+4dcb442 -  [refactor] Update generalization graphs (2 years, 10 months ago) <MaxenceRobin>
+7d7bbba -  (tag: v3.2-beta) Update CasSys manual (3 years, 2 months ago) <MaxenceRobin>
+da51193 -  correcting spelling errors (#10) (3 years, 11 months ago) <Eric Laporte>
+694ac4c -  Update website url (4 years, 6 months ago) <Cristian Martinez>
+4168c7b -  Add warning about CasSys (4 years, 7 months ago) <Anubhav>
+96f4164 -  [minor refactor] Update copyright date to 2017 (4 years, 8 months ago) <Cristian Martinez>
+ea7506c -  [minor refactor] Rename generic graphs (4 years, 9 months ago) <Anubhav>
+e4e5de3 -  Update LICENSE (5 years ago) <Cristian Martinez>
+6aea502 -  [minor fix] Resolve spelling issues (5 years ago) <Mukarram Tailor>
+7beb6ac -  Java 7 JRE/JDK or superior is recommended to run the IDE (5 years ago) <Cristian MARTINEZ>
+92c49d7 -  Update README.md (5 years ago) <Cristian Martinez>
+344a6e2 -  (tag: v3.2-alpha) update .travis.yml (5 years ago) <Cristian MARTINEZ>
+91931fc -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+7fe3897 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+b4c3ea6 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+6be369e -  update install-latex-dependencies.sh (5 years ago) <Cristian MARTINEZ>
+e7c6fad -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+3eb92f8 -  update install-latex-dependencies.sh (5 years ago) <Cristian MARTINEZ>
+1498330 -  update install-latex-dependencies.sh (5 years ago) <Cristian MARTINEZ>
+8d3024f -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+c913211 -  update install-latex-dependencies.sh (5 years ago) <Cristian MARTINEZ>
+e011536 -  update README.md (5 years ago) <Cristian MARTINEZ>
+d29fe81 -  update install-latex-dependencies.sh (5 years ago) <Cristian MARTINEZ>
+4f574ff -  update README.md (5 years ago) <Cristian MARTINEZ>
+fc09c86 -  update install-latex-dependencies.sh (5 years ago) <Cristian MARTINEZ>
+dcbf139 -  update install-latex-dependencies.sh (5 years ago) <Cristian MARTINEZ>
+40ae327 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+ac0cf44 -  update install-latex-dependencies.sh (5 years ago) <Cristian MARTINEZ>
+1e8c060 -  update install-latex-dependencies.sh (5 years ago) <Cristian MARTINEZ>
+da1e352 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+54fd225 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+21320ff -  add install-latex-dependencies.sh (5 years ago) <Cristian MARTINEZ>
+6c2e773 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+a978a46 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+c66fb98 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+9bcc7ce -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+30afdb1 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+75a35f2 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+b05283a -  add .travis.yml (5 years ago) <Cristian MARTINEZ>
+91f75ee -  update README.md (5 years ago) <Cristian MARTINEZ>
+a4faf60 -  Update README.md (5 years ago) <Cristian Martinez>
+40176f9 -  rename latex to tex (5 years ago) <Cristian MARTINEZ>
+fc4d9f9 -  Update README.md (5 years ago) <Cristian Martinez>
+690d4b5 -  Update README.md (5 years ago) <Cristian Martinez>
+4a42096 -  use v3.2alpha by default (5 years ago) <Cristian MARTINEZ>
+9968b7a -  ignore compilation residual files (5 years ago) <Cristian MARTINEZ>
+03ba17b -  move latex files into the latex directory (5 years ago) <Cristian MARTINEZ>
+88558b2 -  ignore .fst2 files (5 years ago) <Cristian MARTINEZ>
+8a2b094 -  add .gitignore files (5 years ago) <Cristian MARTINEZ>
+15e2123 -  add LGPLLR license (5 years ago) <Cristian MARTINEZ>
+9faf0ad -  remove residual files (5 years ago) <Cristian MARTINEZ>
+2664111 -  add license (5 years ago) <Cristian MARTINEZ>
+5c98620 -  remove unitex library documentation (5 years ago) <Cristian MARTINEZ>
+036758b -  reverting unconsensual changes of r 4297 on French user's manual (5 years ago) <Eric Laporte>
+81a292f -  Update of chapter 7 of English and French Manual after revision 4272. Correcting a typo in chapter 14 of English user manual. (5 years ago) <Eric Laporte>
+8772ee1 -  refactor: there are no current plans to remove legacy codes (5 years ago) <Cristian Martinez>
+c5daf47 -  revert 4296 (reformulation required) (5 years ago) <Claude Martineau>
+9db498e -  minor corrections (5 years ago) <Claude Martineau>
+b658970 -  Minor correction on chapter 4 of French manual (6 years ago) <Eric Laporte>
+152de46 -  Corrections on chapter 7 of English and French manual (6 years ago) <Eric Laporte>
+67b4062 -  fix bad index page numbers (6 years ago) <Cristian Martinez>
+3975b13 -  fix typo double splace (6 years ago) <Gilles Vollant>
+697fd6a -  Minor corrections on the manual in English and French: intro and chapter 1 (6 years ago) <Eric Laporte>
+59ad79c -  minor update about developer info in Manual (6 years ago) <Gilles Vollant>
+84c9325 -  Update the section on generic graphs. (6 years ago) <Silver Estla>
+a6648f6 -  Replace Cassys by CasSys (6 years ago) <Silver Estla>
+0af5650 -  like revision 1220 and 2059, 2691, 3390, 3539 and 3753, Updating copyright to 2016 (6 years ago) <Gilles Vollant>
+0fac5c6 -  minor enhance: add linux installer screenshot (6 years ago) <Cristian Martinez>
+ff6b629 -  minor enhance: installer's command line presentation (6 years ago) <Cristian Martinez>
+502b116 -  add a file including a screenshot of the linux installer (6 years ago) <Cristian Martinez>
+ecfc89d -  minor typo in English and French manual, chapter 3 (6 years ago) <Eric Laporte>
+b233527 -   (6 years ago) <Eric Laporte>
+a19a0fd -  adding doc on Arabic transliteration in the English user manual; inserting figure about installer in English and French user manual (6 years ago) <Eric Laporte>
+1a19077 -  adding doc on Arabic transliteration in the English user manual; inserting figure about installer in English and French user manual (6 years ago) <Eric Laporte>
+a59abaa -  minor typo in user manual in English (6 years ago) <Eric Laporte>
+249e40f -  updating doc on installation in French; minor corrections in English (6 years ago) <Eric Laporte>
+b2c4598 -  dummy: french hyphenation is working again (6 years ago) <Cristian Martinez>
+b334f38 -  minor enhance: add missing third-party license information (6 years ago) <Cristian Martinez>
+df45ebd -  updating doc on installation (6 years ago) <Eric Laporte>
+f690e74 -  minor refactor: installation documentation (6 years ago) <Cristian Martinez>
+1e2a5e9 -  minor fix r4222 (6 years ago) <Cristian Martinez>
+54f210a -  enhance: templated version information (6 years ago) <Cristian Martinez>
+1f6ede4 -  updating doc on installation; adding doc on installers (6 years ago) <Eric Laporte>
+eddf9c5 -  minor update: harmonize version variable names with build system (6 years ago) <Cristian Martinez>
+24a35ef -  rename LICENSE.md to LICENSE (6 years ago) <Cristian Martinez>
+44e9e4d -  enhance: add a main license notice for the documentation distributed with Unitex/GramLab (6 years ago) <Cristian Martinez>
+408fba9 -  testing \selectlanguage{french} as a solution for hyphenation in the French manual (6 years ago) <Eric Laporte>
+58b7cec -  minor enhance: allow variables with underscores (6 years ago) <Cristian Martinez>
+9cc3863 -  minor: refactor newline (6 years ago) <Cristian Martinez>
+2a3a73f -  update Makefiles using a common dependency (6 years ago) <Cristian Martinez>
+455e46c -  minor: use hyphenat package (6 years ago) <Cristian Martinez>
+ddeb1f5 -  Conversion of latex diacritics in utf8 (6 years ago) <Claude Martineau>
+bb3daa5 -  LaTeX Warning float specifier for english manual fixed (6 years ago) <Claude Martineau>
+86835a0 -  LaTeX Warning float specifier for french manual fixed (6 years ago) <Claude Martineau>
+9fba1ce -  improve index generation avoiding to use verb inside index entries (6 years ago) <Cristian Martinez>
+2079dc2 -  add a indexstyle file to fix the index page intervals (6 years ago) <Cristian Martinez>
+3f0f3f0 -  Information on DumpOffsets (-d) (6 years ago) <Silver Estla>
+21e9adb -  add alternative Makefile (6 years ago) <Cristian Martinez>
+6bd2d4c -  fixing minor errors in the French and English manuals (6 years ago) <Eric Laporte>
+245746f -  adding license information in English and French manuals (6 years ago) <Eric Laporte>
+b2c09f3 -  minor corrections in the index of the English and French manuals (6 years ago) <Eric Laporte>
+feb072d -  standardizing designation of directories in the English manual; minor corrections on the index of the English manual (6 years ago) <Eric Laporte>
+632eb4f -  add a Version.tex file including Unitex/GramLab release information (6 years ago) <Cristian Martinez>
+ab3adf8 -  standardizing designation of directories in the English and French manuals (6 years ago) <Eric Laporte>
+74b8221 -  use another method to convert fig2-10.svf to pdf with better result (6 years ago) <Gilles Vollant>
+2309167 -  Chapters 5 and 6 of the manual in English and in French: inserting reference to shortcuts in sections on variables (6 years ago) <Eric Laporte>
+60cf63c -  Chapters 5 and 6 of the manual in English and in French: inserting info about variable redefinition; other minor reformulations; Chapter 2: converting a figure to PDF (6 years ago) <Eric Laporte>
+bf31fe1 -  Converting a figure to PDF in user manual (6 years ago) <Eric Laporte>
+cb5d570 -  Restoring automatic date in user manual (6 years ago) <Eric Laporte>
+ceac008 -  Chapters 2, 4 and 6 of the manual in English and in French: inserting more information about the deprecation of earlier lexical masks (6 years ago) <Eric Laporte>
+3819b3e -  Chapters 2, 4 and 6 of the manual in English and in French: inserting more information about the deprecation of earlier lexical masks (6 years ago) <Eric Laporte>
+9bec144 -  Added new lexical masks: <FIRST>, <UPPER>, <LOWER>, <LETTER> and <WORD> (6 years ago) <Silver Estla>
+7baa066 -  more info about JPEG and PNG (6 years ago) <Gilles Vollant>
+a667be3 -  add tips for convert SVG graph to PDF or EPS with Inkscape (6 years ago) <Gilles Vollant>
+d012544 -  minor fixes in English and French manuals (6 years ago) <Eric Laporte>
+105383d -  Updating \title and \date in the manual (6 years ago) <Eric Laporte>
+b613df2 -  Updating \title and \date in the manual (6 years ago) <Eric Laporte>
+a08a69f -  List of changes from 3.0 to 3.1 in the English and French manual. Updating chapter 5 of the English and French manual for graph export. (6 years ago) <Eric Laporte>
+920c474 -  Temporary revert of automated change of date in the English and French manual (dependent of a package not installed where I am editing and currently unavailable) (6 years ago) <Eric Laporte>
+f673ae5 -  rename -V option in DumpOffsets to -M to let -V free on all tools (6 years ago) <Gilles Vollant>
+b498351 -  information on generic graphs (6 years ago) <Silver Estla>
+57c267e -  Update information on generic graphs. (6 years ago) <Silver Estla>
+e82c668 -  minor documentation update about offsets (6 years ago) <Gilles Vollant>
+f0280cd -  Added information on generic graphs. (6 years ago) <Silver Estla>
+aec2839 -  Added new images to illustrate the functioning of generic graphs. (6 years ago) <Silver Estla>
+0a221f7 -  Documentation on Generic graphs (6 years ago) <Silver Estla>
+6a37b65 -  Fst2List can output to standard console (6 years ago) <Gilles Vollant>
+7e99ea2 -  fix line break in DumpOffset english manual (6 years ago) <Gilles Vollant>
+08be4bc -  DumpOffsets update Automatic change of date of the manual added (6 years ago) <Claude Martineau>
+0946249 -  DumpOffsets update in english manual (6 years ago) <Claude Martineau>
+86ed968 -   (6 years ago) <Claude Martineau>
+7506dc9 -   (6 years ago) <Claude Martineau>
+3faeaf8 -  remove DumpOffsets doc in english manual (6 years ago) <Gilles Vollant>
+e5e1f86 -  manuals update (6 years ago) <Gilles Vollant>
+38536d0 -  Uses PDF for two graph in english manual (6 years ago) <Gilles Vollant>
+927bbb7 -  Uses PDF for two graph in french manual (6 years ago) <Gilles Vollant>
+4719e93 -  Manual FR import repere picture as PDF (6 years ago) <Gilles Vollant>
+86915a2 -  fix in french manual (6 years ago) <Gilles Vollant>
+ddbb7a8 -  fix in french manual (6 years ago) <Gilles Vollant>
+08385d5 -  fix in french manual (6 years ago) <Gilles Vollant>
+e822f75 -  typo in manual (6 years ago) <Gilles Vollant>
+190168f -  update french Unitex Manual for documentation about offsets, and both french and english manual for LibYAML licence and java for osx 10.7 and higher (6 years ago) <Gilles Vollant>
+a68b49f -   (6 years ago) <Claude Martineau>
+b66919e -  add link for Java for modern MacOSX (6 years ago) <Gilles Vollant>
+ce3cec9 -  inserting information on right and left contexts (part 6.3) and Cassys (parts 6.10 and 12.2) in the English and French manual (6 years ago) <Eric Laporte>
+8188ef9 -  inserting a figure on right contexts (part 6.3) in the English and French manual (6 years ago) <Eric Laporte>
+16d87f9 -  inserting information in chapters 2-4 of the English and French manual (6 years ago) <Eric Laporte>
+af70f91 -  add -halt-on-error -interaction=batchmode to pdflatex (7 years ago) <Cristian Martinez>
+05fb2df -  Little corrections on page 56 (7 years ago) <Claude Martineau>
+6808747 -  Update English and French manual, chapters 2,3 and 6, on dictionary graphs, morphological dictionary graphs and morphological mode. Small corrections on the alphabetical index (7 years ago) <Eric Laporte>
+b91406d -  - substituting 3.1beta for 3.0 in chapter 1 (Installation) of the manual in English and in French - fixing small problems in the index (7 years ago) <Eric Laporte>
+964a866 -  Fixing problems in the index in Chapters 7 and 14 of the French manual (7 years ago) <Eric Laporte>
+3cdf38f -  Updating the manual Chapter 2 in French: correction index Ch 5 in English - small corrections 5.2.1 - add info from French manual on encoding 5.2.1 - add ref to part 6.2.4 (number of repetitions) from 5.2.1 - correct error and add new info on weights 5.2.4 Ch 5 in French - small corrections 5.2.1 - add ref to part 6.2.4 (number of repetitions) from 5.2.1 - correct error and add new info on weights 5.2.4 - correct index 5.2.1 ch 6 in English and in French: add new info and index items on number of repetitions in 6.2.3 which becomes 6.2.4 ch 13 in English - correct obscure passage in 13.48 - small corrections in text and index items ch 13 in French - correct obscure passage in 13.48 - small corrections in text and index items (7 years ago) <Eric Laporte>
+7230a74 -  update MultiFlex_semitic.ulp logs to uses new option --always-recompile-graphs (7 years ago) <Gilles Vollant>
+fd000db -  Latex bug fixed (7 years ago) <Claude Martineau>
+f4d19e2 -  - insertion of date into manual - removal of obsolete part on MacOS installation (SoyLatte and 'How to compile Unitex C++ programs on a Macintosh') (7 years ago) <Eric Laporte>
+153b8c2 -  fixing a bug in the index (7 years ago) <Eric Laporte>
+f58035e -  editing the user manual, sections 4.3.3 and 4.3.4; correcting the index to chapter 4 (7 years ago) <Eric Laporte>
+eb52174 -  correcting error in table of contents of user manual in English completing table of contents of user manual in French (7 years ago) <Eric Laporte>
+092b7a7 -  insert 'weight' in index of user manual insert reference to naming conventions for dictionary-graphs in section about morphological mode (7 years ago) <Eric Laporte>
+11a113b -  correct an error in user manual bibliography correct a phrase in section 6.9.3 of user manual in English insert bibliography and index in table of contents in user manual in English (7 years ago) <Eric Laporte>
+c29a602 -   (7 years ago) <Claude Martineau>
+2f38028 -  correction of an error on authors' names (7 years ago) <Eric Laporte>
+baa5b0f -  inserting documentation about equations for querying dictionary-entry variables (7 years ago) <Eric Laporte>
+15c5777 -  corrections and insertions in chapter 3 of manual (7 years ago) <Eric Laporte>
+1a68b64 -  fixing a problem of index in the manual (7 years ago) <Eric Laporte>
+d7c7c18 -  correction in the manual, chapter 6, pb of layout (7 years ago) <Eric Laporte>
+4e5f9fd -  correction of the index of the manual (7 years ago) <Eric Laporte>
+e25d60a -  correction of the index of the manual (7 years ago) <Eric Laporte>
+f3bf6ce -  terminological changes in the manual, chapters 5, 6, 12-14 (7 years ago) <Eric Laporte>
+bc4377b -  terminological changes on chapter 5 of manual (7 years ago) <Eric Laporte>
+ac7d55b -  terminological changes in the manual, chapters 3 and 4 (7 years ago) <Eric Laporte>
+8cf91f8 -  insertion of two figures for chapter 3 of the manual (8 years ago) <Eric Laporte>
+ad89920 -  inserting information on the semitic mode of inflection in the manual (8 years ago) <Eric Laporte>
+991ce8a -  corrections and insertions in chapters 3, 6 and 11 of the manual (8 years ago) <Eric Laporte>
+713c7e1 -  inserting information on left contexts in chapter 6 of the manual (8 years ago) <Eric Laporte>
+707e86d -  updating the CasSys manual according to current behaviour (8 years ago) <Eric Laporte>
+204b1d4 -  correction of a lexical error in the manual, part 3 (8 years ago) <Eric Laporte>
+5646e6b -  terminological change from 'normal variable' to 'input variable' in the French manual (8 years ago) <Eric Laporte>
+4dca6c7 -  update documentation about FSGraph and correct a lexical error (8 years ago) <Eric Laporte>
+4b86c92 -  insertions and corrections in the Multiflex manual (8 years ago) <Eric Laporte>
+19646eb -  insertion of info on .unitex.cfg file (8 years ago) <Eric Laporte>
+b8bb20a -  documentation after fixing the .unitex.cfg bug (8 years ago) <Eric Laporte>
+2a54f38 -  fixed syntax error in manual, chapter 4 (8 years ago) <Eric Laporte>
+0f612fc -  correcting an error in chapter 5 (8 years ago) <Eric Laporte>
+e1fc0ef -  Bug fix (8 years ago) <Claude Martineau>
+682f9a3 -  Removing ISO 8859-1 tex files of the English Manual (8 years ago) <Claude Martineau>
+e42f453 -  Removing dvi and pdf (8 years ago) <Claude Martineau>
+2821f82 -   (8 years ago) <Claude Martineau>
+438f84f -  Adding utf8 version of english manual (8 years ago) <Claude Martineau>
+d23cd4a -  terminological change from 'normal variable' to 'input variable' and from 'morphological variable' to 'dictionary-entry variable' (8 years ago) <Eric Laporte>
+34049ac -  lexical corrections on chapters 6 and 9 (8 years ago) <Eric Laporte>
+cfccb03 -  corrections and extensions of sections 6.4.4 and 7.7 on dictionary-entry variables, in English and in French (8 years ago) <Eric Laporte>
+d042bc5 -   (8 years ago) <Eric Laporte>
+f3c0d10 -  corrections lexicales sur l'introduction et le chapitre 6 (8 years ago) <Eric Laporte>
+da1d64c -  insertion of information about weights in chapter 5; lexical corrections in chapters 5 and 13 (8 years ago) <Eric Laporte>
+c4fb1e2 -  spelling corrections (8 years ago) <Eric Laporte>
+d5e85a0 -  corrections in section about morphological mode (8 years ago) <Eric Laporte>
+2882fd8 -  mention du clic central en linux pour ouvrir un sous-graphe (8 years ago) <Eric Laporte>
+a6312bf -  mention middle-click for opening subgraph in Linux (8 years ago) <Eric Laporte>
+6a5bdc1 -  Corrections from Agata Savary (8 years ago) <Claude Martineau>
+2f3fc98 -  Updating 3.5.2 (8 years ago) <Claude Martineau>
+98ca26e -  adding advanced flexion operators (8 years ago) <Claude Martineau>
+e9666eb -  Adding SelectOutput option (8 years ago) <Claude Martineau>
+eaefe49 -  Updating CasSys (8 years ago) <Claude Martineau>
+050182f -  Adding some images (screen captures) and changing the name of the option iter to its definitive name Until fix point... (8 years ago) <Nathalie Friburger>
+e036506 -   (8 years ago) <Claude Martineau>
+258fa85 -  Adding french version of the manual (8 years ago) <Claude Martineau>
+d7a8b79 -  Adding PNG for advanced flexion operators (8 years ago) <Claude Martineau>
+2eabde9 -  bug fix in latex (8 years ago) <Claude Martineau>
+4d97cc5 -  The new chapter on Cassys , rewritten and appended with all the changes made these last months. (8 years ago) <Nathalie Friburger>
+f1f020b -  Two new images for chapter 12 on Cassys (8 years ago) <Nathalie Friburger>
+d6be685 -  Changing version in the title to 3.1beta (8 years ago) <Sebastien Paumier>
+1394855 -  Removing unknown BlankLine command (8 years ago) <Sebastien Paumier>
+6aee841 -   (8 years ago) <Nathalie Friburger>
+9ba442d -  preview of french UnitexLib tutorial (9 years ago) <Gilles Vollant>
+4e1a3ef -  rename AB->A.png AB_to_A.png to avoid windows fs compatibility problem (9 years ago) <Gilles Vollant>
+20c8591 -  Added xml-output and apply while functionnalities (9 years ago) <David Nott>
+f657289 -  Added description for : 1) export / import feature 2) disabled field 3) automatic use of morphological dictionnaries (9 years ago) <Nathalie Friburger>
+27035b1 -  Creating version 3.0 (9 years ago) <Sebastien Paumier>
+87ab82d -   (9 years ago) <Adrien Durand>
+83f87d7 -  misc jni doc complement (9 years ago) <Gilles Vollant>
+66aac49 -   (9 years ago) <Adrien Durand>
+c899a35 -   (9 years ago) <Adrien Durand>
+8eab664 -   (9 years ago) <Adrien Durand>
+0352cf6 -   (9 years ago) <Adrien Durand>
+22367eb -   (9 years ago) <Adrien Durand>
+b8a86d0 -  updates on some Gramlab changes (contextual menus + use of dictionary entries in locateTfst) (9 years ago) <Adrien Durand>
+7f7b10d -  updates on some Gramlab changes (9 years ago) <Adrien Durand>
+55e7355 -  updates on some GramLab changes (9 years ago) <Adrien Durand>
+2cbc663 -  correction on some GramlabChanges (9 years ago) <Adrien Durand>
+9a8818e -  pictures for Seq2Grf Chapter (9 years ago) <Adrien Durand>
+fb15821 -  New Chapter for Seq2Grf (9 years ago) <Adrien Durand>
+708ff40 -  Adding a hint to explain why "Program files" is not a good choice under Windows 7 (9 years ago) <Sebastien Paumier>
+ac0f749 -  Modifications on TrainingTagger file formats : Add of a new format (10 years ago) <Anthony Sigogne>
+3e1e021 -  12 Programs - 12.30 Seq2Grf Usage description added (10 years ago) <Adrien Durand>
+8c86bab -   (10 years ago) <Sebastien Paumier>
+17a3c94 -  add cassys chapter in manual Makefile (11 years ago) <Gilles Vollant>
+2d0a8e3 -  Updating manual for 3.0beta (11 years ago) <Sebastien Paumier>
+bb0b9d5 -  add a mini doc about MzRepairUlp and fix usage (11 years ago) <Gilles Vollant>
+aa24955 -   (11 years ago) <Nathalie Friburger>
+1a4de92 -  Updating introduction (11 years ago) <Sebastien Paumier>
+8bdc5d9 -   (11 years ago) <Sebastien Paumier>
+60bdc50 -  Fixing reference problems and adjusting figure sizes (11 years ago) <Sebastien Paumier>
+2a51aaa -  & bug fix in bibliography file (11 years ago) <Sebastien Paumier>
+d06c016 -  Update of chapters about the Tagger :   - Linearization   - External Programs   - Formats (11 years ago) <Anthony Sigogne>
+62288db -   (11 years ago) <Nathalie Friburger>
+a0674c9 -   (11 years ago) <Nathalie Friburger>
+bea889d -  add figures for cassys chapter (11 years ago) <Nathalie Friburger>
+14b9cc4 -  add a figure for cassys chapter (11 years ago) <Nathalie Friburger>
+8726a91 -  add the explaination on the csc format file of cassys (11 years ago) <Nathalie Friburger>
+fd6efe5 -  The new chapter on cassys (11 years ago) <Nathalie Friburger>
+90d0009 -  Adding the reference to the chapter on cassys (11 years ago) <Nathalie Friburger>
+227d7ce -  Adding a bibliographical reference for cassys (11 years ago) <Nathalie Friburger>
+c144975 -  Adding the use of cassys program. (11 years ago) <Nathalie Friburger>
+837adc9 -  Update of chapters about the Tagger :   - Linearization   - External Programs   - Formats (11 years ago) <Anthony Sigogne>
+f327c46 -  Updating chapter 8 (11 years ago) <Sebastien Paumier>
+cd97007 -  Updating chapter 7 (11 years ago) <Sebastien Paumier>
+dce12cf -  Updating chapter 6 (11 years ago) <Sebastien Paumier>
+65d972a -  Updating chapter 5 (11 years ago) <Sebastien Paumier>
+f011b14 -  Updating chapter 4 (11 years ago) <Sebastien Paumier>
+b3c0c61 -  Updating chapter 3 (11 years ago) <Sebastien Paumier>
+088d569 -  Updating chapters 1 and 2 (11 years ago) <Sebastien Paumier>
+935b2d2 -  Updating introduction (11 years ago) <Sebastien Paumier>
+8af74be -  Talking about table display of text automaton (11 years ago) <Sebastien Paumier>
+f02c4e0 -  Update of chapters about the Tagger :   - Linearization   - External Programs (11 years ago) <Anthony Sigogne>
+7387ede -  Adding precisions about output variables (11 years ago) <Sebastien Paumier>
+062792b -  Updating user manual (11 years ago) <Sebastien Paumier>
+9eb1eb1 -  Documenting an easter egg (11 years ago) <Sebastien Paumier>
+8ef948d -  Updating user manual (11 years ago) <Sebastien Paumier>
+616d458 -  Updating user manual (11 years ago) <Sebastien Paumier>
+56f5bc3 -  Removing restriction about variables in morphological mode (11 years ago) <Sebastien Paumier>
+0b33738 -  Removing restriction on LocateTfst (11 years ago) <Sebastien Paumier>
+0f7fde3 -  Describing full naming conventions for dictionary graphs (11 years ago) <Sebastien Paumier>
+ccbf77a -  Documenting the negation operator change - => ~ (11 years ago) <Sebastien Paumier>
+25506c3 -  Updating chapter about file formats (11 years ago) <Sebastien Paumier>
+5200661 -  Typo fix in Elag section (11 years ago) <Sebastien Paumier>
+e670c5c -  Adding BuildKrMwuDictionary in the program chapter (11 years ago) <Sebastien Paumier>
+cb35de0 -  Updating chapter about programs (11 years ago) <Sebastien Paumier>
+8196259 -  Update of chapters about the Tagger :   - Linearization   - External Programs (11 years ago) <Anthony Sigogne>
+cfc300b -  Add a chapter about linearization of a text automaton. Some modifications in external programs and formats. (11 years ago) <Anthony Sigogne>
+72503f8 -  Update of chapters about the Tagger :   - External Programs   - Formats (11 years ago) <Anthony Sigogne>
+cd51143 -  Typo fix (11 years ago) <Sebastien Paumier>
+f8b9f31 -  minor typo update (11 years ago) <Gilles Vollant>
+3b8987d -  error in CreateLog usage and doc (11 years ago) <Gilles Vollant>
+40bbea1 -  Add Untokenize tool (11 years ago) <Gilles Vollant>
+d8c9835 -  Putting file names in verbatim mode (11 years ago) <Sebastien Paumier>
+6f0045a -  Fst2Check usage fix (11 years ago) <Gilles Vollant>
+ff4d962 -  Protecting some _ in user manual (11 years ago) <Sebastien Paumier>
+2e8fc09 -  minor log modification (11 years ago) <Gilles Vollant>
+1f68769 -  Add CreateLog option in UnitexToolLogger to create log without creating unitex_logging_parameters.txt file (11 years ago) <Gilles Vollant>
+325ec13 -  update manual add Fst2Check tool in Makefile (11 years ago) <Gilles Vollant>
+10b564e -  manual fix (11 years ago) <Gilles Vollant>
+3f64613 -  Document encoding of text file (11 years ago) <Gilles Vollant>
+2abe1ae -  minor log doc update (11 years ago) <Gilles Vollant>
+8958bad -  replace -O2 by -O3 in Makefile Fst2Chk usage fix (11 years ago) <Gilles Vollant>
+5bc3d58 -  info about log file format (11 years ago) <Gilles Vollant>
+ecef2d1 -  add UnitexToolLogger doc in tools list (11 years ago) <Gilles Vollant>
+50b83ec -   (11 years ago) <Sebastien Paumier>
+fe797d3 -  document the -o / --stop_token_count Locate option (11 years ago) <Gilles Vollant>
+ad6412c -  Updating user manual with new inflectional operators (11 years ago) <Sebastien Paumier>
+2afdcfd -  Documenting new meta <TDIC> (12 years ago) <Sebastien Paumier>
+b28ab9c -  Some modifications about description of TrainingTagger/Tagger and formats. (12 years ago) <Anthony Sigogne>
+d6e1262 -  - Addition of the description of the TrainingTagger and Tagger programs in 11-programs.tex - Addition of the description of the training dictionaries and corpus.txt format in 12-formats.tex (12 years ago) <Anthony Sigogne>
+86ef2f2 -  Removing duplicate parts of the manual (12 years ago) <Sebastien Paumier>
+fe04a15 -  Manual update: documenting new things around variables (12 years ago) <Sebastien Paumier>
+4cdbb7b -  Manual update: -K/--korean option (12 years ago) <Sebastien Paumier>
+9129471 -   (12 years ago) <Sebastien Paumier>
+5faeb30 -  Updating manual around Korean options (12 years ago) <Sebastien Paumier>
+cfa323d -  Documenting <be.> and <.V> patterns (12 years ago) <Sebastien Paumier>
+a331219 -  Adding -n/--no_space_warning option to CheckDic (12 years ago) <Sebastien Paumier>
+b73000e -  Adapting user manual to -d removal in Elag and ElagComp (12 years ago) <Sebastien Paumier>
+dac204c -  Adding -f option to Dico and Locate (12 years ago) <Sebastien Paumier>
+76737e4 -  Updating fig 7.10 (12 years ago) <Sebastien Paumier>
+67f4f7f -  Document Evamb and Convert output option (12 years ago) <Gilles Vollant>
+54510d0 -  Updating information about using morphological filters in morphological mode (12 years ago) <Sebastien Paumier>
+ccaef3c -  Update of manual about <10> things in MultiFlex's semitic mode (12 years ago) <Sebastien Paumier>
+1c5d9b3 -  Cosmetic changes around statistics (12 years ago) <Sebastien Paumier>
+a82fa1c -  Updating manual (12 years ago) <Sebastien Paumier>
+4c75316 -  Add documentation about CheckDic option for strict or tolerate unprotected dot and comma (12 years ago) <Gilles Vollant>
+a4fa3a0 -  Fake commit, just to test Galileo (12 years ago) <Sebastien Paumier>
+0c2dcb5 -  Updating manual (12 years ago) <Sebastien Paumier>
+a48ec99 -  Update MacOsX Java info (12 years ago) <Gilles Vollant>
+e4f49f6 -  Updating the user manual (12 years ago) <Sebastien Paumier>
+c75ba71 -  Updating the user manual (12 years ago) <Sebastien Paumier>
+cb3ab28 -  Updating info about Java under MacOS (12 years ago) <Sebastien Paumier>
+8f040cb -  A lot of updates in the user manual (12 years ago) <Sebastien Paumier>
+80ff823 -  Updating the manual (12 years ago) <Sebastien Paumier>
+1abf654 -  Cleaning references and turning all accentuated chars to strict ansi \'e ones (12 years ago) <Sebastien Paumier>
+b076112 -   (12 years ago) <Sebastien Paumier>
+83c2f30 -  fix typo (carridge instead carriage) in Normalize doc (see correction 787 on Unitex-C++) (12 years ago) <Gilles Vollant>
+e25ffc2 -  Removing GPL license from the manual (12 years ago) <Sebastien Paumier>
+811b679 -  Putting Unitex manual latex sources under SVN (12 years ago) <Sebastien Paumier>
+e6d961c -  Initial import. (12 years ago) <Sebastien Paumier>

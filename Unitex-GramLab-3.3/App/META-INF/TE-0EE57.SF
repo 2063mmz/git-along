@@ -1,0 +1,3546 @@
+Signature-Version: 1.0
+sha-256-Digest-Manifest-Main-Attributes: YGAArxAdL8Bc/4Jlt5vtTeijFlpY6
+ T1J28brgXs21uQ=
+sha-256-Digest-Manifest: OixeYOKA/nACEd3BwC8UUeEXe4Sg2rAUk0aEVU5xsyU=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: fr/umlv/unitex/config/Config$1.class
+sha-256-Digest: oMQoDxKYxdsJ0CcpMDtDipfBZU1h4fvZ9EsjYlxK+kk=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$31.class
+sha-256-Digest: tUQxkhO+YRT1LQCJSGcSSYesjwLAkNq/7EDwqzSjvnw=
+
+Name: fr/umlv/unitex/process/list/ProcessOutputList$1.class
+sha-256-Digest: UnlULLVi0cgr2yTOkjVpem8XaJGtG8d9HQYEVZRBDWc=
+
+Name: fr/umlv/unitex/frames/TextDicFrame$4.class
+sha-256-Digest: 6Y6fWtmdyl3Xas6kn/1JXLmDZBoeQUPxe6hXF4K/Zpg=
+
+Name: fr/umlv/unitex/console/error1.png
+sha-256-Digest: SsjEwdT4fT81DBsYXUMP/0mGeGZantVuFHlhHXoDaU8=
+
+Name: fr/umlv/unitex/frames/ConcordanceDiffFrame$4.class
+sha-256-Digest: SSt/Ud8O4WgIM9zYKSRaR664kkCPwwpp7+Hp2ZS4pKM=
+
+Name: fr/umlv/unitex/frames/TranscodingFrame$3.class
+sha-256-Digest: RUMWGq5pHEDdjDDhs7S/R5g7ekvbpOydtYA8XdY4Kuo=
+
+Name: fr/umlv/unitex/frames/Seq2GrfFrame$5.class
+sha-256-Digest: ++GUIWataSFEfhFU0neOWaKkZQq5JV0ROu6Sh9Tp6eY=
+
+Name: fr/umlv/unitex/frames/ListCopyDialog$1.class
+sha-256-Digest: pETSdBIIjjycpUurgduW+br9wEphEM5tSEdkbcMfK+8=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrameFactory.class
+sha-256-Digest: cvDkO7dipqEYucTMYEUHJupzf+7JfbGKH5ujY5YVD0E=
+
+Name: fr/umlv/unitex/frames/DicLookupFrame$8.class
+sha-256-Digest: oauSbTevPumhJt34FUDhcouzj3Baxf+OBbFZfBMnTs8=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$15.class
+sha-256-Digest: Oc6znmNwRuIUg+wAus/ibtwapVm0FAuhjTkkOCEI9Qk=
+
+Name: fr/umlv/unitex/frames/GraphFrame$12.class
+sha-256-Digest: vKLj7YYj6PvRuik/300nfSJC4qRSNVo2Fn7HmDJ4DjA=
+
+Name: fr/umlv/unitex/tfst/TagFilter.class
+sha-256-Digest: HJU8ov64eowQXloQU6datdAJKTblvyCrLt+oDsRwfnU=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$2.class
+sha-256-Digest: D8E7z2Vgu4JIzUPSdtUb1cRynWv2KpRT+3N7TtI2hyg=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$44.class
+sha-256-Digest: /thQYF7Eh2Snm0+PMNb4/l0CF3LWd96PdtjB0LSw0z4=
+
+Name: fr/umlv/unitex/openSubgraphCursor.gif
+sha-256-Digest: PYs+Gw5YlaNOkWhjtIt35Xtuy1qOeLmbZt97iusYHC4=
+
+Name: org/mozilla/universalchardet/prober/contextanalysis/SJISContextA
+ nalysis.class
+sha-256-Digest: Z/QMnzn2vmACDFuui/u0zt8rVjO/bsdJDBWxHNsHzGg=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$15.class
+sha-256-Digest: zHcGPShptZbD8/adQ2iR7tKg5e5aDjV64GFp7XLJjj4=
+
+Name: org/mozilla/universalchardet/prober/statemachine/PkgInt.class
+sha-256-Digest: Pu7tUxD0wndPXNaw9mpCfFev1MunazpLxLdLZTVFPvo=
+
+Name: fr/umlv/unitex/Unitex$2.class
+sha-256-Digest: TxKB/UTg17yZ7WFgBZDnvGJOJrmm5G+ijVRU89dgPKg=
+
+Name: fr/umlv/unitex/graphrendering/GraphMenuBuilder$1.class
+sha-256-Digest: Orug68EGnkrpSEZlhoPmq6GlZ1YWGsSo6qTcScvJgQU=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$6.class
+sha-256-Digest: PJ8HPkpOpTR3V0GSGQY85VXaHbYfkv8N0djngREJaJA=
+
+Name: fr/umlv/unitex/xalign/XAlignModel.class
+sha-256-Digest: V6wxlHBgiwqyMs0gESO2SV14VVxTmdtS0gLfnawoHAg=
+
+Name: fr/umlv/unitex/frames/FindDialog$1.class
+sha-256-Digest: Uu5lOu3Yt+6KBMlDM6eYJWjWYUiPAHEGryJEbxgTAn4=
+
+Name: fr/umlv/unitex/config/PreferencesManager$Info.class
+sha-256-Digest: ZLROQuwn8PPJaHxiOlQLi3CwvOc7/lY296AR64ywqf0=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$32.class
+sha-256-Digest: qdxsQhb5CSqzwLNeDuJiBnQETR1fDxfyPFwRNElmKJY=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFindAndReplaceDialog$8.class
+sha-256-Digest: q51qBxoLfKAM8YKLM5XIpT5I+BIHltpQMgCSs37Tr+8=
+
+Name: org/mozilla/universalchardet/prober/sequence/Ibm855Model.class
+sha-256-Digest: tYpVYIfpU28DCJl6IHIlC3SDbxpuI2XTKiVHmdQzJJ0=
+
+Name: fr/umlv/unitex/listeners/TextFrameListener.class
+sha-256-Digest: WbaclZwwEBnj2cRdB+f4DErm912ekHb19X8dWTxHOfk=
+
+Name: fr/umlv/unitex/frames/ConvertTfstToTextFrame$2.class
+sha-256-Digest: ujdHLYmS4O3ZqAtUCHOncF3NlP5Rlw86kvddQ5ati94=
+
+Name: fr/umlv/unitex/frames/DicLookupFrame$3.class
+sha-256-Digest: eCeO8HM7jUPoPvwszQs8jZDNpDDNDb65ujl7LKwJwuA=
+
+Name: fr/umlv/unitex/process/commands/MessageCommand$1.class
+sha-256-Digest: 4o5QEO4vTHvTzFHlMdG4kTQ5tQ93w/kD9ujZ8qf4DDU=
+
+Name: fr/umlv/unitex/process/commands/XMLizerCommand.class
+sha-256-Digest: EcxXUgxPcKMrVKcQ/ro8FMnv3QR/ffm+XZQR42UgD6A=
+
+Name: fr/loria/xsilfide/multialign/Path.class
+sha-256-Digest: RGiWhoRbyJX3BshMB5Za3eXkap5lMjKHGBcrmRkGDlY=
+
+Name: fr/umlv/unitex/utils/KeyUtil$1.class
+sha-256-Digest: fe1l2Hc/XfEYGkXeC4BLyp+BkA4bV0LVpKa3Owq0rGQ=
+
+Name: fr/umlv/unitex/exceptions/NoClosingSupException.class
+sha-256-Digest: VLtrh0K7xRtJO3qdA8VfjGJbJocD0A8bF46nwavdMQI=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$57.class
+sha-256-Digest: jCamaWJYxotT6hfpcB6+fsGkfqndl8rIsxAk6RRH14E=
+
+Name: fr/umlv/unitex/xalign/Occurrence.class
+sha-256-Digest: Jjh8PxuM3BwcrB80fx8v52lYParJZW1k3q0ZzeDrHyU=
+
+Name: fr/umlv/unitex/frames/GraphDiffFrame$4.class
+sha-256-Digest: DXZ+ftOvccV3p/l02FKkz2x9WyBnMW2iIPBLP9UiftU=
+
+Name: fr/umlv/unitex/Unitex$2$1.class
+sha-256-Digest: CdL+4rv8wqjZFgPDpTr4biF4CFBhAZFtDp5APsHRqSc=
+
+Name: fr/umlv/unitex/close.png
+sha-256-Digest: DGjra6PMlizS6tXD7T7NJfVFuHiCK0kK3GEoAE3+7K0=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$13.class
+sha-256-Digest: VHExktrt5ikwRqoZZ3GivhoOAwCcTTCWwgegvn9e3Os=
+
+Name: fr/umlv/unitex/frames/StatisticsFrameFactory.class
+sha-256-Digest: wiVHDAohVN4P7UCKIIuHSRQE44wXC4CUi4Z7YhloEY0=
+
+Name: fr/loria/xsilfide/multialign/Cognates$myIterator.class
+sha-256-Digest: 8v1aiN7Rf0Sm7kFbBnbWcI20F3Hxjc5fUj3Cg94zy0g=
+
+Name: fr/umlv/unitex/utils/UnitexHelpMenuBuilder.class
+sha-256-Digest: 3jDrTR2vJm28HM3fNg/X8/Jh+q8/KTNKi7XAFK/vYC8=
+
+Name: fr/umlv/unitex/undo/BoxGroupTextEdit.class
+sha-256-Digest: ftGUFUrce09/FuaG/S0+XHxKDo09mPAbSJ7nMol5n/Y=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$1.class
+sha-256-Digest: lJRWYrv9yjl9M5g6rnt1Z2IXr/FtOZXP2HKJAIxCEp8=
+
+Name: fr/umlv/unitex/frames/GraphCollectionFrame$1.class
+sha-256-Digest: AJIwnHnWP+yGYRlGyivGLfskKa/mBJc8eMX3XNmCIqA=
+
+Name: fr/umlv/unitex/frames/ConstructTfstFrame$ConstructTfstDo.class
+sha-256-Digest: XqExSiqQouKPNXmfYz+nDBPMO4H7rxwfiheX4aQzX68=
+
+Name: fr/umlv/unitex/process/commands/CpCommand.class
+sha-256-Digest: 3PTEkhTmaxIUbd3Q2RpGjTU64Vg+d0XhMB86AMkzd9E=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$7.class
+sha-256-Digest: B4EAZ5CjQ11AdkQLgQDOxu09pj65WFtqzZxuND1ZFIk=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame$5.class
+sha-256-Digest: cId5FCDKt3rPiz60ewqEZ+6o54d/c+0ky00iAGZm3pE=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog.class
+sha-256-Digest: YQR5YTkwSvB8NmxTxblU0hx+qqtcEEHADLidE52auwQ=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$5.class
+sha-256-Digest: AMMsNkiD5uc1lJyj7WSx8xpBXF0Du5lE64lCa1kI8lg=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$23.class
+sha-256-Digest: kfCPQY3ZnH4fnL3M/pU+VUgI3c3N8KA/w5rdw0aJqO4=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$10.class
+sha-256-Digest: Uo7A0AKVAfVySXOoAnCv9nKmMXMp8MkApVbdEBNxLbI=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$49.class
+sha-256-Digest: mn/2uDR0UuJT4cpyEJESpGNNSQSXT0gQhSnbLbpkeSU=
+
+Name: fr/umlv/unitex/frames/GraphFrame$17.class
+sha-256-Digest: 3uaw0f4ihjA54lIydbxUrdPiWb74DfD3LJ45yAwStSw=
+
+Name: fr/umlv/unitex/exceptions/UnitexUncaughtExceptionHandler.class
+sha-256-Digest: XWREGBeQs+N39FC8nWOpqB1BZhWUEWx6oUEo7jWKdB8=
+
+Name: fr/umlv/unitex/console/Couple.class
+sha-256-Digest: OqEhDl8PABdsZmpXojVfqG9NIybBYZ9SxRBYd71l/Uw=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame.class
+sha-256-Digest: tSSjBw9heB9BjNv23wEWN+xE13JDety4igUlsRVT7R0=
+
+Name: fr/umlv/unitex/frames/ExportTextAsPOSListDialog$2$1.class
+sha-256-Digest: vdRwPUHLBiA6H1AaCOf8rIaBBBOs2Pa42GcDBBgXdRk=
+
+Name: fr/umlv/unitex/frames/TokensFrame.class
+sha-256-Digest: 3LbNbxNJC5sLHytpS5WP/mAC2+P36BH1LNpkxohK/hE=
+
+Name: fr/umlv/unitex/frames/BuildKrMwuDicFrame$5.class
+sha-256-Digest: cZ88RQolW0/UFyvIL0685Q4q7In5y9wufoMDy7KdmYY=
+
+Name: fr/umlv/unitex/MyDropTarget.class
+sha-256-Digest: nlzZNGVAc6VCqAlPxoWf5xtSbptGJeMRWKxHiJ9GShQ=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$UndoIt.class
+sha-256-Digest: oJnfVbvNbnzAFOke9M/y60mONZu1TkTkJnxPAKz4UQU=
+
+Name: fr/umlv/unitex/undo/DeleteBoxGroupEdit.class
+sha-256-Digest: GYG+mTDHFTd7qdONvtb8O65G6i+u6Z7uNGPCzKQNe+U=
+
+Name: fr/umlv/unitex/frames/ExportTextAsPOSListDialog$1.class
+sha-256-Digest: +fD1MHxLH6OqJjzvSfJJCZAa4se8BaUnwZyxT6BZkaY=
+
+Name: fr/umlv/unitex/frames/XAlignFrame$8.class
+sha-256-Digest: bYFt3AlDppiRH7bMjXZ7kzrpBwCjWBdw/PHGC8WyzDQ=
+
+Name: fr/umlv/unitex/concord/BigConcordanceDiff$1.class
+sha-256-Digest: zj57OkjI0IjN75IFaTNwfyn7S1jhfvJyFTCDXKC1PGA=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$78.class
+sha-256-Digest: dlG9QWTuQV/9P+h9dYmPchkoxfMoKkXtcOg9OXUi1Ew=
+
+Name: fr/umlv/unitex/utils/KeyUtil$6.class
+sha-256-Digest: uTKiWn+i3SnUNX7snynBqqvBXgou1mADj32SfE7vsMw=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$8.class
+sha-256-Digest: TAqq/E2V3HSkZcX44mYQxydXThM0ahD7gFyAlt/KhKM=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$26.class
+sha-256-Digest: rXhZvqwxrDNMd2/NlaajpxAsPqbyP+5jffrQpuKGbMM=
+
+Name: fr/umlv/unitex/frames/GraphFrame$33.class
+sha-256-Digest: 2NUsjmar4tRBONQZgr2RY3WFN2h77P+03NSNcYLeGaI=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$15.class
+sha-256-Digest: Be0Lzbf7BdIRH5gV6kIb0XI1lb1bJCuctiks9zf6eno=
+
+Name: fr/umlv/unitex/graphrendering/TextField$SelectAll.class
+sha-256-Digest: gklmIz8vaeCx9WDNavzQfr7PrUvIVYgmSEeZ363hY3E=
+
+Name: fr/umlv/unitex/frames/GraphAlignmentDialog$5.class
+sha-256-Digest: G4r+iZ9FzFM4Sh0x0Hux+Qo0ecGr+qACJJ0yvQNwRNo=
+
+Name: fr/umlv/unitex/exceptions/NoClosingRoundBracketException.class
+sha-256-Digest: PLL8ZEtJd22yFWhVRTaeJazdOQh6M7oAk+WpxcFPw1s=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$28.class
+sha-256-Digest: iBxGlYtc0NcFtAmfjNdVMNVW9wIC8JvcZxaiBHSO974=
+
+Name: fr/umlv/unitex/killBoxesCursor.gif
+sha-256-Digest: RLkncxzRQL6coZEWNWc0JkRblBB2zJ9bbkn6rugMF10=
+
+Name: fr/umlv/unitex/frames/ImplodeDo.class
+sha-256-Digest: +d8/XlwCe185Vph++ggBOJT5gbz191K5Xh+77ft4SPg=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$4.class
+sha-256-Digest: ynWG9Z0V6nKTxbGibr4HYf8wBhntKNWVVBVmEgiRw/c=
+
+Name: fr/umlv/unitex/cutIcon.gif
+sha-256-Digest: sYYVf0GRT/Bj9k5H7CVSkvTydFkokWFsLkDo2g4aK3I=
+
+Name: fr/umlv/unitex/io/UnicodeIO.class
+sha-256-Digest: nmiWj/QXUIHQ7x0yqra8h359v7ZG0OGpkG7hN+vrgDU=
+
+Name: fr/umlv/unitex/process/commands/AbstractMethodCommand$1.class
+sha-256-Digest: H0woQNzSIknU+v2wxK+WcBkFv6GpqhySTeT2A/bhobU=
+
+Name: fr/umlv/unitex/frames/TextAutomatonTagFilterDialogFactory.class
+sha-256-Digest: XSrGoO1ZiyILxrczxGAKKkV4fNKfv20wXZdSlgrmZwo=
+
+Name: fr/umlv/unitex/frames/ElagCompFrame$8.class
+sha-256-Digest: X70RtHrYWVtmrrdLBYiJK6ty+kQNkyE5GOJgUC9RU4g=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$ShowPathsDo.class
+sha-256-Digest: vU44mtiyxmn8MLritB3mr+1Ely5ifmDYoz133FVoAus=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$5.class
+sha-256-Digest: LYkq44PWtmk259DBB/+zChVMnkKPSTZ9LKpCPPXcHOY=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$24.class
+sha-256-Digest: wc4qLpegkgMg/pb9BvPZe9bzHl8kTqXQugHoi1w2YJo=
+
+Name: fr/umlv/unitex/stats/StatisticsTableModelMode0.class
+sha-256-Digest: PkYymt+aD0U2PYbU29xPmfSEqa1vZREcW6u+lEt4QR8=
+
+Name: fr/umlv/unitex/frames/ConsoleFrame.class
+sha-256-Digest: 1Cvq6fU20OCtx/dB8VoNh0qPny3W871O8j1sw0r8Dnc=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$14.class
+sha-256-Digest: vECfDvy3BLQV8REpiXwZs4MuZXnjEsanQCObWOhtAdA=
+
+Name: fr/loria/Manifest.mf.in
+sha-256-Digest: RLTTr31SseZ4iFPh54GoG4Pwb+74f98ACJby4movUfE=
+
+Name: fr/umlv/unitex/diff/GraphDecoratorConfig.class
+sha-256-Digest: OmyMtmImlQHgWDOlcK+vuB5XfUMRRTr8JvkrU6VsLqU=
+
+Name: fr/umlv/unitex/cassys/ShareTransducerList$NotAnAbsolutePathExcep
+ tion.class
+sha-256-Digest: ycmDlQzyieJBR5tPwlGZD8vJzdZjt9hx1Ot2Iu2Zf58=
+
+Name: fr/umlv/unitex/frames/GraphFrame$20.class
+sha-256-Digest: asCmUUlOh+an9Ui+3nputs/a7tls2QMSuiTA3JABJC8=
+
+Name: fr/umlv/unitex/frames/InternalFrameManager$2.class
+sha-256-Digest: eARgB9f/RDY8NC57Dj9+a8Q00MoWGUZLS6ZYsGs9mtw=
+
+Name: fr/umlv/unitex/frames/MultiInstanceFrameFactoryObserver.class
+sha-256-Digest: M+bKvaij+H5ACca0ET0ERzaB6h+fkU8+AC8BP3v1r8o=
+
+Name: fr/umlv/unitex/graphtools/FindAndReplaceData.class
+sha-256-Digest: wxRk/4QIareA5YZiawfvAHQxzVUdDSyrvE9BjWkz2kU=
+
+Name: fr/umlv/unitex/frames/PreprocessDialogFactory.class
+sha-256-Digest: dRXGqKnAhc9azPdmmfB2tYZTD+YR63TuIZi4RdGXFvI=
+
+Name: fr/umlv/unitex/graphrendering/GraphTextField.class
+sha-256-Digest: tHaBQkNoPsAxZfpfceTMGhBZbuZQefziGmje+Zj111Q=
+
+Name: fr/umlv/unitex/frames/DelaFrame.class
+sha-256-Digest: UNDk0smMticja9aUkvJyGrrrVbxd04skdACT4LKQAjw=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrameFactory.class
+sha-256-Digest: yFpQ37LF+1IAjYcaxmHDt5QCHP78SbTkq1MH0tgTh6U=
+
+Name: fr/umlv/unitex/frames/FrameUtil.class
+sha-256-Digest: t32ZfGKfIDjqFBHQtMbZbFWfQZty/XBfAlNtBja89jU=
+
+Name: fr/umlv/unitex/frames/InflectFrame$1.class
+sha-256-Digest: +uyqLVsB9fsDBEPNan+weW3sGKbOAMFMySyIYF04mKU=
+
+Name: fr/umlv/unitex/frames/XAlignLocateFrame$2.class
+sha-256-Digest: 8M7L/0mVXPlPA9udKdDiNUighogNrzjmPNIzy4fHDnY=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$3.class
+sha-256-Digest: 7rf08iyC0IQptCUHetcfX4a8aue+SyeQahlDn/fcHWA=
+
+Name: fr/umlv/unitex/frames/ExportTextAsPOSListDialog.class
+sha-256-Digest: lMAtmWQNh+7glekZMkuJwoSNx7xrgZd7T5uGfIHZt44=
+
+Name: fr/umlv/unitex/text/BigTextArea.class
+sha-256-Digest: cN0rYBhffbyOR3PWHnDBQOlZ61bJxy8njiEOXUJMOXk=
+
+Name: fr/umlv/unitex/frames/LocateFrame$5.class
+sha-256-Digest: 8e4XVr3lTaO+EtWlzVZU1wGuDnk7g+gFMYIkfnGie8s=
+
+Name: fr/umlv/unitex/graphrendering/TextField$Cut.class
+sha-256-Digest: Q2UU+f5z07ve/LQ9XS6Z9cdsdjiHpzaffq9IU5+p76g=
+
+Name: fr/umlv/unitex/frames/ConcordanceFrame$1.class
+sha-256-Digest: qafWmhpNmO+0evQmvirpE0YKY1n1Zmr3XogL9KCeBTg=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$10.class
+sha-256-Digest: FZudTS6epTsXur2AUg5VPgKkLPBlE+Hr3yPBk6F5aOM=
+
+Name: fr/umlv/unitex/frames/GraphSizeDialog.class
+sha-256-Digest: Lnfy+Seprni4dMpnioF9jrl/PesqRRlDbluvOl2oR7s=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$65.class
+sha-256-Digest: nt3V/cDMjCm2nEKaGRe8VTHleiVeefqPRQ5lErQkVvc=
+
+Name: fr/umlv/unitex/frames/TfstTagsFrame$4.class
+sha-256-Digest: j+UFnSH8YALOq4hroDnjt9Y0JJBVsbfto1nqhmND6kU=
+
+Name: fr/umlv/unitex/graphrendering/TfstTextField.class
+sha-256-Digest: iqEoD5Tsr7DPj50LP7+V29GC/G2PwVjo12ljCkOmedg=
+
+Name: fr/umlv/unitex/graphrendering/TextField$Open.class
+sha-256-Digest: QJT08R1MCdIYcZtlbIMe4s1TWGxhfaKRGqC4GS0GIbY=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$defaultGraphFrame.cla
+ ss
+sha-256-Digest: x/p0Tyg64ZZPh4rWrihW+AYf5imGQ4F9Cg5XbDznC6E=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$36.class
+sha-256-Digest: ajPiTEFg7260x/n6QWrfLscQLX5oAEOk77QHNp+fSO8=
+
+Name: fr/umlv/unitex/frames/TextAutomatonTagFilterDialog$3.class
+sha-256-Digest: lusNcCRTWf1XzAk/4CPvwrj+CXRjFSJyPA+OMWLAigg=
+
+Name: fr/umlv/unitex/frames/CassysFrame.class
+sha-256-Digest: 8dKJ5fn1q1jRs9vFUzfSuXm7PeG7edIZ5JS8e94PfEc=
+
+Name: fr/umlv/unitex/frames/ConsoleFrame$2$1.class
+sha-256-Digest: Ws6g4FgOsGZrZe5t24gecLssrElAiJCw0rKwVJmcPuE=
+
+Name: fr/umlv/unitex/frames/DelaFrame$5.class
+sha-256-Digest: YCQHtfp/eZW4vfRLpJTADbKSZy4TH1qwkaEIVXlVhcQ=
+
+Name: fr/umlv/unitex/frames/ProcessInfoFrame$1.class
+sha-256-Digest: wRzgYRPVpE+kblyhMbq7wbYRG+rXZiREMc22t2SXzKs=
+
+Name: fr/umlv/unitex/common/project/manager/GlobalProjectManager.class
+sha-256-Digest: EzAtK5GM7P6XJMMHaKPUJVSAIdyFHaB7+Ow2AErMf9g=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$1.class
+sha-256-Digest: Dq7cJyJBND34UHBDbGD4WUXAL/l+9wxYeRqOeZQ1mXE=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$3.class
+sha-256-Digest: IxQiVf1vrf+JMaof8n8L5mpvDMB0UsgGkmiEDN+0KJs=
+
+Name: fr/umlv/unitex/process/commands/VersionInfoCommand.class
+sha-256-Digest: 5+34onW6wniSeDfhzhcsRk6pGEdpPRRXNzEH7HCfqhQ=
+
+Name: fr/umlv/unitex/tfst/tagging/TaggingState.class
+sha-256-Digest: MLfZMpNKhEqWukVNK0zMTnAvKQevtD8lE9hTCm4oU/Y=
+
+Name: fr/umlv/unitex/xalign/ConcordanceModelImpl.class
+sha-256-Digest: S/lADx9hMPNJdjG+UbYXX2ydjFGLCYwtkMHbHbJghlo=
+
+Name: fr/umlv/unitex/frames/PreprocessDialog$3.class
+sha-256-Digest: Hq3xpnjyZmPw3FOmF1TwIXx5PPR9aipF1ecCHCOnhdk=
+
+Name: fr/umlv/unitex/exceptions/InvalidPolyLexArgumentException.class
+sha-256-Digest: vlWh22a7T8IWrCc/FDq2+jEPDdRIW4rPfdnYFkxAS+U=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFindAndReplaceDialog$3.class
+sha-256-Digest: rjwveaHjuQklfAaQ5nyDQM0BMgA2A3DtZScIGwb6Ljs=
+
+Name: fr/umlv/unitex/frames/ConvertLexiconGrammarFrame$4.class
+sha-256-Digest: GrURNAUWX2O4dBJghn7SaFhe51YwhVr8wLXF5/k+03A=
+
+Name: fr/umlv/unitex/frames/ConstructTfstFrame$1.class
+sha-256-Digest: OoPuBBfnoqz+fwSDTB2P0XA8mO6gVfGfs4/OwH5RpB4=
+
+Name: fr/umlv/unitex/editor/ui/FindPanel$4.class
+sha-256-Digest: zCaF3VB8syOa63tDdZB16GjuieOEEoARcet6VTU3xfw=
+
+Name: fr/umlv/unitex/frames/GraphFrame$19$1.class
+sha-256-Digest: hI2HrGXO8We9hVo4EizlBO+e4OvMifqrXGiYf5JQGiU=
+
+Name: fr/umlv/unitex/process/commands/ElagCommand.class
+sha-256-Digest: w7RAfhE29GTTuPObXMsgFYsJhwqqlc2cV1zfsjtiMp0=
+
+Name: fr/umlv/unitex/utils/KeyUtil.class
+sha-256-Digest: 5rHRMSzdlz47DLCF6NrQRfbkB78VXQxh/+UyGym7CmM=
+
+Name: fr/umlv/unitex/xalign/XAlignModelImpl.class
+sha-256-Digest: EvcYV4txLGnZAm7xoz5OaIhHZhzodGre6HRpJ3acRo4=
+
+Name: fr/loria/xsilfide/multialign/LoadAndPrepareTexts$MyVectorTar.cla
+ ss
+sha-256-Digest: 7S7hEclMYq1askB1h7NeX82izN9Er1bszmKgP/n10PY=
+
+Name: fr/umlv/unitex/xalign/XAlignPane.class
+sha-256-Digest: +a2PVSrpODiStldtq+Rzfe1oPCgDPW1lIhmtOZcMnLs=
+
+Name: fr/umlv/unitex/MyDropTarget$DragNDropListener$3$1.class
+sha-256-Digest: oINRQh/Bsr4m5Wu5yIQv9Cw8i6WZSFDtsxA3HuG6EU8=
+
+Name: fr/umlv/unitex/frames/GraphFrame$ShowVerifyDo.class
+sha-256-Digest: XKpVEO4Pexv0Q8InxcyUG0p3mUCnqoD39pt+4xVtXhc=
+
+Name: fr/umlv/unitex/editor/ui/DictionaryFindPanel.class
+sha-256-Digest: qAJYBTfO8Bj8K04RgnrwWOjni0Bmy+8+vVWhcKxbZyk=
+
+Name: org/mozilla/universalchardet/prober/sequence/Win1251Model.class
+sha-256-Digest: K7UXedr/Aggl3Rp7xkfcrtx7V4ELey++e7zQAOLExu0=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame.class
+sha-256-Digest: nV8aW8SqlMWRBhdO9P8jME0y1EFB5G24C8ykQ4gtK6g=
+
+Name: fr/umlv/unitex/frames/DelaFrame$4.class
+sha-256-Digest: 0nxEgTazpIzkSFY9M7wjpLMC9Ur1Djr9kW1jzlWyWQo=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$28.class
+sha-256-Digest: nFlFBUUYrqB8OTTU52vTcVVCIAq6O8nj4Rkwjb7i/Dc=
+
+Name: fr/umlv/unitex/grf/GraphPresentationInfo.class
+sha-256-Digest: IhHZKUnT1dCy/pp6SlK+CSddH05wrs2g0+Im0djSNRQ=
+
+Name: org/mozilla/universalchardet/prober/UTF8Prober.class
+sha-256-Digest: mwoecCF9Mpfx4fc8a8LAVu5xEZZgZ+juoP5dIMeYDkU=
+
+Name: fr/umlv/unitex/LinkButton.class
+sha-256-Digest: nWvbC8IAkCxFCq8oeGXuuAg25kRby0w4sjbEmrNcg/s=
+
+Name: fr/umlv/unitex/cassys/ConfigurationFileAnalyser$InvalidLineExcep
+ tion.class
+sha-256-Digest: /wGU//xNdur37kxl7QviTe60LvHxRS/rY/qDsRczI9I=
+
+Name: fr/umlv/unitex/frames/ConvertLexiconGrammarFrame$5.class
+sha-256-Digest: jDMpFJjaiwuVMzLx0tFOq55HWpC2rdMnyN/nZCwSyks=
+
+Name: fr/umlv/unitex/frames/GraphFrame$ShowDiffDo.class
+sha-256-Digest: pCXKFEciUt/kr9LUscTbWrL24aHkTxf2ucrfbxkxMbM=
+
+Name: org/mozilla/universalchardet/prober/sequence/MacCyrillicModel.cl
+ ass
+sha-256-Digest: zP0jORoIFvjNPZ5TJ84gDht12VOUSI9CZCgMxCJLXdg=
+
+Name: fr/loria/xsilfide/multialign/Sentences.class
+sha-256-Digest: RuQr++xY8CSiSa3yUCX2veGDy4LTezVch2azBwqPrDU=
+
+Name: fr/umlv/unitex/frames/BuildKrMwuDicFrame$1.class
+sha-256-Digest: ED5AIVVqyNw2zWyaI8u2CAac4xHcJjX+v3UDJgsSbfM=
+
+Name: fr/umlv/unitex/frames/AfterPreprocessDo.class
+sha-256-Digest: s2q/rCd0E2UQkw5IfWUH1kLITMI0sijfglz/rvXARGY=
+
+Name: fr/umlv/unitex/frames/GraphFrame$UndoIt.class
+sha-256-Digest: NIzq7LAXMP8LajXxGGpyem0mEMz2RubSE1dCt/KiJuA=
+
+Name: fr/umlv/unitex/frames/ConcordanceFrame$5.class
+sha-256-Digest: OnzuL447D7HA1X1MHLdvtbZoXmRVSls6h/lrF9gOBaQ=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$61.class
+sha-256-Digest: ipGBoJFJ8dRCRxLMgpiM0O727IEvgxHEFD0W0WXTAsE=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog.class
+sha-256-Digest: wje5sF2XcSU2ndjmQQ/Ix49fHCpjllZAFiRulNRo/WM=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$RebuildTextAutomatonDo.clas
+ s
+sha-256-Digest: spoU+Sl0PvNCpVHrJzWd6TXEsxcZz/vyexrOHpxkX/Q=
+
+Name: fr/umlv/unitex/io/Encoding$2.class
+sha-256-Digest: Bkkl9XsLOYJ+qruM3Okwnz6dZMul7Okr6/YjzYcsW+0=
+
+Name: org/mozilla/universalchardet/prober/sequence/Win1251BulgarianMod
+ el.class
+sha-256-Digest: Seg7whPNnuKZGKKXV4UCKNKrU2WaVavqmrXxdhH7/AQ=
+
+Name: fr/umlv/unitex/editor/ui/AbstractFindpanel.class
+sha-256-Digest: Q3p6tkPYY1m/rQI9a8oenUKLIICJ7wPZcWjNxx7Fu5U=
+
+Name: fr/umlv/unitex/frames/GraphFrame$RedoIt.class
+sha-256-Digest: HHdo4232xSIGBhvkooaJmQWmdT4WDKyQooblSKzXnmc=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$5.class
+sha-256-Digest: EAx2AU673L1zEqJYJ9pptv+lJD3W7tIQX9rXZw5mc/A=
+
+Name: org/mozilla/universalchardet/prober/contextanalysis/EUCJPContext
+ Analysis.class
+sha-256-Digest: ERVV+vI2dDyh//hBZ4NDdcdQBfPd+CYRNKkRM2Oh5ss=
+
+Name: org/mozilla/universalchardet/prober/statemachine/UTF8SMModel.cla
+ ss
+sha-256-Digest: ilO05N/W1/+oRpRfJKAa9KMRZpABRt9DvHvzQLWwlrI=
+
+Name: fr/umlv/unitex/frames/XAlignConfigFrame$2.class
+sha-256-Digest: sl0GcAQ7b937TXKHgwCNs7IXDCywqwiePZ+2+nBDUVU=
+
+Name: fr/umlv/unitex/frames/TextAutomatonTagFilterDialog$2.class
+sha-256-Digest: MxxEN0JJTN+zjC3mKYgBmQDa0Q1bWj7kMe475MWmwoQ=
+
+Name: fr/umlv/unitex/listeners/AlignmentListener.class
+sha-256-Digest: JC4oaqMSwSCQTo+Hz+dy8IArurxwmpsha6UhtIhwfl0=
+
+Name: fr/umlv/unitex/concord/ConcordanceDiffAsListModel.class
+sha-256-Digest: ZOVoV+59RhqftJNGKcTj6OxakAgAeAUvXxYSJVNpkiY=
+
+Name: fr/umlv/unitex/editor/ui/KeyErrorException.class
+sha-256-Digest: Hj45SsLfPZ6hj+MfKz5yNurXBhaBjWbqmZ3uaAfJKKo=
+
+Name: fr/umlv/unitex/frames/GraphFrame$21$1.class
+sha-256-Digest: MfxjCYzIHh9pje/j/g+T4MAQELxWe3YNbyarxu7bQAk=
+
+Name: fr/umlv/unitex/frames/ElagCompFrame$7.class
+sha-256-Digest: GZiwRkRFNNpQ1HYDcGQxqW4w8Gox6Pnr5sMPZ1SQs4Q=
+
+Name: fr/umlv/unitex/frames/ProcessInfoFrame$2.class
+sha-256-Digest: w6krFnngAtBwvQAs84XaZKPEcPctWSN+kninKwmd2V4=
+
+Name: fr/umlv/unitex/cassys/DataListFileNameRenderer.class
+sha-256-Digest: RRK32NtyV4cnF0rpKljwWYCnyq6PhdZa9krOsvtPOk4=
+
+Name: fr/umlv/unitex/frames/GraphSizeDialogFactory.class
+sha-256-Digest: rHPqdCqAyhdYaHMKchGlOPXs+CWlptJbLSUvk160NW8=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone.class
+sha-256-Digest: NAyVhBwMkAvyt1hbIFeEL4M15+w3ke1pALMZhEnHSaw=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$1.class
+sha-256-Digest: vqhHCDJ+/uCS5UgXGjSUAExapmHC7GDkodl26bMoGzo=
+
+Name: fr/umlv/unitex/frames/GraphFrame$34.class
+sha-256-Digest: 5YSVkC7wAeeny4WhNK6RgNm43CXcGWRjQ48QanY9IXg=
+
+Name: fr/umlv/unitex/frames/CheckResultFrame$1.class
+sha-256-Digest: IPC6BLV7odE7JLMWVJjeMtzWNyxxc24vzQA3KLyahsw=
+
+Name: fr/umlv/unitex/undo/TransitionGroupEdit.class
+sha-256-Digest: YWvnPFaJ/Ssv/6t4ypCxaLcHkRBLX57FGJB2W0goLJw=
+
+Name: fr/umlv/unitex/config/NamedRepository.class
+sha-256-Digest: aPQzqZGlmXgmTwPzS40Qbq9P6xjke5ZvqyqLkO3w3mw=
+
+Name: fr/umlv/unitex/frames/LocateFrame$6.class
+sha-256-Digest: nWGzGQdkctGdxHuKM96wHR99A9UJ8f0tFvWYpjPBXYU=
+
+Name: fr/umlv/unitex/frames/BuildKrMwuDicFrame$6.class
+sha-256-Digest: q0LVgyJRsoP3Rpejhr0IkBdchonSPKUtUAI/KGfSJms=
+
+Name: fr/umlv/unitex/frames/CheckDicFrame$1.class
+sha-256-Digest: CVmuv+gZQgFHWwX3mLRsEVtDVATgxl6zrR30kNGBa9o=
+
+Name: fr/umlv/unitex/frames/GraphSizeDialog$4.class
+sha-256-Digest: Vfenjdl2vJrWEAjpOEUJh31WNlwvNyufdN/h1ASAssc=
+
+Name: fr/umlv/unitex/frames/InternalFrameManager$3.class
+sha-256-Digest: tLbWLBAUz/PW7v65xazBI0d+5xZwicwwVnlkNXTDOu0=
+
+Name: fr/umlv/unitex/xalign/ConcordanceLoader$1.class
+sha-256-Digest: fQF3wITWkXNBrpm1OPSG2wRzjCKzsm1f+GF5ISIztxU=
+
+Name: fr/umlv/unitex/tfst/tagging/TaggingModel.class
+sha-256-Digest: CbOohV4LgRMkOs1tL4Ti9Pm8AJX5qnHo5PtnA8vYBcc=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$9.class
+sha-256-Digest: vWDYDeIbOIxWrGCJXg4++KXOwMhVyrHWTCKmayJ1YJA=
+
+Name: fr/umlv/unitex/frames/XAlignConfigFrame.class
+sha-256-Digest: DYldV0qjUbj3zT3SnKyQLlXfctqu/O1nwjLEdn1mYFE=
+
+Name: fr/umlv/unitex/common/project/Project.class
+sha-256-Digest: KkOkvXrNds0C9ioIDFn7XQP80I2HqVpfpEa19pWrLWc=
+
+Name: fr/umlv/unitex/frames/CassysFrame$BeforeCassysDo.class
+sha-256-Digest: /4U7WTcPcANd8IKAsLbMS2/n2FQE/y2XbvdcQr5NuL4=
+
+Name: fr/umlv/unitex/frames/TfstTagsFrame$5.class
+sha-256-Digest: dyebJDHB4nUtKmoOkhUEOEjeoC+kXByi6JjMYhDwf5Q=
+
+Name: fr/umlv/unitex/frames/TransliterationFrame$ReloadDicDo.class
+sha-256-Digest: jOj/bBKFbtTiv0VdT1IINRTfIRWkPQ3j72clZXT+ri4=
+
+Name: fr/umlv/unitex/editor/ui/FindPanel.class
+sha-256-Digest: 6xx32xjwJGkKWeP5SSURpuu/1V0r8i5sV4Amn+2o0bY=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$29.class
+sha-256-Digest: pqBlyEiPUTqT5t3Py3ILLWyhOQGGhb4buwFUtMg3I5Y=
+
+Name: fr/umlv/unitex/frames/GraphSizeDialog$3.class
+sha-256-Digest: jzQyRGzTTn5fPzm06UZC5dtmZZ7pIVv+/Dtbu7DiKus=
+
+Name: fr/umlv/unitex/svn/SvnConflict$2.class
+sha-256-Digest: YU+R6BqofvKfaMldXnXTXrOUG4MAptwYhRh1iWTcfCQ=
+
+Name: fr/loria/xsilfide/multialign/IDifier.class
+sha-256-Digest: y1YYqLoQ5QrZqTRgOXsNj/BKIkbEyG2P0dmx+lAQrnI=
+
+Name: fr/umlv/unitex/frames/HelpOnCommandFrame$2.class
+sha-256-Digest: nYxsQdUpheVgUOCCIXUqRpv/5PuNWPym3bAvI2Hldno=
+
+Name: fr/umlv/unitex/io/Encoding$1.class
+sha-256-Digest: d51QCwOvveZfF58TWavGNLKLkgVWf3UxIA8lw0/DZEU=
+
+Name: fr/umlv/unitex/frames/GraphFrame$21.class
+sha-256-Digest: 9vKDRXb2qjFdqPbXzQWL+XXMlxjdeJPiS2LKsjBbMog=
+
+Name: fr/umlv/unitex/graphrendering/GraphBox.class
+sha-256-Digest: ZrctFyR8W0+/RlpOtEQggy3DaRPn/odn3JxOJj2tGJQ=
+
+Name: fr/umlv/unitex/text/Text.class
+sha-256-Digest: alEkIBR1xnu/PKOPow4Gq0H3KTynygXMlK7HPuxGiUE=
+
+Name: fr/umlv/unitex/editor/ui/DictionaryFindPanel$4.class
+sha-256-Digest: nimmIWFKTBwZVbeUwbqwtHsEF4SZ7kRyAV0S6aQnTTQ=
+
+Name: fr/umlv/unitex/config/Config.class
+sha-256-Digest: NxAMMGZzfLocdfyMqnmorPyIPYmB2SVDFgYnzKXQt5g=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$60.class
+sha-256-Digest: 4veCdeVqYkp7X8YztMiXegNiEsTTlh+JQ4GGWIXmjiM=
+
+Name: fr/umlv/unitex/frames/ListCopyDialog.class
+sha-256-Digest: SpaHRskylvIwEFPK9iFuQBww2v2avrOORLZV129n70k=
+
+Name: fr/umlv/unitex/frames/ProcessInfoFrame.class
+sha-256-Digest: Cpf9ScAQe+yqNnIV4EvvScXBmPdfIpw/H5JU06bYXG8=
+
+Name: fr/umlv/unitex/graphtools/GraphCall.class
+sha-256-Digest: oeoyG8nWYX3fznaIdn4D3G4Vf9v7HyGDG77izudd8iw=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$6.class
+sha-256-Digest: p0q4aH59yX6Sqlc+yNTIBHLbBuODgGMIQB03iy0usms=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$48.class
+sha-256-Digest: Slba7pi6Zu6M1A88QqTCJsmyQZbY0f48TsZFw5YpLlw=
+
+Name: fr/umlv/unitex/text/TextAsListModelImpl$1.class
+sha-256-Digest: fz+TbnJ3z09eknFEIquliafngRtF5ANX1Raz7yh91sQ=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$11.class
+sha-256-Digest: r6OSXZMb/nHUO8IdGLfDsoCD1q/VF4yMQsDbFdKdejo=
+
+Name: fr/umlv/unitex/editor/ui/DictionaryFindPanel$3.class
+sha-256-Digest: 1JsdrPHwAGWZbIKRY9tDEcxlWcQJZHS9FTols9986nU=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFindAndReplaceDialog$9.class
+sha-256-Digest: uIqkZzgy398kYGgQOkGlzitiIVtnglmjxSvFrippABw=
+
+Name: fr/umlv/unitex/reverseLinkBoxesIcon.gif
+sha-256-Digest: fl767ZjxbCYguP0XXVb5Nh/Xzlq7kPF8zk0r6Awpu1Q=
+
+Name: fr/umlv/unitex/graphrendering/TfstGraphicalZone$FstGraphMouseLis
+ tener.class
+sha-256-Digest: h/T3o0PX3vFUX4rqpYxpt85HJlwfOVWil2Jagv+/dGo=
+
+Name: fr/loria/xsilfide/multialign/ContraintesPoint.class
+sha-256-Digest: UgsMm7wPhpnTEj2kdi2yNIJ755JaAoCtkXwflpjbRUE=
+
+Name: fr/umlv/unitex/frames/ConsoleFrame$2.class
+sha-256-Digest: TBsms18v2dUzkYxJx1Nag9eD6nYoqs5IkBNyk/AhTis=
+
+Name: org/mozilla/universalchardet/prober/sequence/Latin5BulgarianMode
+ l.class
+sha-256-Digest: SLj6puDV5tuu7MmH5WX7fCmHSu994eqv+JaMw2E6NVE=
+
+Name: fr/umlv/unitex/console/error2.png
+sha-256-Digest: sWVm+MYx4KE+8/YUoUrE87aGbx0gwBnVCA4wa4RZF8Q=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$6.class
+sha-256-Digest: o7MopP/ukJpHiJwFCKCEL13v0ljXtX1I2albzun7P7o=
+
+Name: fr/umlv/unitex/frames/TfstTagsFrameFactory.class
+sha-256-Digest: 6oeQOjpMB62jDiF/1XWJDzT2vlf274LFcbRJh4J2/b4=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$17.class
+sha-256-Digest: LN83/cfvJfCcMR0thDoZ1UPXPtM6TyGsxWM/ULzEew8=
+
+Name: fr/umlv/unitex/frames/XAlignFrame$XAlignDo.class
+sha-256-Digest: FlWUrHNOQeyQF6jpefzpfPx7MMBrlNgGLsp/EF0gw2o=
+
+Name: fr/umlv/unitex/stats/StatisticsTableModelMode2$Mode2Data.class
+sha-256-Digest: B3iWDgUZIR8OmxFrQMzc9cXKoGXmDKiKSgpM8dMG0cE=
+
+Name: org/mozilla/universalchardet/UniversalDetector$InputState.class
+sha-256-Digest: cXHS9JbNm55/QIMG6asi3U0yn6jLum8nskBjeT3E4l0=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$1.class
+sha-256-Digest: evqK9yQEC+LtIB1NurVY+ax8JNAxjg57KpCQTQwjYIs=
+
+Name: fr/umlv/unitex/process/ToDoBeforeSingleCommand.class
+sha-256-Digest: quEP9T8NcNiUORbgD7SnD+ukq53btxGKkD8h9kQGLg4=
+
+Name: fr/umlv/unitex/frames/TransliterationFrame$1.class
+sha-256-Digest: U1Mg9DsXoC/2B7HQCGve7BVyMFI46USYBSGebjrhakQ=
+
+Name: fr/umlv/unitex/frames/GraphCollectionFrame$2.class
+sha-256-Digest: iaZ6jENvDZuOJbvnYwz8zVy4okuxLIr2Ubixam3bUC8=
+
+Name: fr/umlv/unitex/frames/TranscodingFrame$2.class
+sha-256-Digest: vtn/xcX/pIOnmm+dIqeA4XkdytCf/t5dWDXS6yubUl8=
+
+Name: fr/umlv/unitex/frames/StatisticsFrame$2.class
+sha-256-Digest: ICiVDFdM3O6u2YfAB3u1IzE1OZjx0wr2ObyY4OgeZy8=
+
+Name: fr/umlv/unitex/utils/KeyUtil$5.class
+sha-256-Digest: 86buKifY5YWKSQeO3tqtRsisOmLG0WsS/o7DuzivaM8=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$53.class
+sha-256-Digest: nd0aZ6AI6PdmQvnNb9Dn+/rEmsHh3aVLh5ANqaX13Yg=
+
+Name: fr/umlv/unitex/frames/DelaFrame$9.class
+sha-256-Digest: Sbbl9ikmpS0GwAjOCa6exYHn3Zazkik0waY7wDkyHVU=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$10.class
+sha-256-Digest: ZfBnOGdqxXME7ukIdQD1jex8WzPIAU+KiOtRZCXFSVs=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$21.class
+sha-256-Digest: XAM27a7UTgsx5pkvKow8Tl4Tf7Dw7nYzF6bLTQdYdPY=
+
+Name: fr/umlv/unitex/frames/GraphFrame$26.class
+sha-256-Digest: xL3DazmEnOwHJjzw6TlkBGSWBOC0pE9OwKO2RO1f6Fo=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$45.class
+sha-256-Digest: xYVn3nkDjhQgl7l6TPU8AWKKS8vR67KHleiCfz5jde8=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$4.class
+sha-256-Digest: +GQXInoyuon7jvm2F6m08/zSWBELsOHOXkU5VH1kOPc=
+
+Name: fr/umlv/unitex/frames/LexiconGrammarTableFrameFactory.class
+sha-256-Digest: u6Rcum0Z4fnCBzCXKNkEGQtePrvbwrlaYPTs7Vozijk=
+
+Name: fr/umlv/unitex/xalign/ConcordanceLoader$MatchedSentence.class
+sha-256-Digest: u5PHrkFm7njCEjbDALCqBEoFc1eKax0skL2jm9aTZqQ=
+
+Name: fr/umlv/unitex/exceptions/InvalidConcordanceOrderException.class
+sha-256-Digest: tFWhMxQGHAeKTfont920aPgZJImbCJxtKFi2SgoOBe0=
+
+Name: fr/umlv/unitex/frames/TranscodeOneFileDialog$2.class
+sha-256-Digest: HxdXMuUeBBAUNZmtFqyl6e36LPrM2CjHKXrwmLV7NtU=
+
+Name: fr/umlv/unitex/utils/KeyUtil$2.class
+sha-256-Digest: XsVlurZg+GHCIyTDbK7UMlEFWpGtrcIVnNnw1jYdFt4=
+
+Name: fr/umlv/unitex/frames/GraphFrame$24.class
+sha-256-Digest: mEB6Refvhg9hlah70U7no+UT3u+I2cYyXwLGvW+RUxg=
+
+Name: fr/umlv/unitex/frames/StatisticsFrame$1.class
+sha-256-Digest: fEfaFQLwc7gZ3BSdciFBueLVbkowQ/5NO1Ks2xkeAgI=
+
+Name: fr/umlv/unitex/Unitex$1.class
+sha-256-Digest: aY6xCIkMOg6r6vWkv8pLOe0V9IfiSpaYvurmO5JwTog=
+
+Name: org/mozilla/universalchardet/prober/CharsetProber.class
+sha-256-Digest: gJMO9kGBuN6Fabz4+RFQMs/aFIeLUFzbP5z0T7Y+kGU=
+
+Name: fr/umlv/unitex/console/ConsoleEntry.class
+sha-256-Digest: mogUyFNmRzx59jrA3OvRsDU3J6/aZaWuOYhXStIpy1A=
+
+Name: fr/umlv/unitex/frames/ElagCompFrame$3.class
+sha-256-Digest: 690Z3r+h3avYpi+l1KFl0mogZu2ge4H7lCTzC6HewAA=
+
+Name: fr/umlv/unitex/process/commands/CommandBuilder.class
+sha-256-Digest: 2MUSEDt4rJLgWYT1v5M2gcv0IZimncS9zBSmPxl1Xp4=
+
+Name: fr/umlv/unitex/pasteIcon.gif
+sha-256-Digest: 3qTCX5oD3vsqCpq4doIVo71DcowOCl7WskI4b7Ob0qU=
+
+Name: fr/umlv/unitex/editor/FileEditionMenu$1.class
+sha-256-Digest: phkVjvU+e9r+nt2OdfGVTRRk5Yi7wIGVWlCZc3aS86Q=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$19.class
+sha-256-Digest: 18AvZGlnDDZyFuhEGlUS+NUywU1yqfyYA3rYIAoQJAY=
+
+Name: fr/umlv/unitex/frames/XAlignConfigFrame$1.class
+sha-256-Digest: urURgJRVgBgjwhsHZy158mmkiHuFqRvNG2NB7FdPMWA=
+
+Name: fr/umlv/unitex/xalign/XMLTextLoader$1.class
+sha-256-Digest: imiez7Fjp8bVYX9xrG4vU53HRwN5AmNOeMQN1NGk+Hk=
+
+Name: fr/umlv/unitex/frames/TextAutomatonTagFilterDialog.class
+sha-256-Digest: GTad0vCwtSuKd8zdDmWZyJR0ByhwRtRYXOeQRrQlLd4=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$10.class
+sha-256-Digest: z8eRztmY1HeUdlYihkkR6o+61qBloDJhHoGa+XWQWQY=
+
+Name: fr/umlv/unitex/frames/TranscodeOneFileDialog$3.class
+sha-256-Digest: 37jws2sSWDMyCeDTIsg3J1fWzMLlZHtOIl9KWZmeblw=
+
+Name: fr/umlv/unitex/saveIcon.gif
+sha-256-Digest: DOrV+ucfkZDg/zqGGCu00sioVnzn7LG1CIrDhCZbHAE=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame$13.class
+sha-256-Digest: TFmBa+CxoDqEZajzEmWgJUZ22xuVvFZGTrQ5tHf/ets=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$1.class
+sha-256-Digest: bYZYsjYutPTvyek7/D94v7CYZaaRMiSU9DPO9KAh9H4=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$22.class
+sha-256-Digest: PuZu5tBmQ1XPzk2EPHw/BGUYaooMGKOnoNYYafaLGAw=
+
+Name: fr/umlv/unitex/process/commands/Txt2TfstCommand.class
+sha-256-Digest: WJ9Q36bw6B8xjeF+/aRxHDBETb1cWlywm0bPgqqkKTk=
+
+Name: fr/loria/xsilfide/multialign/Align.class
+sha-256-Digest: JpHuO9DLbBt2LjD7bbAoe9t1lsEMdZqyt6/pStGZ/3w=
+
+Name: fr/umlv/unitex/frames/GraphCollectionFrame.class
+sha-256-Digest: bpnMsETNUfcFfQrke2KEo9YlnLmXsSkm9El4PB6dmTg=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$52.class
+sha-256-Digest: SP1vrDHZAFKHVOBSbDYYpPIoXjT9eGXRHMxHEtCovc4=
+
+Name: fr/umlv/unitex/exceptions/BackSlashAtEndOfLineException.class
+sha-256-Digest: XTbWdtSR15bkQN528mHe9/XP/MSSyB/lO+m2+SJOoU0=
+
+Name: fr/umlv/unitex/frames/GraphFrame$25.class
+sha-256-Digest: gJs1dWiz7e0BQzpYGgHaNr6mcTUBQaUlk8q+ix/TCUs=
+
+Name: fr/umlv/unitex/frames/ElagCompFrame$2.class
+sha-256-Digest: ZfGm7WBjuynV7wijc4kmOp9g/4uhaj0veJzNLAG8jS8=
+
+Name: fr/umlv/unitex/frames/ConsoleFrame$1.class
+sha-256-Digest: rZFeIFh211nLEOIxH+2jovLo5zX0nrQrGMWOMxhJxpU=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$18.class
+sha-256-Digest: 5HBwPfn70uMKKNLwMYxwLM1QuivDddDqVWGI4UHM3oI=
+
+Name: fr/umlv/unitex/frames/ConcordanceFrame$6.class
+sha-256-Digest: 6wj07xYWOcUykhaMxgp9E16d9rTLCXCIlw0lNdNBZsY=
+
+Name: fr/umlv/unitex/graphrendering/GraphMenuBuilder$2.class
+sha-256-Digest: PDU7USvCS4XZD8iNh03QGk9T1SpTEwrBtHRyr1xjGIk=
+
+Name: fr/umlv/unitex/editor/FileEditionMenu$2.class
+sha-256-Digest: 8uAsFAbtGOEOOQ+BuqHbQ1fDOvS3Kl/jPVh1qjrdCMM=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$5.class
+sha-256-Digest: pwF8yPW4KHYNL/d0rvKXTBBPj0uxUyXSBGvk5ZtPb/I=
+
+Name: fr/umlv/unitex/frames/XAlignLocateFrame$XAlignLocateDo.class
+sha-256-Digest: oN9rVwxvqCytXhERa1fI3QElAdlxuIq/rw0pr2GnZPo=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$2.class
+sha-256-Digest: VDSSPUWz42Sf0jwVV+kYIZH60TVSPqAHzuVb261kmVM=
+
+Name: fr/umlv/unitex/graphrendering/TfstGraphBox.class
+sha-256-Digest: x5yZdOQf/IuoGOiTOhSU5l3phEwhBQ4lS0Nfkh+ui+o=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$11.class
+sha-256-Digest: 8yrjzxjMfGaGrdhTGXpQk+uWpF88cQ8RHWrWQShXlNE=
+
+Name: fr/umlv/unitex/process/commands/ReconstrucaoCommand.class
+sha-256-Digest: Oxh50BbrCJGz8Xhkn3cYTiIGoSfjp8lyvpqiMZaMB3A=
+
+Name: fr/umlv/unitex/frames/GraphAlignmentDialog$6.class
+sha-256-Digest: GwcKW++0e6aeAwS4BiGLsIUPAprenB69IHwJwRrOOMc=
+
+Name: fr/umlv/unitex/frames/FontDialog$6.class
+sha-256-Digest: PJCVIXVUOySwteodWY4+jdbFNHAoQ06jqUaJu0I4OtQ=
+
+Name: fr/umlv/unitex/frames/GraphExportDialog$1.class
+sha-256-Digest: 3Lkm6rH2zvqRd6g6FeWRM2/mDQ8QBYTKMq0bExnpHI8=
+
+Name: fr/umlv/unitex/32x32.png
+sha-256-Digest: wverKCqMJtJxcGmIsmw8bzfYgIwcwpSctrCL/vNXuZU=
+
+Name: fr/umlv/unitex/frames/LocateFrame$4.class
+sha-256-Digest: IR4MmiqvIlkAJDW9d+T4uy0eM2BL75hvx+q0nrcBS7g=
+
+Name: fr/umlv/unitex/frames/XAlignFrame$7.class
+sha-256-Digest: wQT47XKP+FpoNki/U20HL0q7YFGnCyyqace13qXYG4A=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$2.class
+sha-256-Digest: 7f0bIgUbgPZd5uGQtueM6af6qIroV1FynsJPwhsshxk=
+
+Name: org/mozilla/universalchardet/Constants.class
+sha-256-Digest: tWx0azBo5xcoOn1PJVbiZNLvrGY5PV8xeQB4dswv1HE=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$64.class
+sha-256-Digest: c9Dyttn65Jq6VCuQuKuqMDazHawGXUYSUTE6wIuVIZY=
+
+Name: fr/umlv/unitex/graphrendering/TfstGraphicalZone$FstGraphMouseMot
+ ionListener.class
+sha-256-Digest: +U27V9j13DPuD7l5TNdQ2VJf5DONvSCyKs55N7cqc70=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$51.class
+sha-256-Digest: 6LV3+FcL6ULZI/dNYXLfvKSYlfPD6tlQAoJ6+/HfDMc=
+
+Name: fr/umlv/unitex/frames/GraphFrame$32.class
+sha-256-Digest: wHOWLTU5amzwJ5chPy02LupX7LK297fkgjrQQAEWSlA=
+
+Name: fr/umlv/unitex/process/commands/CheckDicCommand.class
+sha-256-Digest: U5pvoeTXXrUO9cCGJPQXCGqSrlfyRFdDqhiy4amImoQ=
+
+Name: fr/umlv/unitex/frames/ConcordanceFrameFactory.class
+sha-256-Digest: X8er6sXtVbnN5d0mz1AQuh//zMG2jBlISALEO5q5+kM=
+
+Name: fr/umlv/unitex/frames/InternalFrameManager$1.class
+sha-256-Digest: VmvHH4QbCwremHaS4NQe+BiKxxZLsCgCFo1vGqMSDh8=
+
+Name: fr/loria/xsilfide/multialign/LoadAndPrepareTexts$MyVectorSrc.cla
+ ss
+sha-256-Digest: Cm3fRBAKToLVkHJ84iBx4BeK3LGotds85htX/97rNT8=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$12.class
+sha-256-Digest: oOvsEUQtuuUInpbbLRBf/ZJ+jRN+2aqqAce187PM/uw=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$22.class
+sha-256-Digest: h21b05tCzokbvXFZr+MOEUqfEd4Zyqh/5g5Cxb0DkpM=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$7.class
+sha-256-Digest: t0322f+guRJd88MXtgqvry+txKjjCQUeVRu7gL/V8Cw=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$LoadStatisticsDo
+ .class
+sha-256-Digest: oFgHCvXdH5uF4Lrz1fOqoRxsFt4TDihWosj0/SjTVCw=
+
+Name: fr/umlv/unitex/process/commands/CommandBuilder$3.class
+sha-256-Digest: NRZCwpy9iGmN0reRJjPsiJS0wjUbspD81LPmhDO95Z8=
+
+Name: fr/loria/xsilfide/multialign/NewLoadAndPrepareTexts$MyHandler.cl
+ ass
+sha-256-Digest: tnPUhpq8JCfqMgG0kWebgmPN6aZ8jg6jI1aWHUOIZOY=
+
+Name: fr/umlv/unitex/graphrendering/TextField.class
+sha-256-Digest: c4AmbBI+zE79FxX+wa6SdEEx0bRiSwrdsDs+NKYqj38=
+
+Name: fr/umlv/unitex/frames/PreprocessDialog$2.class
+sha-256-Digest: oudS6FPEXJEwnMAzxg43B1Zq8hxtbjehTb5o2Cy8zzw=
+
+Name: fr/loria/xsilfide/multialign/Alignement.class
+sha-256-Digest: u/I3LGZ8wfpLfAuweZoukLAfKySoEw19tU7Ewd3mBmg=
+
+Name: fr/umlv/unitex/frames/CheckResultFrame.class
+sha-256-Digest: vKpQapZ/a2DQM3/sSChgPYmGPHz9PSsmv/tkJIU9L/w=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$37.class
+sha-256-Digest: oykrAX5yzlyJMiXhCo1HoUCXqztxNGiVCQ17ZBsYLLM=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$8.class
+sha-256-Digest: Lc7XFVwy3wKX6U2B1d/CESTDMvO2XMuVb0WtAvMdekU=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$10.class
+sha-256-Digest: pF2QsMZiAqoFFVKHycv90t8I2QPlhR0BYvupqDGC9/g=
+
+Name: fr/umlv/unitex/frames/TokensFrame$1.class
+sha-256-Digest: KKVRpCaWEDIiNdAOQinjDPc2Jzw/lam09NtyhZ3TBpY=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$7.class
+sha-256-Digest: qzuEJHisQ8xI5/2NNiejqnV8trtI4ofGqnEATRt6xXM=
+
+Name: fr/umlv/unitex/frames/CassysFrame$1.class
+sha-256-Digest: xIiI/pU1UTGKysANcr9OKpQaigZoEz1FyCPVhUhaOIA=
+
+Name: fr/umlv/unitex/cassys/ConfigurationFileAnalyser.class
+sha-256-Digest: p/aY3AR9JX/YYxX+kHsLzLhOGge++qDbfn45x1w8Evw=
+
+Name: fr/umlv/unitex/GraphCollection$1.class
+sha-256-Digest: sVrVi5F357L7KrHE6kkjq9k0Nqcf2FjSxfkLL1zKUWY=
+
+Name: fr/umlv/unitex/undo/SelectEdit.class
+sha-256-Digest: D+t/NQsYUC/Azm/+YUfXlboVFN2Z/7vbR9TzybO1ryQ=
+
+Name: fr/umlv/unitex/MyCursors.class
+sha-256-Digest: //5tlwAnbbn0566Kg7PtbhDkJkNTHTtFQBgV286pNI4=
+
+Name: fr/umlv/unitex/files/RegFileFilter.class
+sha-256-Digest: ApMNKukYCzwdcFGGYsSSrDVqR/jKUaXnu/UTkF8ryYs=
+
+Name: fr/umlv/unitex/frames/ConvertLexiconGrammarFrame$3.class
+sha-256-Digest: CfuftJ8YSSPmXpzpev36scqtHtx1mI/IcZehib7Kndw=
+
+Name: fr/umlv/unitex/frames/StatisticsFrame.class
+sha-256-Digest: MvZ5ZeXzBnapO6c3OiL31c8GqHYDvq+PpX6nXlu53Qk=
+
+Name: fr/umlv/unitex/listeners/GraphTextEvent.class
+sha-256-Digest: Dzg/r61cEQIE+ZK+lqeI1pqlihkgr8BoWzv1eZVdd0U=
+
+Name: fr/umlv/unitex/frames/TransducerListConfigurationFrame$MyInterna
+ lFrameListener.class
+sha-256-Digest: 9pP5+rWXqXfRoNqZBB/0lxEDk7a+ur/OqK6pVERBNW4=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$33.class
+sha-256-Digest: T7GYnsg2PZaw2Wbk8jNIiLpK/dip6+dXip43pReTaao=
+
+Name: fr/umlv/unitex/config/UserPreferences.class
+sha-256-Digest: m3s9B1139uluTmcrvQInbOrG6VIZETEwbw/RNOlVAD4=
+
+Name: fr/umlv/unitex/editor/ui/FindSentencePanel.class
+sha-256-Digest: Pdi91opjB/7tiQWehO+0YOF3wgyDQAiWejv5T2ouj6A=
+
+Name: fr/umlv/unitex/frames/FontDialog$1.class
+sha-256-Digest: ckO42WZS5HesvJidxl+5pXYZfSABYmyC4+lo1Z+usSg=
+
+Name: fr/umlv/unitex/MyDropTarget$DragNDropListener.class
+sha-256-Digest: ErEvSujhaZdqDtkPhEJA9GQJTWm69bXLyhrm7pbj9M8=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame$10.class
+sha-256-Digest: tnHFtq+i1YcE4INBAbxiDhwRw1MPOscbrnmTnszc3t8=
+
+Name: fr/umlv/unitex/xalign/XAlignModelImpl$1.class
+sha-256-Digest: GTlqodI61uGOui9rIzkyGxf4MresU7FmFqCLKuxO3iw=
+
+Name: fr/umlv/unitex/frames/ElagGrfFileFilter.class
+sha-256-Digest: lmZW49mEwst5UpRWRTtBxBEaGx/nWGpPZlCphMdSGtU=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$16.class
+sha-256-Digest: U/fDiqi0vXl7jIUjsfYYQbLK35/8IL4iro+uXgaH1Cw=
+
+Name: fr/umlv/unitex/frames/GraphDiffFrame$3.class
+sha-256-Digest: Dxa23GjQvjyUeE5T/gyTWjLwa4c+cXMHB9Gyuu3kuqo=
+
+Name: fr/umlv/unitex/tfst/tagging/TaggingModel$1.class
+sha-256-Digest: uByrz+knIkfnx6oV4vCIXm+WgyPyH1XwiAVFWokzaYw=
+
+Name: fr/umlv/unitex/xalign/XMLTextModel.class
+sha-256-Digest: YLBVfiiByI9ej1+yXsvTx+06JJi/pe1ZmyaVXCYF2gc=
+
+Name: fr/umlv/unitex/frames/TextFrame.class
+sha-256-Digest: JVRxcSrUOV+B6pt9pUDDl/J+IuDy38wWTJT59ZzJJt0=
+
+Name: fr/umlv/unitex/frames/XAlignLocateFrame$1.class
+sha-256-Digest: /oan7xiEcQ4sFRbEXVsSJAEFPaVKU5rEP/vpVvM22ig=
+
+Name: fr/umlv/unitex/frames/SvnConflictsFrame.class
+sha-256-Digest: VZj0eWgJTjRj/fCrFoWd26HImH/6PQHDfy9tV11NpTA=
+
+Name: fr/umlv/unitex/graphrendering/GenericGraphicalZone.class
+sha-256-Digest: sqO6/pQURTldNplEKuHaEDLWL2ExZ9co2G8+4w9dePc=
+
+Name: fr/loria/xsilfide/multialign/LoadAndPrepareTexts$MAHandler.class
+sha-256-Digest: 1kB+v6i5Wl03MyMdrJo7RUs+SD2XQ6wf6nK/gnXdrSE=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$ComboBoxToolTipRender
+ er.class
+sha-256-Digest: Q3l4yjX6ZZl1OXtGPThnCc3ybndzOnoP/ViiWQQv0BU=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$17.class
+sha-256-Digest: O5AIPoYl+UTkHa8CcDkzMX6ir4sRjjhwqAfXlSJu+do=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$32.class
+sha-256-Digest: BSDpPOj47ZcFSm2JKjkRQhThc5y0khKAZUbNwBPsO+g=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$83.class
+sha-256-Digest: aBvBdN2llsw1AUp2V+i2GSeqOiTJZ9BbNTYscOI+Ffs=
+
+Name: fr/umlv/unitex/frames/XAlignFrame$2.class
+sha-256-Digest: oDafGSZ1OV7ioot3tV5QMf135m/F+wlQn1cq124ycyM=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$20.class
+sha-256-Digest: 5oj10OuWSRBNfMEbVICfv7xWfNjwSqLc3HQMkpa1CVk=
+
+Name: org/mozilla/universalchardet/prober/distributionanalysis/Big5Dis
+ tributionAnalysis.class
+sha-256-Digest: pqP2G1FstZYakscJ4V2/lSLTqEIOM0IPCMFYsxIRqrs=
+
+Name: fr/umlv/unitex/editor/FileEditionMenu$1$1.class
+sha-256-Digest: KE0kjwu3OBJWFJfwhsf6qdjVXvbZcBbizcR/6c/6S/0=
+
+Name: fr/umlv/unitex/frames/ConstructTfstFrame$4.class
+sha-256-Digest: g2JZxKxw1DP58Tl2Fn4G7HHAgT4mA0KHK520E2tFGrU=
+
+Name: fr/umlv/unitex/frames/DialogFactory.class
+sha-256-Digest: 2TB0KEA2lvbBgsuFAuue/+YA1xlw27dM5mTE0CbebTo=
+
+Name: fr/umlv/unitex/frames/GraphFrame$6.class
+sha-256-Digest: tQVxg8m6VtzeWjOfnLdtCouaNiMBlHh0Hg+M7FqpIh8=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$15.class
+sha-256-Digest: 1ggN0r5CXpYmO4MM1YrCn6i4/wxITwixU4y3pNDcGkM=
+
+Name: fr/umlv/unitex/UnitexDropTarget.class
+sha-256-Digest: jZY0RQDoUZ5/KTheV8EqLWDt1DBY+uX03SlioflkncM=
+
+Name: fr/umlv/unitex/frames/TranscodingFrame$4.class
+sha-256-Digest: Qv5dlkAxjZBztLunkc1NBuJ5IWnbnHmo3At6yIgzY2o=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$5.class
+sha-256-Digest: Ns5+nPFY/32N2aPKAqsFIL3grc60zE4DGSk+DjmtSlg=
+
+Name: org/mozilla/universalchardet/prober/distributionanalysis/EUCJPDi
+ stributionAnalysis.class
+sha-256-Digest: HLqPRGl5i80Z2mNkVjqIQ26fP1to1125XPEYKzhQ2KI=
+
+Name: fr/umlv/unitex/project/UnitexProject.class
+sha-256-Digest: WsDFIbzDSapsCddjBskM/UrGJh1xqovivn6j0JLdzSg=
+
+Name: fr/umlv/unitex/frames/TextDicFrameFactory.class
+sha-256-Digest: jDi+Z2So33KDsUkgd71AqIlbgduz7opmeg1+KPiA+9g=
+
+Name: fr/umlv/unitex/calledGrf.png
+sha-256-Digest: Nf7Lqan/UNKLA8X5i8TPDCQZpJG6fKezwlT7tufDFCw=
+
+Name: fr/umlv/unitex/frames/TextAutomatonTagFilterDialog$1.class
+sha-256-Digest: EPBV9fyAzFoIB1IcKSo0Dctd6Rq8ObmijtagbSPCNR4=
+
+Name: fr/loria/xsilfide/multialign/LoadAndPrepareTexts.class
+sha-256-Digest: L2atnv5CFeO0+AghzEaQzfw4R0AuFIjmM0JpO4iA0nc=
+
+Name: fr/umlv/unitex/frames/GraphFrame$9.class
+sha-256-Digest: glmwHox80MtWtUKHU5jBDjW1yLWErMAdid4fOU7ymYI=
+
+Name: fr/umlv/unitex/frames/ConvertTfstToTextFrame.class
+sha-256-Digest: ewasK+xBfStuUlHUnqgzRTqgGRHFWvXqe2P7aDXmBfs=
+
+Name: fr/umlv/unitex/frames/GraphDiffFrame.class
+sha-256-Digest: qyFlzVITMFIlFW7+ehcxv2nlgsK4XSchtc/0KGyrYUc=
+
+Name: fr/umlv/unitex/frames/Seq2GrfFrame.class
+sha-256-Digest: V+zqtPEe/zas/2BEJyAppSJO2gT0USWKzScl9mbTTKM=
+
+Name: fr/umlv/unitex/frames/TranscodeOneFileDialog.class
+sha-256-Digest: tj05rdJOd3c8NMbNFL0w3+MbhDKw7AMtLt47Ywn2T1Q=
+
+Name: fr/umlv/unitex/undo/TranslationGroupEdit.class
+sha-256-Digest: uyFUZ8WL1uqWsaTYfZTnNUcuePo+JjwjqhwL+zZNOpY=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$ApplyLexicalRes
+ ourcesDo.class
+sha-256-Digest: 86R2fcJRzblXG8l0SJpRBKrnf8VBuDJPhrz6fz7Ler0=
+
+Name: org/mozilla/universalchardet/prober/GB18030Prober.class
+sha-256-Digest: 4iVS8OPhcA6I/h9PtOCxu7sSakw33tedoCMWgr29+Ck=
+
+Name: fr/umlv/unitex/frames/BuildKrMwuDicFrame.class
+sha-256-Digest: QUk4173GWnOIq4iEc7OXYvlILlg5bCZLsAMjfvfUwNY=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$ModifyTextDo.cla
+ ss
+sha-256-Digest: +NTGCFLxHDTlyBm8PbWUwUdYLBWnAXix51e5tore3yQ=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$31.class
+sha-256-Digest: SUl58kT1SzKD7Z6Jl2j/IiGFKc5p8OSIk4MKa4TvsUU=
+
+Name: fr/umlv/unitex/refresh.png
+sha-256-Digest: hDI9MHsWQPb3HZbdAKWBO9Vafa4PqOjYGQxoaCrgvaw=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFindAndReplaceDialogFactory.c
+ lass
+sha-256-Digest: cdXIxvEyzw9ui51pw1606qqEFjFk7hlM3+WjZnYiWv8=
+
+Name: fr/umlv/unitex/process/commands/Tfst2UnambigCommand.class
+sha-256-Digest: 3tFevwbyU8UAj9bxc4rVswBryKv4voT38rmGiN+RQAw=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$85.class
+sha-256-Digest: Gc7sAojCIB2WXVKS4A+kUB7gwA01mNaL5t57YyfTbvE=
+
+Name: fr/umlv/unitex/frames/LocateFrame$2.class
+sha-256-Digest: pUr3iau+JhBDprnXaiqEvQFZDvGqtFq9FJAHW7VjldI=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$19.class
+sha-256-Digest: DmHM0r6dN6vEwpf4bDiU+jQBzMtkjb5M5nWCiA+tLNo=
+
+Name: fr/umlv/unitex/frames/ListCopyDialog$2.class
+sha-256-Digest: mKhFFXxqsSHNGlccQuFidegFOKMb2hYM7jnmuGo/SgA=
+
+Name: fr/umlv/unitex/text/BigTextList.class
+sha-256-Digest: FX7qrgiI2tbVmJDe85wAxjI4Tv6ltTeUAmx8Jpzmp2A=
+
+Name: fr/umlv/unitex/frames/GraphExportDialog$3.class
+sha-256-Digest: 25Nu0FCesExUG98eP9SyjV52Mhqouf7H7GR0wtL5Rtg=
+
+Name: fr/umlv/unitex/config/AbstractConfigModel.class
+sha-256-Digest: RfxCRFHTXRl5BuEwgzLby0Yal2PkpjkE6ggbe78tcmY=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$41$2.class
+sha-256-Digest: b3XQ8bW7eCMVMKD3CS1rkI7qLinfbMWdRBK+aFmd9vA=
+
+Name: fr/umlv/unitex/MyDropTarget$DragNDropListener$1.class
+sha-256-Digest: VvqhzZBVcx/ZfsJvCVfxD6RKp1Pm6Uc9c1RM1BbfbsM=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$62.class
+sha-256-Digest: 1md7WaYtq+BOvcKiQgtiZP03odqdUgpQDJo6E9jxfUY=
+
+Name: fr/umlv/unitex/frames/DicLookupFrame$7.class
+sha-256-Digest: 5XeN2UH3T+KGh6YTdKsYNWz5Os8u4omRlJaaj/WRR6Y=
+
+Name: fr/umlv/unitex/findAndReplaceIcon.gif
+sha-256-Digest: 3Bp1HGmsSF/ZY5/zhboRypWupLUjQ7eyM7J0qqokBCw=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$1.class
+sha-256-Digest: eyRzRczwh3ghlyUhJUoh49TiGLjYfCN3qMzDnQ47y10=
+
+Name: fr/umlv/unitex/process/Launcher.class
+sha-256-Digest: FVgPLGECs3YuyfqKMBoJtOYu3SB3JsUezLt5Rp8Kkcs=
+
+Name: fr/umlv/unitex/createBoxesCursor.gif
+sha-256-Digest: IQzMuftFfrrD8IpihaOyoShxo4HZkEa+PJ+grrTx69k=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrameFactory.class
+sha-256-Digest: jggfNVVavzeOAnnryoIAxoO0cNr5y0yfSE62tqqpgqg=
+
+Name: fr/umlv/unitex/frames/KeyedInternalFrame.class
+sha-256-Digest: PTIBNJQ48ZEjplDoeTXVn90ivYNmJ50aYXZ7ObIgzAM=
+
+Name: fr/umlv/unitex/frames/GraphExportDialog.class
+sha-256-Digest: SFiEFVVHzFwTNUHUvbllVSLhCIXXoijH+MHOUTQrHl8=
+
+Name: fr/umlv/unitex/console/OK.png
+sha-256-Digest: O6t0fpYVd3S7Sus8lX8gBNAGFRJPm4yCP9ehug5xoMw=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$13.class
+sha-256-Digest: KOl42jGpokjJYLYd87PIRVJU0aD+XaS5ft+E+tD2ngI=
+
+Name: fr/umlv/unitex/config/ConfigManager.class
+sha-256-Digest: 36Hd2Uu1O38iIH8D5W3vXGh+8RKiaI9NepOchX9F8f8=
+
+Name: fr/umlv/unitex/stats/StatisticsTableModelMode2.class
+sha-256-Digest: QqdMeUdXw8ISSDaZedlm51iQmf1UyixsDfblKEnu6E8=
+
+Name: fr/umlv/unitex/editor/FileEditionMenu$1$4.class
+sha-256-Digest: ku0+GP0Qo00Pjpq3MyiOgfD1gCrq1ZdY4UnoJ9eYhxw=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$13.class
+sha-256-Digest: rSFpmg0Na1g/DvcCXShoPaMnUFEnH8wayxF9o4F1ffE=
+
+Name: fr/umlv/unitex/48x48.png
+sha-256-Digest: dLOZThTmWxTuDQ0YDBAXIGSSMqiZVu5xu/ZSMYJ6CU4=
+
+Name: org/mozilla/universalchardet/prober/sequence/Ibm866Model.class
+sha-256-Digest: X6pBROCNaqElX9sSU2GOwHnvgG4H1PdL3SwwcLLwrq8=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$13.class
+sha-256-Digest: 9C8AA14ujfqEVmIDAH9ltL6JjDAgeQrwfTHro1CHS5A=
+
+Name: fr/umlv/unitex/frames/XAlignLocateFrame$4.class
+sha-256-Digest: AfBuC+PQf1aqHMA79CAB26DdSEczQBQBQGbk8BuNDmo=
+
+Name: fr/umlv/unitex/frames/ConstructTfstFrame$2.class
+sha-256-Digest: 6bA9AJH+zuPMMls/jcDZElLEIuV+hfSkr1bXiumk/bc=
+
+Name: fr/umlv/unitex/io/Encoding.class
+sha-256-Digest: V6OiSAxuMBFlR21IxNS4Za/OwIJZ49vjmJddXtfs7fs=
+
+Name: fr/umlv/unitex/process/commands/XAlignCommand.class
+sha-256-Digest: 2DGmRAc4gEGZ15vNvZiruIle7RKE2kp1fz/DibA3Shw=
+
+Name: fr/umlv/unitex/graphrendering/TextField$Save.class
+sha-256-Digest: QTGZ02BJC2RRqr1QMhAR9TwtcrgfE0YKRYMdEd5n0yA=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame.class
+sha-256-Digest: jidxtzCelGgQpX/dC82ZoP2uZkTCbrNVWAbBK7vqRPo=
+
+Name: fr/umlv/unitex/graphrendering/TextField$Presentation.class
+sha-256-Digest: PrvGuuMfxZky28P2gJmgwH7x/n3vQen6b3Dysyssnwg=
+
+Name: fr/umlv/unitex/stats/StatisticsTableModelMode0$Mode0Data.class
+sha-256-Digest: AvTs75AOfl+LO+oyhMZ5imylSHx7p3jyYp1ObyM/HbA=
+
+Name: fr/umlv/unitex/config/PreferencesManager.class
+sha-256-Digest: VSm9ARLsTsdHdWLzfegenqlQVhkU0ghAKrM0Ckm+kFg=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$20.class
+sha-256-Digest: gDud9S2hrfmwOqOXIE/r3tclibygTTl49N74GA3uw0c=
+
+Name: fr/umlv/unitex/frames/GraphAlignmentDialog$1.class
+sha-256-Digest: 5FTQgnuc78smAQ5LvvMCQ+lFNUu1jkluk0TAGsSAQC0=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$3.class
+sha-256-Digest: BF/gZ+wcxf4PeauA+T1u94q3NsW5Qx8KluxcUKs679w=
+
+Name: fr/loria/xsilfide/multialign/Point.class
+sha-256-Digest: TMtDy9UQFo8k7r6HAMHCzNXGlWas18Kfai7GhqJUXQo=
+
+Name: org/mozilla/universalchardet/prober/sequence/Latin5Model.class
+sha-256-Digest: qVVWIXYmzjBm3NcJ0w3WpVZY1ku1DBbEe2Yh9F596fA=
+
+Name: fr/loria/nguyen/mytools/FileIO.class
+sha-256-Digest: 7J5Nq2oRLposTRiljYHRxFA+naxVoc1G2gYmMmh74DM=
+
+Name: fr/umlv/unitex/stats/StatisticsTableModelMode1.class
+sha-256-Digest: nnhdoEXuiiOUvwnO+OttPfkicK5Hny83rCLbgm9JGkA=
+
+Name: fr/loria/xsilfide/multialign/Cognates.class
+sha-256-Digest: hYUTPiyv+g6LdfxVOLIf5+a3ulu4oP838bZBc32whME=
+
+Name: fr/umlv/unitex/process/commands/Fst2TxtCommand.class
+sha-256-Digest: t1/nDbtohVG84m6SsOu0oA0gFL6JtKznEu5H/CoFk+Q=
+
+Name: fr/umlv/unitex/frames/XAlignLocateFrame$3.class
+sha-256-Digest: /zlULMPecqeyoLAtlPFHi9jVlAvtGBcoZtmU+ynXdFI=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$12.class
+sha-256-Digest: f6v5zgdZSFlVLa9Fx6wlYLueLVym2ACWqDfmJVONaeA=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$2.class
+sha-256-Digest: 69d65vsUcQ7A4yMwfI/YDQLZCtqIPh+6XphFDCX1NfI=
+
+Name: fr/umlv/unitex/frames/GraphDiffFrame$5.class
+sha-256-Digest: oJoy7o9+xM1GnpKglkm8SFMLZ1/9YjTev1tzbo0HOfk=
+
+Name: fr/loria/xsilfide/multialign/XmlId.class
+sha-256-Digest: 4gIqRSEt2FaqYUwt6liO6237QUuHK8FUVvQZVdlkSVY=
+
+Name: org/mozilla/universalchardet/prober/statemachine/ISO2022JPSMMode
+ l.class
+sha-256-Digest: LJzP7DKfCUbQPJIQib8tsdRrcQIraOs+RTEXrwed1bg=
+
+Name: fr/umlv/unitex/frames/TextAutomatonTagFilterDialog$4.class
+sha-256-Digest: WNdSc/WMz9QCulRjSmHiVSDaxraCKGAY7ARRA4ZWyRc=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$MyBean.class
+sha-256-Digest: 4f7CD6UoMy7AE5dAPMUrC6CQJDO1j6egvuYS1UaGDHI=
+
+Name: fr/umlv/unitex/frames/PreprocessDialog$4.class
+sha-256-Digest: EnWElWBpugvlCPgKJLjkn1jL81E7uUYZ0kPzxNSjc8Q=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$35.class
+sha-256-Digest: d4+GTqWOMlLaNFBcQrhQMZ2BCtGRN2kYbW7HuHiLtoU=
+
+Name: fr/umlv/unitex/process/commands/Seq2GrfCommand.class
+sha-256-Digest: n2+KsBrUy6SQ7NwtuXyspDQlTByULUS8QDgBdNXCpoA=
+
+Name: fr/umlv/unitex/MyDropTarget$DragNDropListener$2.class
+sha-256-Digest: CCIk8/9Zp6PAsjJjBXgO5HX2fw9Gv4hMGRLBk3uke/0=
+
+Name: fr/umlv/unitex/frames/LocateFrame$1.class
+sha-256-Digest: Y9S3iWpWIsesOI36ERIMiT+oszIYMYVYPdXHEOXNMu8=
+
+Name: fr/umlv/unitex/process/commands/PolyLexCommand.class
+sha-256-Digest: waTPhe9B0zwJC1ZtGnCevJ+ZMbvv4LY/WkBTS6r7v4A=
+
+Name: fr/umlv/unitex/concord/ConcordanceAsListModel$1.class
+sha-256-Digest: L4pmO7qwCNJ3n8uuhunABfVyH3oB+lUS17wwCe2EpMQ=
+
+Name: fr/umlv/unitex/frames/GraphExportDialog$4.class
+sha-256-Digest: Sj6WhSM6giMRQCgfT4Iixykl4tDW+2r0BI3VNxs+cMc=
+
+Name: fr/umlv/unitex/frames/TextAreaDialog$1.class
+sha-256-Digest: 7EKeoTeJkQ3A7vsd+BFBZpeKkQTqcbVyPBpybZ6FDOE=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$DelaDo.class
+sha-256-Digest: +4V9JP7c/fRlCSM3770ZQQwO5C2PKSY/I4hzJjdfIs8=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$11.class
+sha-256-Digest: OR1+C2u03yymanCuYSejbMBpn5v4tQAL3sBDZ6d3bIU=
+
+Name: fr/umlv/unitex/frames/GraphDiffFrame$1.class
+sha-256-Digest: +cgHMTCofjKMrFJKcS3wJ//BFW8hi79QREE1bb3p3sw=
+
+Name: fr/umlv/unitex/process/commands/LocateCommand.class
+sha-256-Digest: 5wzFWtLTNaD4+TZylyrzM3UF7iitBsny2XHkVrhc4Xs=
+
+Name: fr/umlv/unitex/utils/HelpMenuBuilder$3.class
+sha-256-Digest: SADha+NjvmuBiZ1bAfysQLeVdb3tALkJyMRGEoYT0Xk=
+
+Name: fr/umlv/unitex/cassys/ShareTransducerList$AlreadyAbsolutePathExc
+ eption.class
+sha-256-Digest: IhA4DpxX1ZLmQEuatMrNOHXM4Byh6nJOlgzv+nwMl2E=
+
+Name: fr/umlv/unitex/reverseLinkBoxesCursor.gif
+sha-256-Digest: eWBLm6AteiA5q22bqUQgutGzYjsopO3e4npICQB8oM4=
+
+Name: fr/umlv/unitex/console/Console.class
+sha-256-Digest: aYF5aKLBdz83npWV1WZWdHXalhhqkx3vfTNerhijD9M=
+
+Name: fr/umlv/unitex/frames/GraphAlignmentDialog$3.class
+sha-256-Digest: KtLqttX3/BDeE761gj39eRk8ss9xAl6YyJ4DvJbNX+U=
+
+Name: fr/umlv/unitex/graphrendering/TfstTextField$MyKeyListener.class
+sha-256-Digest: p6+WSg8wEXj/RPP93fW1lszLD95NGP/lsGZoBfpBIdQ=
+
+Name: fr/umlv/unitex/process/commands/UncompressCommand.class
+sha-256-Digest: fFNRjKQ0v8zNSEc9Xc2NCTQ10+/FkBWLg3B5E+39v9E=
+
+Name: fr/umlv/unitex/frames/InflectFrame$3.class
+sha-256-Digest: tXTOCF3Qs/7ouBR9pMlBQsn3jyZ1onyZDgo4i1DYpMM=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$34.class
+sha-256-Digest: l8QeGOAV7IbkPQ8YMP215SlPMQ5zM3qbnlBP3W16eiE=
+
+Name: fr/umlv/unitex/frames/GraphAlignmentDialog$9.class
+sha-256-Digest: Xik5UUfBi4XeUrIVGffCW5j5oLuEsvmxNjnp15ZApfg=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$81.class
+sha-256-Digest: 8lqCSWHuNjt56kBm2koQR4eiZ4CDrJI3Mivh21UfnSQ=
+
+Name: org/mozilla/universalchardet/prober/EscCharsetProber.class
+sha-256-Digest: sp8tW+c7wOnIlTmtgY92WdfvbXVWSU2bUN+/Y/LzrZg=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$14.class
+sha-256-Digest: OhK2fenXAZ/hMdQLrbaCJOMzzgCwWWw0rw9PGjhCgQ0=
+
+Name: fr/umlv/unitex/process/NullOutputStream.class
+sha-256-Digest: EE6UrCLByMnfcxE4HiPdW3J5VSmi1yEAYbS5AJMwwjw=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame.class
+sha-256-Digest: ndV3FqwRAi9h3g3ZPyGsAnU8ddUkDtU2Swl4A9kXyx0=
+
+Name: fr/umlv/unitex/frames/FontDialog$3.class
+sha-256-Digest: QZQ6Deci6pAw9ryu7xSNKQ/6NXQcyHIYbeFgHbAfgrA=
+
+Name: fr/umlv/unitex/frames/GraphFrame$2.class
+sha-256-Digest: G/R6fW9n2XGLc8YCMWy3gO9TSGfgJ8Qu5bHW/R+mZZM=
+
+Name: fr/umlv/unitex/frames/MultiInstanceFrameFactory$1.class
+sha-256-Digest: Tn7NWuVN0YW4E6DYeIOI4FhmX/CcJqWOqNc6hg4s2QY=
+
+Name: fr/umlv/unitex/frames/ConvertLexiconGrammarFrame.class
+sha-256-Digest: bqsDCaI2zwGFSPeaoly26w77KCTkvnVcdp6buhrrAL4=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$9$1.class
+sha-256-Digest: x+Oj92JOj+S1gondA8WKESKlIMVxpOS0OqG3ypBU6IA=
+
+Name: fr/umlv/unitex/frames/XAlignFrame$4.class
+sha-256-Digest: ibw8a9s6R51ih/JPCSUh0pe6SDb58yqsbeKzyS3ogC8=
+
+Name: org/mozilla/universalchardet/prober/sequence/CyrillicModel.class
+sha-256-Digest: 6OtpjnNHRHmTUEu7olUBUGgXExGeRkPrP4pJrX6N/E4=
+
+Name: org/mozilla/universalchardet/UniversalDetector.class
+sha-256-Digest: MpiDAcmaqVJmloUqoqCbLL89nzJTM8h2fci9m9Hfx74=
+
+Name: fr/umlv/unitex/config/PreferencesListener.class
+sha-256-Digest: krrXQ/C8U7YQN+SzvJVMpoVlX+yq1OZ/WO0OC2TAOJU=
+
+Name: fr/umlv/unitex/exceptions/InvalidSourceEncodingException.class
+sha-256-Digest: UVBEX19fh142TfZqL+UXpiGOAexEBFYcVwGzGUO9WkA=
+
+Name: org/mozilla/universalchardet/prober/sequence/Win1253Model.class
+sha-256-Digest: IsdfS1bNsURX2othH7ceth7sTFrXpvCBtlIQWqJZhy0=
+
+Name: org/mozilla/universalchardet/prober/SBCSGroupProber.class
+sha-256-Digest: SGUnMOYSULIvDK2Q/t9It5VuiLU8oK44ndeOmvIWpds=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$15.class
+sha-256-Digest: 0ClYHAZ6sdwpV1qadp02GnTREOKmvSMbVwppbhvYb9I=
+
+Name: fr/umlv/unitex/frames/GraphFrame$8.class
+sha-256-Digest: Hk5fzppdz4G/0ijKVdWP1yLGeTS+9u/gPsQe8xB117c=
+
+Name: fr/umlv/unitex/process/commands/StatsCommand.class
+sha-256-Digest: kWLQHawDvhNhsX2qwgjACVWlJPo3QndS3U7H1wmBG5Q=
+
+Name: fr/umlv/unitex/openSubgraphIcon.gif
+sha-256-Digest: U27VDQicXdiCWNlteln9Gw6nVrNs2FtyGI+JsfnOK2k=
+
+Name: fr/umlv/unitex/frames/TokensFrame$4.class
+sha-256-Digest: +bhhI7+37FTpBlN3+UGWvt9mRgm8O+OWgyS2fjMy1fs=
+
+Name: fr/umlv/unitex/text/BigTextList$2.class
+sha-256-Digest: yuyTfxd0YJgWlXkVp4mJjfC5Z2+gxdQxj2qDEi9SZf8=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$4.class
+sha-256-Digest: Ml0RoujQn5Rj1tz+YXghMtnEz3L9MhiUtpeK1IhTOEk=
+
+Name: fr/umlv/unitex/process/commands/GrfDiff3Command.class
+sha-256-Digest: vbcLGv/+8dZ0uHaUg11PAKp7uYlIlk9U3sgU0Y1v2xk=
+
+Name: fr/umlv/unitex/editor/FileEditionMenu$1$3.class
+sha-256-Digest: J+mCxSCAh/X6vOAivsvo4hcGjrw6OvooyFF6ogCOvtQ=
+
+Name: fr/umlv/unitex/text/BigTextList$1.class
+sha-256-Digest: 25Q+s1GP9RTEtLpJ4K6WZWJ0Tffr4wgPllgSUiuplE8=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$66.class
+sha-256-Digest: PGMUsH0TkaRGQtxE6fBwDTBlXX+ZULBwz7M0oZQVrPo=
+
+Name: fr/umlv/unitex/debug/DebugGraphPane$1.class
+sha-256-Digest: Pyp+GwzE9sqr/xLJ7ndWMF/o1vN46+UO2GOi3i0EKFY=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$33.class
+sha-256-Digest: uw1HJBeP5BzJuGEvid+RYHKc4pAMY4ePTN50GdXmwXA=
+
+Name: org/mozilla/universalchardet/prober/statemachine/GB18030SMModel.
+ class
+sha-256-Digest: zlOn8oJo8j0QXwIi9ncYqxu7AEr79mL5qghaf3wqKyo=
+
+Name: fr/umlv/unitex/graphrendering/TextField$SpecialPaste.class
+sha-256-Digest: +YoYrLQVuaMcW209K9afEnYwvh0Oh3p9HZTq2ZzxABM=
+
+Name: fr/umlv/unitex/frames/XAlignLocateFrameFactory.class
+sha-256-Digest: dHuYPVgB7yg22HWRge6hekAD/pv7S/CMSF9iiXrCK+s=
+
+Name: fr/umlv/unitex/frames/GraphFrame$7.class
+sha-256-Digest: RwqKl6xaooTrybZrUvVpy6qhqRL2V0fefZxOvwVBzIU=
+
+Name: fr/umlv/unitex/frames/ConcordanceFrame.class
+sha-256-Digest: GYy6LNA+L0fNcQ1iQGhGEGBi/RiJqDd0UmNWslG9FSw=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$5.class
+sha-256-Digest: ngE+W8GJUpQEU203r1Pt0q79ogfi2KDNNgZzZCQzThY=
+
+Name: fr/umlv/unitex/io/SVG.class
+sha-256-Digest: quHDKQ1EUgmq7nqitKm/jTuqSZiCNPp0KEtlGKFRwnc=
+
+Name: fr/umlv/unitex/frames/GraphAlignmentDialog$4.class
+sha-256-Digest: IqA9tBAgb83m3ssfbpI5dLblzPpW/9mQDBaxmLIxTqc=
+
+Name: fr/umlv/unitex/frames/XAlignFrame$9.class
+sha-256-Digest: s/4hGxkbqrxuOOVXn7oxSjvci3JfCZ0DD6Aa+0Tlga4=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$16.class
+sha-256-Digest: meNtshE5Cu2XMGZ547A4y6nV9kXoS93RNYFz6cAwE1I=
+
+Name: fr/umlv/unitex/process/commands/CompressCommand.class
+sha-256-Digest: GqMz4/aDGtgx/QCsqzz5pCj1eiZyI7xD/xLvut5HCUg=
+
+Name: fr/umlv/unitex/frames/DicLookupFrame$6.class
+sha-256-Digest: aqw5IXxGoSSfEky6k4d/9colfjT6aMCWYJGEC0ur0cw=
+
+Name: fr/umlv/unitex/cassys/ShareTransducerList$FormatFileException.cl
+ ass
+sha-256-Digest: nCnWs5blAdv+dyJ3s3AtFphb0LUoYhLMWyKOJtRBfF4=
+
+Name: fr/umlv/unitex/frames/GraphDiffFrame$2.class
+sha-256-Digest: y5H91GgPP46E9eYtXetTH96ipwJ375FHl5hugWyj+14=
+
+Name: fr/umlv/unitex/frames/DicLookupFrame$5.class
+sha-256-Digest: /oPicHX4gWMc3EP6pQSQ9g+9ilPih19t5CYCmEGdaZE=
+
+Name: fr/umlv/unitex/process/commands/UnxmlizeCommand.class
+sha-256-Digest: Egi6vLaGSrAB/S00aO5fwNkmmmcikz95FaZv1HT7rR8=
+
+Name: fr/umlv/unitex/listeners/GraphTextListener.class
+sha-256-Digest: MttcBStxpEDFGc3EyJJQ8vn/u60FxcNE8Dgl3HgXA4A=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$67.class
+sha-256-Digest: kXpZsFfQ2uULBH0VLWdfVnTFcoTOhDCJ5depg3ynh2o=
+
+Name: fr/umlv/unitex/console/ConsoleTableCellEditor$1.class
+sha-256-Digest: lki4TrbHSMqwh0fhut/CkD4RhS+m7GjlITPlCPUvw2c=
+
+Name: fr/umlv/unitex/frames/InflectFrame$2.class
+sha-256-Digest: NHhd8zDEVnCMMks0e69AjbTwjQuDPMtjEoPExwavDsM=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$10.class
+sha-256-Digest: Pi+8uxHkmEZK/oCuMrpAp4q8RS07ejiFTaksJFONljg=
+
+Name: fr/umlv/unitex/stats/StatisticsTableModelMode1$Mode1Data.class
+sha-256-Digest: Z8JBNfy6IPfBJu/XZBa+oLlnnaCvR+R+d+/ziWHh6Mc=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$24.class
+sha-256-Digest: ZHlXAjWrJJO3YNTxub2DKF6UxY9DIrUcoJXt4jri/FA=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame.class
+sha-256-Digest: uHL79NlgPWTxsdUYWmnMkMyTcCPm2t8DuMTg6EsyISY=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$10.class
+sha-256-Digest: NwjMZFRJyz7ps0etQLxVm0A6yKp23uexJ4VqEz4pr20=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$15.class
+sha-256-Digest: uX0Fn2SLDxtXeTcEUWa72OoW6ghozLoMiJ47DE1orpk=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$6.class
+sha-256-Digest: F0pgho4LC4KmH2Qszuy1sZrAxEqLKYLQ/rBfZB3hS40=
+
+Name: org/mozilla/universalchardet/prober/SJISProber.class
+sha-256-Digest: V/qyH4pueBf32GR6MMxZXwKMc/owZEb7v1ifTNbE62U=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$18.class
+sha-256-Digest: R7jwrvkQs+JgyJJFUUFtCygxA+ee+el90Qn1rJXXAI8=
+
+Name: fr/umlv/unitex/process/commands/Fst2ListCommand.class
+sha-256-Digest: FMMPd5+N4Qz911R0wIQHW5VyyA5qI2tz2xKaCorRkpM=
+
+Name: fr/umlv/unitex/frames/XAlignFrame$3.class
+sha-256-Digest: j0F/m0Vi7mm0X4UfEZNFhKzDmeesDhE2UHwy9UpzV2U=
+
+Name: fr/umlv/unitex/config/InjectedVariable.class
+sha-256-Digest: 7+VeeTuooJCNG1rdx4EPYJd8cikAhgzIWeXyzTKu8pI=
+
+Name: fr/umlv/unitex/frames/DicLookupFrame$4.class
+sha-256-Digest: 5fChGfmaE7rS7+sGBtzY9nboAc5Q7vdI28D+s/LoDD8=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialogFactory.class
+sha-256-Digest: FnrXUyibsNr2yxnh3N6TZm53q0VC3YB34wLFvCMp/9Y=
+
+Name: fr/umlv/unitex/frames/ConvertLexiconGrammarFrame$1.class
+sha-256-Digest: nKe0+0d3f0n9SeSm14CTHjhJX8iDlOHoGij4XKUP45Q=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$8.class
+sha-256-Digest: ESVtALmzJr+k3Xtzl9SrYJ3MVPZb9L8uMr6Fu6gkStk=
+
+Name: fr/umlv/unitex/frames/DicLookupFrame$1.class
+sha-256-Digest: cRBDYqnOcALli5Aaaerkad9MijtwFD9RwetfH5ZFnPY=
+
+Name: fr/umlv/unitex/svn/SvnConflict.class
+sha-256-Digest: 4KUCbtXp84biC+VciVlusNP03AiQoEH6i3XXtCRuw88=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$7.class
+sha-256-Digest: jK3hTIHfI5i2T3sdiWE76nkvxcPHt9POTCVBQDfd/Ps=
+
+Name: fr/umlv/unitex/frames/TokensFrame$3.class
+sha-256-Digest: V9Um+EUnwT8OykviiyZE2DEUyXE5lMIvgHmExFbU4QU=
+
+Name: fr/umlv/unitex/process/commands/TagsetNormTfstCommand.class
+sha-256-Digest: eeJ7uwmDuC/LEqf4IU9AkNK/4gRk9h6CNYmwW9teI/c=
+
+Name: fr/umlv/unitex/createBoxesIcon.gif
+sha-256-Digest: NqwJxduItBh3d7NTCZgi4J2qY8p9OXdbz4Bp9eTYQv0=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$11.class
+sha-256-Digest: GTeRIJubx7q5V5c7ryDujR5wqBv++bMMtKUkm2KZRCU=
+
+Name: fr/umlv/unitex/process/commands/ConcordCommand.class
+sha-256-Digest: 00QlDxRla6Qsq8I9lJ4yFXLLLR9IwYPeNe5LzWNxn08=
+
+Name: fr/umlv/unitex/frames/FontDialog$2.class
+sha-256-Digest: sGhPxqLr4sE66J8TNrS/CKy2CTWXvM7+BoseyTG3KFw=
+
+Name: fr/umlv/unitex/process/Log.class
+sha-256-Digest: PDehJ2heTC4taQybSYOMVDxpnMU3NQJRAKkn3OUWiUA=
+
+Name: fr/umlv/unitex/config/Config$2.class
+sha-256-Digest: Y+T/cbgtncJIy2H1EoJqRHhAmpdHBNud2blvd5fuGbE=
+
+Name: fr/umlv/unitex/16x16.png
+sha-256-Digest: KUnuv+aXlEQdUEcAztHLNQ5JPeyxIc1HrjorZe//xYU=
+
+Name: fr/umlv/unitex/frames/XAlignFrame$6.class
+sha-256-Digest: kuCu1z1gCU+O1Oabdvhf9P3+HfFwNZpVI7Hq04IV9ao=
+
+Name: fr/umlv/unitex/common/frames/manager/FrameManager.class
+sha-256-Digest: z4YSdu8tkqcaF9uS9BZ9G/c56bHJ8w6MoxZZQkSbySU=
+
+Name: fr/umlv/unitex/frames/GraphAlignmentDialog$7.class
+sha-256-Digest: 6BNtSWR70I0k8KtSBLCqjmgT42y9fDgHsEHjb3Y/zXU=
+
+Name: org/mozilla/universalchardet/prober/sequence/BulgarianModel.clas
+ s
+sha-256-Digest: 9xPOWyU0cHnVYBT3QZuFjJvY9LDS3gq0YrbDMdMidEE=
+
+Name: fr/umlv/unitex/frames/GraphFrame$1.class
+sha-256-Digest: 1zSFfDYugt8c0NXk2Kx2dF+i/oE///Q61CtmrJunDeE=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$10.class
+sha-256-Digest: hL0MarqQ9UfyuK0RQ58+7vLBHfrxwM9eZ2kidgCVH2I=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$82.class
+sha-256-Digest: PD+XkufvaDGyGKT/5WeHrvZkid+degXdAkNOTYGgIeU=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$68.class
+sha-256-Digest: kiAaqBLhnfNqSZCsLl/EPFzxV5r8V8LPfPWTboVF6rk=
+
+Name: fr/umlv/unitex/utils/UnitexHelpMenuBuilder$1.class
+sha-256-Digest: yg6am2P7qzXdNCCF1aHSwlhDAq955SGxlYq1d4vdQz4=
+
+Name: fr/umlv/unitex/frames/DicLookupFrame$3$1.class
+sha-256-Digest: /pDRsB4y9Se0w2jcnVzcii+Nkgp9STBt0vwvTneZp7Y=
+
+Name: fr/umlv/unitex/undo/RemoveBoxEdit.class
+sha-256-Digest: sSLuMoRoSUmceGhRnV4CcOz/mQUUXQEF08zVBOT/0/A=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$30.class
+sha-256-Digest: fEcqkHb3DSGl7w7oZbriwbtZ83gtMvsTinWvgjJU36Q=
+
+Name: fr/umlv/unitex/process/Executor$1.class
+sha-256-Digest: d30OXkzPGlu0GjN5fb1svlSpHAGqyPhKuWkRpTTOPzQ=
+
+Name: fr/umlv/unitex/frames/GraphFrame$4.class
+sha-256-Digest: ARMsnFaJqKkTsX5AfsUeXTrxC++Cx8hbH4yMgmnXEaM=
+
+Name: fr/umlv/unitex/xalign/ConcordanceLoader$1$1.class
+sha-256-Digest: nUBKX2cDpzW63PG3311rF/Oa2YLKPXPISGUI9lpspAs=
+
+Name: fr/umlv/unitex/frames/XAlignFrame$5.class
+sha-256-Digest: oaTn0bj9pjLN8F8JQPHvY9DJ9IcuJJhUmeI9msUqqq0=
+
+Name: fr/umlv/unitex/process/commands/Reg2GrfCommand.class
+sha-256-Digest: Bvh1t225tiKmajym6cOB/JILH9LaLDyR6OR6p10JvDo=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$9.class
+sha-256-Digest: 3ZZNl5N/tQcFrhSoDmr1Dj2N4bxfmTg9TqUHzxcyx8w=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$12.class
+sha-256-Digest: ud8bCI4MdkGb7RtW9dmi12IAMRNm3ke7juYe5f6qEpA=
+
+Name: fr/umlv/unitex/process/commands/TEI2TxtCommand.class
+sha-256-Digest: pzieu7Tcz+Ta6kr6Okug7hSc20jyShcI2ObDZjPXmAA=
+
+Name: fr/umlv/unitex/utils/HelpMenuBuilder$1.class
+sha-256-Digest: H5lCgFpgK7J/lIvQWImSeCs28/1V2nEKR3QWlAKrSXk=
+
+Name: fr/umlv/unitex/frames/GraphAlignmentDialog$8.class
+sha-256-Digest: LmEtUzEkalLz+NZ0FIxXg/3H9GZ0n6Xfr3tNOi011dw=
+
+Name: fr/umlv/unitex/DropTargetManager.class
+sha-256-Digest: 3FMoun8N+EcDGLRY8CJ3BP/3fMrpW79ipdO4ZNOpdKg=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$13.class
+sha-256-Digest: Tob/T1dfRqxFuobwO6O7KHz+yGbtl08hZBcP9g0TkIY=
+
+Name: fr/umlv/unitex/project/manager/UnitexProjectManager.class
+sha-256-Digest: 60E8JXBAcPlU4MfjyP9SHe4XmV3RVCZOS5zaTXvFRs4=
+
+Name: fr/umlv/unitex/Manifest.mf.in
+sha-256-Digest: Vv8CNy50SAYk9hPmdI2FJprnL10CtpbSaj/pDuuKdhg=
+
+Name: fr/umlv/unitex/utils/CharsetDetector.class
+sha-256-Digest: iICMInJEaYVXOk2TYsSJCuUhgR/NXF08oKjG6wbZESk=
+
+Name: org/mozilla/universalchardet/prober/EUCJPProber.class
+sha-256-Digest: Z3rxYRTT0c4SMJwHpA27wZ5Sgv+q3Cb5hXyHEsBPPuk=
+
+Name: fr/umlv/unitex/frames/FontDialog$5.class
+sha-256-Digest: 2uvQXR2F3iw26f6EDwEdpVUnrVD4q4uHq4vtrfJb1hI=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$19.class
+sha-256-Digest: m3S1tJO3k3nE32iZW+du3AlrwfFADq+Q+5Afr7lE950=
+
+Name: fr/umlv/unitex/graphrendering/TextField$Completion.class
+sha-256-Digest: wbB3GkuWm8lD6MrFxj693hKUZN297Tgy0GJ+2q1+lsQ=
+
+Name: fr/umlv/unitex/graphrendering/GenericGraphBox.class
+sha-256-Digest: YR6mS5X2jAMpLsqg1u/aaXX1dZ1ksoPuOyFnHZFs2WE=
+
+Name: fr/umlv/unitex/process/commands/DicoCommand.class
+sha-256-Digest: FX+8FqTkd7kqo0PXhNhQYxNi2wA71HU5UNSUgxrrDoo=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$69.class
+sha-256-Digest: ghQl7G+8KZ/PZnf/I7vjuRmd9o8laqkyVitqbL3I3kQ=
+
+Name: fr/umlv/unitex/killBoxesIcon.gif
+sha-256-Digest: f3Fa0onvmmAtC3htc19jx6C51HfeelIZ4nZagDfML+M=
+
+Name: fr/umlv/unitex/utils/HelpMenuBuilder$2.class
+sha-256-Digest: 9oRYsDKYUyZxp49PrmvXbR2DD4xNKfEBGA+ESQnS8OY=
+
+Name: fr/loria/xsilfide/multialign/NewLoadAndPrepareTexts.class
+sha-256-Digest: G+LKbq7/qCi/fYK4EQMuMUl3O2vlty4Mi7LB0WzMAsQ=
+
+Name: fr/umlv/unitex/cassys/ListDataTransfertHandler.class
+sha-256-Digest: 7CV9oSohWjERhTvUL3Ci0Hz/DZrbgORuy3JLPfwYESA=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$14.class
+sha-256-Digest: jp542bzH5tXV8jCzDg+Ea//ZNN9P+SMGMxic9cw17dI=
+
+Name: fr/umlv/unitex/console/ConsoleTransferHandler.class
+sha-256-Digest: 9WwbUZeHTy0iFZKR2sHFNw2pppjVkiuDRSyLXtTigZU=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$11.class
+sha-256-Digest: fore/ha2ZjVmlVRTPUJ2xlOmfR2sRdGNtpV0tz0kGbI=
+
+Name: fr/umlv/unitex/frames/GraphFrame.class
+sha-256-Digest: EYT7OFv9i1vvfTyuKHTdGc8ByGDZzoQVb+s0shj+Q3o=
+
+Name: fr/umlv/unitex/frames/DicLookupFrame$2.class
+sha-256-Digest: qMbdLGGZRlDnLXeDV+VXUoHSWD7CM1dDqkoNeKP6B6I=
+
+Name: fr/umlv/unitex/tfst/TfstTableModel$1.class
+sha-256-Digest: EO8B3MEPwYGLsTgnTLeYYm17/q4FODVR7a82f73Am8M=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$9.class
+sha-256-Digest: JTijURtkJZu6Px9BEl2f3ZhlnbLt8wT8Gdx2hiQdZe4=
+
+Name: fr/umlv/unitex/grf/GraphMetaData.class
+sha-256-Digest: 7bmm0IXCyHrRQ1ovbsKmjErn06OD2rhh3ekqzHwgIl4=
+
+Name: fr/umlv/unitex/Unitex.class
+sha-256-Digest: X6x65oCSKtyipHjN794spfefwmccKKRzJ5okaEg8fiU=
+
+Name: fr/umlv/unitex/frames/TextAreaDialog.class
+sha-256-Digest: ZkqnL9BqQmlhE9oo+8HxYpqNCoz+pgHRAlnjoR4HQfc=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$80.class
+sha-256-Digest: Sqfig4YzowExnR+cV6AI1o9NL+OKuzbWijdRt4k3V7k=
+
+Name: fr/umlv/unitex/frames/FontDialog$4.class
+sha-256-Digest: lOqM1S1VDvMJgaqM+riBXwjK2/XTFJdQcwBiOuAgRM0=
+
+Name: fr/umlv/unitex/frames/GraphFrame$3.class
+sha-256-Digest: 8LvcYmLLMH4KiEaUIXlwvN1rdJo5w1ibjVKqL5Ovo6s=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$18.class
+sha-256-Digest: I7tKRYokO+vCHmIRXLu3sXC3Mbw3v7YXE6KmynVjxUE=
+
+Name: fr/umlv/unitex/xalign/XMLTextModelImpl.class
+sha-256-Digest: ho8pcU0vU3LG0X94uYgcy0Ve3NJAxjoZarkoExk3Kjk=
+
+Name: fr/umlv/unitex/process/commands/Fst2CheckCommand.class
+sha-256-Digest: 5OeQCgSvIyuTtALnQXLHdV4DISHibpMjSjRB5SFPMhM=
+
+Name: org/mozilla/universalchardet/prober/CharsetProber$ProbingState.c
+ lass
+sha-256-Digest: zdk7UjQLVjTL2wYociboxSvnKDHbKFYNCP7q3P9k5V0=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$84.class
+sha-256-Digest: bzxzZBo6XwlDtwGKeVhCheu0I8HFStC2pPnV+loCOho=
+
+Name: fr/umlv/unitex/frames/DelaFrame$7.class
+sha-256-Digest: 4cWG/BfFx01hcR6GEGnuaFUeFggoa2VZQMi2AQ6yoCA=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$7$2.class
+sha-256-Digest: vca8R8FDkSKT37fUjRFihEHoaDZFUbOoT+MulgZHXUk=
+
+Name: fr/umlv/unitex/tfst/TfstTableModel.class
+sha-256-Digest: obZKYlJB4G77f0S9bxISQE9sH/YYgGHL5Eduy8fpGiU=
+
+Name: org/mozilla/universalchardet/prober/sequence/Koi8rModel.class
+sha-256-Digest: uBwA1B/ZV0InM6gcJ/Z71diCj9rJ7T1QOBLSCGG3P/Q=
+
+Name: fr/umlv/unitex/exceptions/InvalidDestinationEncodingException.cl
+ ass
+sha-256-Digest: suu4YmXAY03SjdkxCmF3aseSoA8SSez58g9WiF8dP1I=
+
+Name: fr/umlv/unitex/frames/InternalFrameManager.class
+sha-256-Digest: NkN/rq9sX6wpDIe7jpjxB7c/eYL8JuUdls+ILV9cnJc=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$1.class
+sha-256-Digest: Ni8WEAf8++8G7rd85h4/ibq8Pcq1utKxIcPajYDDs0Y=
+
+Name: fr/umlv/unitex/frames/FrameFactory.class
+sha-256-Digest: OJrX9W2RhOkGeQe5MDelejZpGQ4dETC2fgatil4n11k=
+
+Name: fr/umlv/unitex/process/EatStreamThread.class
+sha-256-Digest: X5ZCPg8zQfyyr8SVAnqOm7j/njVmFi0VPjatTVTwM8U=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$41$1.class
+sha-256-Digest: uTUMmfXLFpz8IEagQ/4thk7niYAxCxzFuLZuzf83T5s=
+
+Name: fr/umlv/unitex/cassys/ShareTransducerList.class
+sha-256-Digest: Xd4Al8h397EhS4ioUPO73+UAN//3RzxBn7QyuTrbcdE=
+
+Name: fr/umlv/unitex/frames/ConstructTfstFrame$3.class
+sha-256-Digest: VpFJHbK0+J2ImLDUaXtnlX9cyQYefW9iTLe/HxQkin4=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame$11.class
+sha-256-Digest: IBOeW2Lt7OrlkBUtcf4kyssKmpwyyYOnxMPiF/6u2ZU=
+
+Name: fr/umlv/unitex/cassys/ShareTransducerList$RequiredDirectoryNotEx
+ ist.class
+sha-256-Digest: d5QWITqVV7B3WRlOaP18vkX/4COAJvKxrVp47vd2Fq0=
+
+Name: fr/umlv/unitex/frames/TextAutomatonTagFilterDialog$5.class
+sha-256-Digest: ZyKAl5HXy0oXSyAoU6FUh36KoR4Ez7Xm/+RCWbLwycQ=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$71.class
+sha-256-Digest: 91MtOxGmfLHZF+bp9iOZNBAEWp930YUzsXLfulM0wm8=
+
+Name: fr/umlv/unitex/process/commands/BuildKrMwuDicCommand.class
+sha-256-Digest: cA2YxwP97Zl8wm68DmCNsWWHk8E/qFTaV7ZDtXN/Nuk=
+
+Name: fr/umlv/unitex/redoIcon2.gif
+sha-256-Digest: JbL8Cr8JECsOoEuY5iUhlALBpq2/LuP0rd6VChxGCcM=
+
+Name: fr/umlv/unitex/exceptions/UnitexUncaughtExceptionHandler$1.class
+sha-256-Digest: hJ9AcVz8EYWxLqnLqGrwQc9uPsw8iKgJZq83ObbjDwk=
+
+Name: fr/umlv/unitex/graphrendering/GraphMenuBuilder.class
+sha-256-Digest: QbM6SGbP0+TDJjyBr3NtmIh5szNpt7hS5EYIguwRQBk=
+
+Name: fr/umlv/unitex/frames/GraphFrameFactory.class
+sha-256-Digest: rivSq/o9metSE5mLkr/LmsQkbYQo0+/XT50dLI6enJA=
+
+Name: fr/umlv/unitex/tfst/tagging/TaggingModel$2.class
+sha-256-Digest: VpuvW+n3oEy3obu4WPunVU1n7pVoaVccpoLsfx7w3Os=
+
+Name: fr/umlv/unitex/xalign/XAlignModelImpl$PublishInfo.class
+sha-256-Digest: nHel5yfqvwTa7fh9FMF5cojO1iOkoZg8gYLAKjsCoJM=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$1.class
+sha-256-Digest: Vwri1cDZt8ReDUJMvjruwZ7BbHENty92P0hmNeXpQ18=
+
+Name: fr/umlv/unitex/frames/GraphFrame$5.class
+sha-256-Digest: 0VV+jDuDfv92Ic/p+3oLHPQeBm2G81hZ4BMPDC5k0eg=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$17.class
+sha-256-Digest: yv50M2mFZuFOERjVVNaJbbMYKZcHIN9AsSKRq3wStwk=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$3.class
+sha-256-Digest: mr9b6B95m+Zzr1BvT7CLl29l4pMiecs9U9OJczm5ynM=
+
+Name: fr/umlv/unitex/debug/DebugInfos.class
+sha-256-Digest: xIUfCpbeRcEj4rZjucYPi5DoQasoNY+zuvMOBGPlb4I=
+
+Name: fr/umlv/unitex/graphrendering/MultipleBoxesSelection.class
+sha-256-Digest: 1DLSp/rKT01VzrY6Gy3QGzbyDz7iir59fC7jBAcY73s=
+
+Name: fr/umlv/unitex/editor/ui/FindPanel$2.class
+sha-256-Digest: sVx7zm3lryP9oEbnLFwwoewV/xvtT7kJVjLIwpIhaOw=
+
+Name: fr/umlv/unitex/frames/TranscodingFrame.class
+sha-256-Digest: PWxrB1xt5JwwL3i1j9ouavvIY0xlAwoKOWCXHuyHKmk=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$MyMouseListener.clas
+ s
+sha-256-Digest: xKDxErHJosGrhP9F6xwcv8ctNEWpyEQpRY/lU8uz9lU=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrameFactory$1.class
+sha-256-Digest: EEK3s/n7RCnb6aRm245CtCMpCylCx3oTTQ7biKKljRc=
+
+Name: fr/umlv/unitex/frames/GraphSizeDialog$1.class
+sha-256-Digest: oGrB1I7NxgOA3O03yKr26H+EcZf3wzViuTuhRTsxZVM=
+
+Name: fr/umlv/unitex/undo.gif
+sha-256-Digest: XzfGWEnRPkLwKqvySza2904xiLXIFLAl8uJnam7p+YE=
+
+Name: fr/umlv/unitex/frames/CheckDicFrame$CheckDicDo.class
+sha-256-Digest: 0NUy/7sz+Y2+rZDbn9u3fIdvcBZ8O9iJ7La9A7Lz/80=
+
+Name: fr/umlv/unitex/process/commands/SvnCommand.class
+sha-256-Digest: 0ucejh0wNNH7q2JrRbVLVN5otBRF4ewAyKeW7PGVMVQ=
+
+Name: fr/umlv/unitex/frames/MessageWhileWorkingFrame.class
+sha-256-Digest: EaiKGPFmAhyFIrFattvj+jNMiy7vTn9RO4CPbG41Lj4=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$RebuildTextAutomatonDo.
+ class
+sha-256-Digest: Q+McLKIurFCD67oOWg69r9EDTjoqKPr6s+LEFAWtjCI=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$8.class
+sha-256-Digest: onjvN3xXAEAKwYmCnSR2noNLl5iyIeegoKTWn0uQ2OQ=
+
+Name: fr/umlv/unitex/process/commands/MkdirCommand.class
+sha-256-Digest: tGI5kXpYUHBXXlsNvNao28WnJBGD+LacJoSevaLOzN4=
+
+Name: fr/umlv/unitex/listeners/DelaFrameListener.class
+sha-256-Digest: 8K0u0JJ26dofnnY6ftTvVDawV+Tw8JraJBKlHoVBxZk=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$3.class
+sha-256-Digest: /GaYs5kosSKoJs0Qf9CfEzdPpq3hKTC3gbdBsEQVy8s=
+
+Name: fr/umlv/unitex/frames/DelaFrame$2.class
+sha-256-Digest: yVxQOT4fts0i+3JZAk8XZga5jj2hD31wEisli8guj6A=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$8.class
+sha-256-Digest: JKVVRMbnNoErsnvTGI5u66S8BtFdOOG+8gwlNqllm+A=
+
+Name: fr/umlv/unitex/text/Text$TextConversionDo.class
+sha-256-Digest: 2VuRmqsCNk88j/K5vGLuAf1NhHXr1V+rOn9jrHBQARY=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$8.class
+sha-256-Digest: jL+x1wGqO2COA/hNjAMO5dO4A7BYjUuveKxtLQ4ddTk=
+
+Name: fr/umlv/unitex/editor/ui/FindPanel$7.class
+sha-256-Digest: uuc/gJcuHzgfDmB4xJUjiK0NYExzDGklteq1rERiP3c=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$16.class
+sha-256-Digest: GRt2OfAsaf3kC4ciDeJYOYhAnLyDwI2+qfkNVIu+gYw=
+
+Name: fr/umlv/unitex/configurationIcon.gif
+sha-256-Digest: 1v5FYAbuUltvMlVT1fRr+3CZCC0/QwxMQfAPRiFNgm0=
+
+Name: fr/loria/Manifest.mf
+sha-256-Digest: RqTP1wjee8UoiauAv0uF/5YoabnEWwZ3lKcdlaGegeg=
+
+Name: fr/umlv/unitex/frames/XAlignFrame$1.class
+sha-256-Digest: 9TNQy5ilLWSTepXWEqVo1rKmagD1whsXsz4zhZZQ8hQ=
+
+Name: fr/umlv/unitex/find.gif
+sha-256-Digest: ULMPOLi26jsvNiFbH4j1jA/Zm2U7v0tqNYAn53XHV8U=
+
+Name: fr/umlv/unitex/frames/XAlignConfigFrame$4.class
+sha-256-Digest: VcKNkHHZsM7feDJcL8jbshJsI+1Hbn1mt/REKBD5DRc=
+
+Name: fr/umlv/unitex/frames/FontDialog$7.class
+sha-256-Digest: jRf1PSckQnmdHr52JfMPtxEfRBaUwKRzjQHeGvoE0/A=
+
+Name: fr/umlv/unitex/frames/ConcordanceFrame$3.class
+sha-256-Digest: mIIklqIzc8K6nwl7vUaTC0bm4IX8+ZbrofrFIPgGJ8Q=
+
+Name: fr/umlv/unitex/frames/LocateFrame.class
+sha-256-Digest: FkJe1xIpXGJAlj0+5WjCeNk1HhTgnGIDRRcB1kQPeKg=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFindAndReplaceDialog$1.class
+sha-256-Digest: VHv8Myb0jPrb15hBzAFbA1eyfvUeSOxjh8NWrCeSkRs=
+
+Name: fr/umlv/unitex/concord/BigConcordanceDiff.class
+sha-256-Digest: OguN/y8YwbLnsDwXiuQillnKDKNUjh9iBN4j1789tl4=
+
+Name: fr/umlv/unitex/frames/ConvertLexiconGrammarFrame$2.class
+sha-256-Digest: iLKcU9LS0V93tR1MUUCBrSFWE/WT9e16htoKuxTJscU=
+
+Name: org/mozilla/universalchardet/prober/distributionanalysis/EUCKRDi
+ stributionAnalysis.class
+sha-256-Digest: Oac0HFVMxhkhoFyTblzpU1QLeimph22qK9AcJxNw8W4=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$6.class
+sha-256-Digest: wKeLwsGaUPcdpss9y2ZM6eBKTOMYNEXHAkaKb/m482Q=
+
+Name: fr/umlv/unitex/frames/TokensFrame$2.class
+sha-256-Digest: ngRNlOZ4xeq6BBxJKnhIu0w/j4PghXc3lbnwouZxcZE=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$3.class
+sha-256-Digest: ly5u8OvARie6XQdvr0ce7QX18RbsX7IW7IajND5PmLk=
+
+Name: fr/umlv/unitex/frames/ProcessInfoFrame$4.class
+sha-256-Digest: zPExVal96C2mwxCSNfmJ1XbTyZfWVz02vDs364XK+ns=
+
+Name: fr/umlv/unitex/GraphCollection.class
+sha-256-Digest: zz32bHAH7BdeUAUxnEb26sDAJ7RtOqxAhPkCaC3W9AI=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$5$1.class
+sha-256-Digest: ESU9AK1vfQmYqex35JJ8vSCppPXOhLqGtc/2tFTp1Js=
+
+Name: org/mozilla/universalchardet/prober/distributionanalysis/EUCTWDi
+ stributionAnalysis.class
+sha-256-Digest: f0tPTLDH9hyV5SF/1n5p2w471pBNMsYZG1d1hOtCsOU=
+
+Name: fr/umlv/unitex/xalign/Sentence.class
+sha-256-Digest: 970FGMUDmt6LtXfK+0c69a8TSMVqgFBu2ob+SfPGAi4=
+
+Name: fr/umlv/unitex/process/ProcessInfoThread$1.class
+sha-256-Digest: EUsiz1bNYFR9IUYdyDePdUnm/blX7OIzrT6dwdHx9C8=
+
+Name: fr/umlv/unitex/frames/PreprocessDialog$1.class
+sha-256-Digest: 3Fjdj0Wiw7/nSxcB13Sm7pI9qCLYvB7x3PCsZo0KpN4=
+
+Name: fr/umlv/unitex/frames/FontDialog.class
+sha-256-Digest: OH8fH7ghVdGOYKpvfo5ObxK0YiQAzBSDUKktNANCeN0=
+
+Name: fr/umlv/unitex/undo/TransitionEdit.class
+sha-256-Digest: WtL8/O7ssnW7+J5pfArEJnR2W29RI77CXKm0R6VRHMI=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$38.class
+sha-256-Digest: 59qBXDc9udFNxAkwAIc4Hs+o8bpjJpd5gQfR2xkehbA=
+
+Name: fr/umlv/unitex/process/commands/MultiFlexCommand.class
+sha-256-Digest: +jQ6IulFDsI+FGq3/tABmw7NSScCskSNS2khmuXxEIM=
+
+Name: fr/umlv/unitex/xalign/ConcordanceModel.class
+sha-256-Digest: vrQpshpYae03wlkelzG4aqfl0mbjlIKwWHvJb2iQRQU=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$7.class
+sha-256-Digest: 7AOrdelZ8NsGrRqV2ULhMQm7o42wGTLwBIPrMTaCt4Y=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$21.class
+sha-256-Digest: Ac5Zde/+hFLEQSZrdRYrHtmblLFB8eR3jJZ2wtT1MF0=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$8.class
+sha-256-Digest: www14Fh2o8po7WCz5bb4Y6YsHXUdXxds2x3Y66pdS2Q=
+
+Name: fr/umlv/unitex/editor/ui/DialogLayout.class
+sha-256-Digest: ZoX2DAXskNkx9RP1Vjm91b0cwvLrB/l4o8ReAjEpOpU=
+
+Name: org/mozilla/universalchardet/prober/EUCKRProber.class
+sha-256-Digest: pKPKeRVAHI7HhrqDk+Lalj1rPlfyukqyBayWG8yZpGo=
+
+Name: org/mozilla/universalchardet/CharsetListener.class
+sha-256-Digest: rLwVHIwmBNr95XJ55H8ttXKZa+v1MbMhVKxwyGyE8Z4=
+
+Name: fr/umlv/unitex/editor/FileEditionMenu$1$2.class
+sha-256-Digest: bruG2Rj7wsUstDYLyfSvmldYjMOnVZ7FXAh0K5b6kqk=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$11.class
+sha-256-Digest: S92ANl1Cr493tB+Ze2VC+Q1QFTkrUmbbB6CFAfLK0vA=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFindAndReplaceDialog$6.class
+sha-256-Digest: nedRXZJCLEYXSRGBbctTQKRBuvkBLVchgqG9sFUXIE4=
+
+Name: org/mozilla/universalchardet/prober/sequence/HebrewModel.class
+sha-256-Digest: HiOwHEKMapUtVRW1zjnXiGoE7GylZmndyX4zIcmtda8=
+
+Name: fr/umlv/unitex/tfst/TfstTagFilter.class
+sha-256-Digest: HfQyyYdeGyyl0/hlJx603Aho87eDIRrPC5nHQB0Gj3w=
+
+Name: fr/umlv/unitex/cassys/DataListTransferable.class
+sha-256-Digest: kyfEoymNByggbjSDVzEKfHBQ1UoIWFoPvvvayFknlUQ=
+
+Name: fr/umlv/unitex/frames/ApplyLexicalResourcesFrame$12.class
+sha-256-Digest: x6CGDRNEUagLn+HcRiJYDDTob+co1K33nB+Xr4S7kac=
+
+Name: fr/umlv/unitex/redo.gif
+sha-256-Digest: O3AbTufvLwZD4PcoqLv9lPOrVQvIyexiJeuUuE+Vaac=
+
+Name: fr/umlv/unitex/process/commands/Table2GrfCommand.class
+sha-256-Digest: x18u1Opv5xkNciLf+yDhtSQonUgXhvfKCRsrb3S+pmo=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$17.class
+sha-256-Digest: nFOoQgyF+ZeitHpf59cDL6ATTX76+psMVz9qhOR4uYk=
+
+Name: fr/umlv/unitex/process/commands/NormalizeCommand.class
+sha-256-Digest: GrsHKHPjM03ZxxpU5yaRbo3TseAiqA7ps2s4Un6Yxz0=
+
+Name: fr/umlv/unitex/cassys/TransducerListTable.class
+sha-256-Digest: f5PWqLjMaljaULbQVadWp28xhnA/sJv0aETBoTYh7XE=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$42.class
+sha-256-Digest: 81RWoLRe+KHnihUbCI758Gn9oJtp7rBEanvbJ0nX0RI=
+
+Name: fr/umlv/unitex/frames/PreprocessDialog.class
+sha-256-Digest: lM5LT0GzMrxAS6Ixv6W4p+gTRnixoJWKK3nakrBU18o=
+
+Name: fr/umlv/unitex/xalign/XAlignModelImpl$Couple.class
+sha-256-Digest: w0PXqE8E5ge+e05Pz0m20AoEhI3kp9R2Q+Zf1oKSyVs=
+
+Name: fr/umlv/unitex/frames/TextFrame$1.class
+sha-256-Digest: kN31r1Dv/2Jc1Z92sTIeOmGv7iOa9jcxglPY6fUjar8=
+
+Name: fr/umlv/unitex/frames/TfstTagsFrame.class
+sha-256-Digest: Tizi8Hwbcr5tXmM9KSVkLlMfEQNr7SN+xkC+95hlU5E=
+
+Name: fr/umlv/unitex/editor/ui/DictionaryFindPanel$6.class
+sha-256-Digest: BB4elUgbkwbJXK9F1bonABm77BEJxeM2f1QKRIgBWVs=
+
+Name: fr/umlv/unitex/xalign/ConcordanceModelImpl$1.class
+sha-256-Digest: oejGZMD7Ml8z1XX+AQqKvu6JCC7MzD/YoFnuB6XRbBo=
+
+Name: org/mozilla/universalchardet/prober/statemachine/ISO2022CNSMMode
+ l.class
+sha-256-Digest: 2NIdREJKWtERIJqh0n8PGXMdUJYWqg/E6ajbPwg8VQ4=
+
+Name: fr/umlv/unitex/concord/ConcordanceAsListModel.class
+sha-256-Digest: ZUZuH/1HsD9jCUtLTgRd4IMQJg343cghpDVGbctq2/w=
+
+Name: fr/umlv/unitex/Unitex.jpg
+sha-256-Digest: 0FiK+Kpd19D0ylnqtGkDVj7OsG8GNfUL2mWIt+6D56c=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$2.class
+sha-256-Digest: tHJ5gxPvENzzF+JnL627NiwyrApfWTeIzM03GJb8oJc=
+
+Name: fr/umlv/unitex/frames/GraphFrame$14.class
+sha-256-Digest: /xLcBOty/trePHEoNqcDXweausUqPDLPcNJVK5TvoAE=
+
+Name: org/mozilla/universalchardet/prober/statemachine/EUCJPSMModel.cl
+ ass
+sha-256-Digest: KKbwfSn5vi6DUBb8jjIo4QkMZT+ipeBT2ymPr9Opcj0=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$6.class
+sha-256-Digest: q1y+rvyWRzIJdrYj9mGRzWLJddUNQ+sDoTzTgvSke9o=
+
+Name: fr/loria/xsilfide/multialign/Dist.class
+sha-256-Digest: nJI8I+DwV6TOpqhL8SsEzAut9hEO3YahFIkndlEMb4k=
+
+Name: fr/umlv/unitex/frames/TfstTagsFrame$2.class
+sha-256-Digest: MKfcXD6p0H+ehyUg4HElLvEgSzqYNBJBVDfN/NWz8uw=
+
+Name: fr/umlv/unitex/frames/TextDicFrame$6.class
+sha-256-Digest: +txhagCbakm8HD3Dz+zWJJv0hVqxsdYxHlq7egQaHlU=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$8.class
+sha-256-Digest: YS3YGSfeysN3WynskKlzZ4VuZa3Lzk9PR7VzonOw3rY=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$59.class
+sha-256-Digest: H8MTkVeYAtRu3nRCp9PjKjo8LQjJrXw1/BjUGfPiQeA=
+
+Name: fr/umlv/unitex/process/commands/EvambCommand.class
+sha-256-Digest: jKJBYumfRhXVvwCS7EeSCTe5rHVaa/IdmSIlQp7VpA4=
+
+Name: fr/umlv/unitex/frames/GraphFrame$20$1.class
+sha-256-Digest: TcShGnIkGs98dhlgveb3vWYULqDxf3lkz1VqdNf1+H4=
+
+Name: fr/umlv/unitex/graphrendering/DrawGraphParams.class
+sha-256-Digest: 65uciulUN2mYhXH8b+j5nNL5AJtBSptr2g/ucJsEpoo=
+
+Name: fr/umlv/unitex/frames/GraphDiffFrame$6.class
+sha-256-Digest: 9HTlBVvw7XDaqTozcan/eksT7qHnYtMIgyGl4RX90e0=
+
+Name: org/mozilla/universalchardet/prober/SingleByteCharsetProber.clas
+ s
+sha-256-Digest: YL/c0hi47Dda+89TOEhVwKEqmKk0d/NOkwHERNuGYNM=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$26.class
+sha-256-Digest: pe/Nob1VOxW85UnBwNDDnfO9BFNw52vrRqhPkiSlJE8=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame$8.class
+sha-256-Digest: ySmLpiQhpOe3yt3rjCXrFvLmxtoIFqfAwyCQ6rIEfSQ=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$9.class
+sha-256-Digest: UOUx06PNIbeavNKU/JAc5EXUoeppS0jnsbY9rOymn+A=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$12.class
+sha-256-Digest: wc8aRF4Z7mtrYIxJ0EwoPxiKxQYjgIm/7nC/XvmNMVg=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$4.class
+sha-256-Digest: OD+opt/X6QRlAk0CNo5WsakobJyVd0d7zq2T30s+ltA=
+
+Name: fr/umlv/unitex/frames/LocateFrame$LocateTfstDo.class
+sha-256-Digest: qik6rSnSZFlcd0TXFuVkJrjNFl6C7n5KfXnyTBJ4cw0=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$28$2.class
+sha-256-Digest: pJK35RkQbUNfjqct2EdcRzIzxdlxEYIfYMKFT2rKV3Y=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$30.class
+sha-256-Digest: 2VSeEHvTZcI2qQH8NevHoswYXoMTCjsXDkyHRAKOJsc=
+
+Name: fr/umlv/unitex/frames/GraphAlignmentDialog$2.class
+sha-256-Digest: jk6aWMoVfxLbr65beARuqCap/k4TYv7xJCqlXIU/qIU=
+
+Name: org/mozilla/universalchardet/prober/sequence/SequenceModel.class
+sha-256-Digest: ueSBSIN9gR3lzJeKeNMxHdTpK5ZRH0EOWLj+dLuvef8=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$63.class
+sha-256-Digest: eZSOWvF7nb+C+sTa9+xoFf/zv+omjsy0hZ/Mgk4XOis=
+
+Name: fr/umlv/unitex/listeners/GraphListener.class
+sha-256-Digest: M0wqPw3TwdXsmOSOZq5RTszlLp2VTpi/i+9aCxIWp/s=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$11.class
+sha-256-Digest: q4s29nc9pRgjL+SHc57yGl/f/0R7IPbrJ9+yJ11amh0=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$80$1.class
+sha-256-Digest: VW0wy+/rf97pOTJLUvBJSL8pfGbo3mcGDDs2APN+1TE=
+
+Name: fr/umlv/unitex/frames/CheckDicFrame.class
+sha-256-Digest: ic8rt6ep7he6fri/CSNrTL5F3dByEBG/ru3oC1BK/6U=
+
+Name: fr/umlv/unitex/process/commands/FlattenCommand.class
+sha-256-Digest: e4isL+zFhGIB6n2H1gZMZklPZKY2qnBj0tQCcHwuggw=
+
+Name: fr/umlv/unitex/frames/GraphExportDialog$2.class
+sha-256-Digest: Ngv/7Dcq2q6k3JmGIm153d1skYNeoyR/hJ0L4QpWuTY=
+
+Name: fr/umlv/unitex/frames/LocateFrame$3.class
+sha-256-Digest: 0ZovGFhaxyKrTAfQKzRyfMuuUnMoV8WqBGwoamcw83U=
+
+Name: fr/umlv/unitex/MyDropTarget$DragNDropListener$3.class
+sha-256-Digest: RIFD8Z0artiHG1+Mwg1QVJBbtsjNXP+gqvo+mXd7xmE=
+
+Name: fr/loria/nguyen/mytools/XMLTools.class
+sha-256-Digest: VmLcLMqFpipP4OOXOdZoitFfKQz7MtIz/NH/+TVt0Hg=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$3.class
+sha-256-Digest: DEqHCzHLJd1W8gS4yeq3RJGW50/8rQXKGeZHZb/Hq/U=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$41.class
+sha-256-Digest: SOyaetiqOSNYVan4uqYnYOIrGlk/jQAwsKntv6hgvFY=
+
+Name: fr/loria/xsilfide/multialign/Matrix.class
+sha-256-Digest: eH2dN9Y1Y18cZ3tGevc8bdtDL3yLhBT3Y3pY0nH4Uwc=
+
+Name: fr/umlv/unitex/frames/GraphCollectionFrame$3.class
+sha-256-Digest: bY8KDmluJm/fR75BS1XXw1LYtZ74sBONyBnWxAhHJZE=
+
+Name: fr/umlv/unitex/editor/FileEditionMenu$3.class
+sha-256-Digest: j8iLS7UvFgDlK9q7qC/gp3soQFipJlM3iDrfiWQnegI=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$3.class
+sha-256-Digest: zZpkmg//jhwwC2R8cgOYdDGfMO6eDP4S5pjpUSrkuQY=
+
+Name: fr/umlv/unitex/frames/GraphFrame$22.class
+sha-256-Digest: ywwfaflvvROxPEm6DDgwKCKZf+fPimClgrsFIrJPSLE=
+
+Name: fr/umlv/unitex/frames/InternalFrameManager$4.class
+sha-256-Digest: la1tZOUZeyMJe+VswDDS8AORON9bv3gbd/SJej02V0Y=
+
+Name: fr/umlv/unitex/utils/KeyUtil$4.class
+sha-256-Digest: fsrNwHJLi83E3OeAgvhPz9ZgiqI2J9bl57402O+69fY=
+
+Name: fr/umlv/unitex/frames/CheckDicFrame$2.class
+sha-256-Digest: ZlqEs2rBiDyPh6T8YW09nuvfF0ErNkeMbCZbvkRKx5s=
+
+Name: fr/umlv/unitex/frames/PreprocessDialog$5.class
+sha-256-Digest: LeHBDHR4SraFaydomddF5IgsuaP5jGeiMnF7dFI2lL4=
+
+Name: fr/umlv/unitex/frames/TranscodeOneFileDialog$1.class
+sha-256-Digest: kDyNvY5WtXP5qJnlJ+S43LfbYnXtMASblZcgis4Oub0=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$54.class
+sha-256-Digest: fPI5Zfen8IfRhAc04B/iRYAUYnFTv015fDUIQxsTGaw=
+
+Name: fr/umlv/unitex/MyDropTarget$TranscodeDragNDropListener.class
+sha-256-Digest: SUYxYhRockUwoC08ecJFGIvFmlXjIm+XRNq0AJt9yok=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$11.class
+sha-256-Digest: gaBL3vNUElGmTQx8Fbno1LvgMihtgb3fNYR2Vn0yLJI=
+
+Name: fr/umlv/unitex/frames/VariableInsertionDialog$3.class
+sha-256-Digest: hujfLZi8TFwmapayhhj+QYC/v2Tydgna+kpL41jRFTc=
+
+Name: fr/umlv/unitex/tfst/Tag.class
+sha-256-Digest: 0eOc2nrJGd1B/cGZjSFazvsKvJ6wCZ2ankdXQ9wdHNY=
+
+Name: fr/umlv/unitex/frames/GraphFrame$15.class
+sha-256-Digest: Cni+BVTQv1P32hdPXV3jXMgdsWz4dKZx/RP7aFnNqWQ=
+
+Name: fr/umlv/unitex/frames/BuildKrMwuDicFrame$7.class
+sha-256-Digest: a1VVuQhD4sETlVyu6OFihLa6f7ocQH0cz7eJYjylLj0=
+
+Name: fr/umlv/unitex/frames/DelaFrame$LoadDelaDo.class
+sha-256-Digest: p1ewJ0qTcgwPOh3f+ccaGHfUSshqonBZevH+50b6mro=
+
+Name: fr/umlv/unitex/frames/ElagCompFrame.class
+sha-256-Digest: 1yRBmPP8qZ3671/Z8iMT+9BvRjJGTA1MVhzEb+Xsf7w=
+
+Name: fr/loria/xsilfide/multialign/Cognates$BiPoint.class
+sha-256-Digest: Wfk6SbdtApgPnP/vdvPdScus4BYucPVguJU40FCyaqk=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFindAndReplaceDialog$5.class
+sha-256-Digest: 59ebLJPt7DcWB4CcrgqSLjVvskJPV/vJF2GoFTZPMuQ=
+
+Name: fr/umlv/unitex/frames/TranscodingFrame$6.class
+sha-256-Digest: bTWetX5lFE1eSDuvD0dOq/eVCWSdhy3ZO471LufI0Mc=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$4.class
+sha-256-Digest: MFuD3rBVynW87TicqYdykzvY0iRSMntv//GabDzvGNk=
+
+Name: fr/umlv/unitex/frames/MultiInstanceFrameFactory.class
+sha-256-Digest: fGpF3X1M+VXSJxqOCv/67pjTkoyN7Jvn17faghSLunY=
+
+Name: fr/umlv/unitex/text/Text$TextDo.class
+sha-256-Digest: 2r47p/f98eoIDJNFKpxkz3AeCqLzsjonKw+swSrXKBE=
+
+Name: fr/umlv/unitex/frames/ElagCompFrame$1.class
+sha-256-Digest: bRUe9hP5GhhYQte7GhmAxTw6gr0rk5LneVuetfnPl4s=
+
+Name: fr/umlv/unitex/frames/Seq2GrfFrame$2.class
+sha-256-Digest: nsEpXqnG3HXPd4nUSjs6FnGNsHfEII9HeHnN6b+cvlY=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$16.class
+sha-256-Digest: IhQVxsUB1hQ4U+Pp8LwB9rdSe+eYLFCkFCrcHS8HHYY=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$35.class
+sha-256-Digest: E0Gjdtj7Xc/9Va/n6xfsbAU4aVilcaomBLjUYsWlBeE=
+
+Name: fr/umlv/unitex/frames/TranscodingFrame$5.class
+sha-256-Digest: bHaDRyiZOmQ2jQfnkeZFmgrWlSxuD0EHOm8BSifLIyc=
+
+Name: fr/umlv/unitex/frames/ConcordanceFrame$4.class
+sha-256-Digest: WOY3ymj4jJ4sbkCMbVo/SE2YssNIrzcYkSOK9l1Vztw=
+
+Name: fr/umlv/unitex/listeners/LexiconGrammarTableFrameListener.class
+sha-256-Digest: i9/jlSjBsz2qdrqHkgXDPbuNHomhmbCvssV0ysPAIt4=
+
+Name: fr/umlv/unitex/Version.class
+sha-256-Digest: MwWEih/3kTZBTLPXyKhoVdW214EeGVkgBX7pgXCkRVw=
+
+Name: fr/umlv/unitex/frames/TokensFrameFactory.class
+sha-256-Digest: PKBea2NVHYar4OInhC4ex3i7V4tZvG4FG8M8DCeBkY8=
+
+Name: fr/umlv/unitex/tfst/TokensInfo.class
+sha-256-Digest: fD7YMf2Z3DKwvcKPL+VjWGJ0wXfYIcFzNwBpaPD6ubU=
+
+Name: fr/umlv/unitex/frames/XAlignFrame.class
+sha-256-Digest: QmybL3qoYZE2BEiv6TnzPZGJ/0GP4OD0I5vHtxXA5S4=
+
+Name: fr/umlv/unitex/Manifest.mf
+sha-256-Digest: Pttt8vPy8gC8twF5+Dz895eNDxc7hdqMnLn09ILowbA=
+
+Name: fr/umlv/unitex/frames/TransliterationFrame.class
+sha-256-Digest: PzCnh1stzXEcGvtlSHEtyBoKTFIniX5OE2TpO9EI6yc=
+
+Name: fr/umlv/unitex/process/commands/UntokenizeCommand.class
+sha-256-Digest: 7aQgpJWu8Hn4fuHdIVJJSAonxX9qqnDvMvINFOYF4xI=
+
+Name: fr/umlv/unitex/process/commands/AbstractCommand.class
+sha-256-Digest: 1exx4KM30TtFynvH4vcxEBeYmhobJ8o4I/cNbysPprU=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$13.class
+sha-256-Digest: uXKvnCMV9fjz3Pf3TYZjjmEg0Dw72Wbpv+inDlbJHF4=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$4.class
+sha-256-Digest: 7O/6os7kvqAdY5vzdw1QfxTGjYDoEONEcZsRPpjJTQs=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$39.class
+sha-256-Digest: 44Kmssf5WS+weFpPQwJfe7abD/g18T28F/f8cyQg+9s=
+
+Name: fr/umlv/unitex/undo/BoxTextEdit.class
+sha-256-Digest: 4Ig/xhMMyi+Pqx/sEzhwKHdVvUcc9BY4MY/kY+51zSI=
+
+Name: fr/umlv/unitex/editor/ui/DictionaryFindPanel$5.class
+sha-256-Digest: biXLaiuv6ldl8RdeEf59KLCQqVkmlovQm3hxfkex7nU=
+
+Name: fr/umlv/unitex/frames/Seq2GrfFrame$3.class
+sha-256-Digest: Pc4lQ08AJNmhIQ8TW7G5oKQZz9FFCF0WBAhQGjQoMQQ=
+
+Name: fr/umlv/unitex/frames/GraphFrame$27.class
+sha-256-Digest: e0phH0kLxMnsj6CV0LNs5X5SvYI7k/TqaSXhfw2bAjE=
+
+Name: fr/umlv/unitex/process/commands/ExplodeTfstCommand.class
+sha-256-Digest: PkVPit2LfkwIMfC9Vq6URBilTPrBUR+KVZAu5ScMr5o=
+
+Name: fr/umlv/unitex/exceptions/MissingGraphNameException.class
+sha-256-Digest: G9xWnjJbBgj4mBpPT7PQSgNBhgVf8DGO9rM1RJ2+TXc=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$15.class
+sha-256-Digest: faW5RP3dwLvawgoZgye9CeT4jPId+pcmOgQ705pqYYs=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$12.class
+sha-256-Digest: htxrbUCcfkoqjZ0oeoe2QO/+z+/sjGu8lGT48bgU/GI=
+
+Name: fr/umlv/unitex/utils/HelpMenuBuilder.class
+sha-256-Digest: LstRWgA76N0Nqlsp2I0sXnG1244kAvQBQFlvqJ8FCpw=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$2.class
+sha-256-Digest: 5imL6TfpU09C9mWGHSdBBhTF5ZdQ4ZPcTdoEXfX7y2o=
+
+Name: fr/umlv/unitex/frames/ElagCompFrame$6.class
+sha-256-Digest: l5ADUaXW1u54GYrakbZMJS0HQnPPh4y3sSp7rHcQc4M=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$9.class
+sha-256-Digest: 6Lm56tbOEiLZquvbkqy96IOdeyLrZeY/JwRk0d6eTsY=
+
+Name: fr/umlv/unitex/frames/MenuAdapter.class
+sha-256-Digest: TcBn0+wdhwAulnYjeFkJyYcTNyr6fDr8Smk/Svt0Dn8=
+
+Name: fr/umlv/unitex/process/commands/SvnCommand$ResolveOp.class
+sha-256-Digest: ZPhe1Af1K23sQk6akk/muOvqkUQbRNOCIr2ZNwW+6X8=
+
+Name: fr/umlv/unitex/frames/GraphFrame$28.class
+sha-256-Digest: aDTkO4pTCT4Cp1PZPF/YTB3xErHDBbDsBkPvqosi6UQ=
+
+Name: fr/umlv/unitex/frames/VariableInsertionDialog$2.class
+sha-256-Digest: G6BbrzTPZA6xfzz+YvbeWGu19MoOXcbmhpr4SvSAN+E=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$55.class
+sha-256-Digest: Gw+xO3Ra9xCDAudaa2NvgJLaqrpS4ZREWmoTHmCqGZQ=
+
+Name: fr/umlv/unitex/tfst/Bounds.class
+sha-256-Digest: HQ6iG7kbQdP/onoLqmA6GbjpJJcAiIgchZI/pk9c0/Y=
+
+Name: fr/umlv/unitex/process/ToDo.class
+sha-256-Digest: N68DeqGU4DIlmwMCO4vocAcetEZK3MmD5Gw4sYd7i74=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$24.class
+sha-256-Digest: LrDckcwNhTQBY8OanceapIFN2oDL7y54ewlF1PhDrq8=
+
+Name: fr/umlv/unitex/frames/LexiconGrammarTableFrame.class
+sha-256-Digest: LPXQq0s07c8qdfMclwefUNDDO+TPSLX7u2QfQcZIPZs=
+
+Name: fr/umlv/unitex/frames/ElagCompFrame$5.class
+sha-256-Digest: 1C4O2STAAMRVE+nAOjWPhpuzhtn1Y7pQSTfe2gZCNfg=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame.class
+sha-256-Digest: ZatQHZUIBJr5+Jjsyz/7vvalgzgP1RzRmUCdjVJb06E=
+
+Name: fr/umlv/unitex/svn/SvnConflict$1.class
+sha-256-Digest: aYvbJ/hY166DIfSzDr7hzenc4M5bmv6md+syY5L9jhk=
+
+Name: fr/umlv/unitex/files/PersonalFileFilter.class
+sha-256-Digest: xAA7oVjDf2jy8VCvwZ7wUB2rtdohrSjNCK+G/rBBKPk=
+
+Name: fr/umlv/unitex/frames/XAlignConfigFrame$3.class
+sha-256-Digest: iDHUdq/jCBgPGIVU4QbpUZiH3lpVa3852FiA7pNddjM=
+
+Name: fr/umlv/unitex/frames/GraphFrame$19.class
+sha-256-Digest: Ao+wyjSCuRdBbrufH/KaCG9TbXIV0T0+CKf9sMBOgMM=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$34.class
+sha-256-Digest: CQy7fsMoaQiY96Mte5fmxGQkPRXGEzfUv4zC+0nOBZ8=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$3.class
+sha-256-Digest: KfLVxUypKeNBCjjI8Kv3ZtX8LACJ6IRQcISUitj81Kg=
+
+Name: fr/loria/xsilfide/multialign/MultiAlignProperties.class
+sha-256-Digest: sI9RdijwEqnDFH7AdzzA3duIfJ5PLlgx+odCeCFkapI=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$9.class
+sha-256-Digest: l+9E3cw18MEfpmPewZWuZMYPbQTbI4ncmyqr0AwRDk0=
+
+Name: org/mozilla/universalchardet/prober/statemachine/UCS2BESMModel.c
+ lass
+sha-256-Digest: Aa3QmpGo7UtXYEq+Vz/Y3Sxyd2Qnwn1DFJYS9s0hkrE=
+
+Name: fr/umlv/unitex/frames/FontDialogFactory.class
+sha-256-Digest: 283FC3KGkWSoeOviouSHKh4RjEfHyLLPtT09iyJNVmc=
+
+Name: fr/umlv/unitex/xalign/AlignmentEvent.class
+sha-256-Digest: p7xFxxucsC2BqT1VdE87lXY6clHg0sUtVU0icxFz2A4=
+
+Name: fr/umlv/unitex/frames/MessageWhileWorkingFrame$1.class
+sha-256-Digest: 2MzH9EGbOnjJgXOPO1QMuas/9XvwKA/MGboI/N0zxa0=
+
+Name: fr/umlv/unitex/config/ConfigModel.class
+sha-256-Digest: cQxdCMNtyglt8f48y7++Ik9MuIMhRdbIOUkS3qUnf9s=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$50.class
+sha-256-Digest: MTno5X4TfP9p6cPNomZ6BeZ/DlgdGVu0R3lkjJS3sgI=
+
+Name: fr/umlv/unitex/frames/VariableInsertionDialog.class
+sha-256-Digest: 2EbJS2ysD+4LDfLN/Q008wPQU47O6o/uTTEt8EVuJy0=
+
+Name: fr/umlv/unitex/concord/BigConcordance.class
+sha-256-Digest: 5woeIaR/rga5OdiowpANu32mLulh9w1fDCX4YL9Zuz4=
+
+Name: fr/umlv/unitex/frames/GraphSizeDialog$5.class
+sha-256-Digest: q9VxQQFejZubz8+6fPcnf0ag6gx8QOelJTsDo2gtjsU=
+
+Name: fr/umlv/unitex/frames/HelpOnCommandFrame$1.class
+sha-256-Digest: BWyDl2qHCVqC2z+Wvvg+H0Lk/gVhAaxCMz7xCRX152A=
+
+Name: fr/umlv/unitex/graphrendering/GraphMenuBuilder$3.class
+sha-256-Digest: 9WxPIjhW1I4GrRqUVUGzPjaI0KPS1HJkuQRkJsysPRA=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$17.class
+sha-256-Digest: 0p4CzTwnESIhyB+1sPODvLKB27dllDdP9HX4J1MAnik=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$4.class
+sha-256-Digest: 9s4OUp4WRa1EStEl2lfI8xVg+mqIYvMJM0+iwDK5bGs=
+
+Name: fr/umlv/unitex/frames/GraphFrame$31.class
+sha-256-Digest: izQR07cLZPFknz5z4Oa+FPC6fzF90pl5EnMCBIs6+NQ=
+
+Name: fr/umlv/unitex/io/GraphIO.class
+sha-256-Digest: +IKAYI0Utakj/GiPB+Zl6nYiwu/0SarEZB3OT6daIuA=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame$12.class
+sha-256-Digest: 8T7sKa2xRtiJG3SbXc9PpzoLEEUJCcGowRJMyZQA1DA=
+
+Name: fr/loria/xsilfide/multialign/InsertLinkGrp.class
+sha-256-Digest: tF3hLhplRHCekdgch5tACo3GhRTM0hNWWFSq5gipGLU=
+
+Name: fr/umlv/unitex/frames/GraphFrame$23.class
+sha-256-Digest: CEEg4t+AD87Muy6UXvy3JqipVWou7ukBV9AIXItif1E=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$7$1.class
+sha-256-Digest: 499Dn3WVS7kzk9KbbsjlgNz4zh3E6f9ArTUsPPjp2D0=
+
+Name: fr/umlv/unitex/editor/FileEditionMenu$4.class
+sha-256-Digest: 1PlnKo7cYn5nOQonPe8xlUbbliQlUacqw8hA7d5DYjA=
+
+Name: fr/umlv/unitex/frames/BuildKrMwuDicFrame$3.class
+sha-256-Digest: 5PdpBfBHwWBT0F2ITfFA2KjPvWLIKwpx0Zy4la46jNg=
+
+Name: fr/umlv/unitex/files/FileUtil.class
+sha-256-Digest: sRcPcxk6GLHSEJmHY43PZtbR+HjmZCJQmAWmtH0G6YI=
+
+Name: fr/umlv/unitex/frames/AboutDialog.class
+sha-256-Digest: cDvTlHZsZ1LpInsPLnJcD1yS9fQTV0+4MX1VaOcqODc=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$46.class
+sha-256-Digest: nrlW4/pVjDNBbniuogDg0lcIxuPMex54+EZRjjkyfG0=
+
+Name: fr/umlv/unitex/io/Encoding$3.class
+sha-256-Digest: IteU1KY0rFM4dCMv8FM3q3v0arAiMoEZsjHBldi6zKg=
+
+Name: fr/umlv/unitex/console/ConsoleTableModel.class
+sha-256-Digest: h+7ro8n1qkICmnH11dBLNWBHYL0yd99Rt+ThiKx6g30=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$2.class
+sha-256-Digest: LfHTzbKxgerR/K1Q/69QDnXNpxnKeS0hohyM58iAM74=
+
+Name: fr/umlv/unitex/debug/DebugTableModel.class
+sha-256-Digest: 68ZJlSJByFZAKMJzkMJ7wFq1q+qRQVF6tIhGv7od6IE=
+
+Name: org/mozilla/universalchardet/prober/EUCTWProber.class
+sha-256-Digest: 662CaOmThOdPOLCdHgrikQwACxyJGjFYTeCKanyMKbY=
+
+Name: fr/umlv/unitex/editor/EditionTextArea$1.class
+sha-256-Digest: K8WwfM5rcDeSI6Z5ENH+GtIx+MZAI/HoaeJF1WHFjdw=
+
+Name: fr/umlv/unitex/frames/GraphCollectionFrame$4.class
+sha-256-Digest: tr21TM61sSsGbC4xiTwYLst9JQyx4MnHfQi1H8lMGIA=
+
+Name: fr/umlv/unitex/frames/TransliterationFrame$2.class
+sha-256-Digest: 3OttoGSBimLecBudLZSEe/rRBIC7BOapinr8Ff6LpeI=
+
+Name: fr/umlv/unitex/concord/BigConcordance$1.class
+sha-256-Digest: z+tvuvIpyBMfy+AE+IeQNa4l1nfyZa9+Lf4x3xueaJE=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$7.class
+sha-256-Digest: rqRnWgE1Pch94bjaMQ1EXArPfESexSgZhA7bxA2qsZc=
+
+Name: fr/umlv/unitex/process/commands/CommandBuilder$1.class
+sha-256-Digest: o9ccUI+Dbh6n+j+/rBTGvHd4Kmxb3uiWFaRTukzKUMU=
+
+Name: org/mozilla/universalchardet/prober/Latin1Prober.class
+sha-256-Digest: YyOoCTaIR4TbKO5eRnkveoiDy3hfiGRQMn/4gmDlgaY=
+
+Name: fr/umlv/unitex/frames/ConcordanceFrame$7.class
+sha-256-Digest: Ga+20MlxUIEChTauCHIwa43DWAqj+a80O7XDFXJ4HPg=
+
+Name: org/mozilla/universalchardet/prober/distributionanalysis/GB2312D
+ istributionAnalysis.class
+sha-256-Digest: XcoBkNzxlS3GgS0D6psCD5cxOA0WyXKz+ICnuXlEvLo=
+
+Name: fr/loria/xsilfide/multialign/ContraintesChemin.class
+sha-256-Digest: DGZTPVxKDQheuHrMaFrlii4JgeOgxDTjMMfcIQ6/vjQ=
+
+Name: fr/umlv/unitex/graphtools/FindAndReplace.class
+sha-256-Digest: sdaNl4Pz4ED8ipaStY5w25KAVKiQiYx18avDZTUYa2A=
+
+Name: fr/umlv/unitex/svn/ConflictSolvedListener.class
+sha-256-Digest: u4yvqI6+49PH+rD1N42PBBO5NnUZ5QKWA7f2kLSesnU=
+
+Name: org/mozilla/universalchardet/prober/distributionanalysis/CharDis
+ tributionAnalysis.class
+sha-256-Digest: UcqhsORzrQYVoxNMBbL44sludVxL5r6m04T7y9chP2M=
+
+Name: org/mozilla/universalchardet/prober/statemachine/SMModel.class
+sha-256-Digest: Ye5vpnZrTpUhQ12AHrrJiXF4ptaC3Beq0xH/R1Jp2Tk=
+
+Name: fr/umlv/unitex/process/commands/CassysCommand.class
+sha-256-Digest: /vmrAaciGbwH1iKTIYV+ERdkY80L5UjxR0l4hlVxga8=
+
+Name: fr/umlv/unitex/frames/BuildKrMwuDicFrame$2.class
+sha-256-Digest: UixBGsHpC35HTAaoCg1BIgO6qiUttIV9RVoE6gRbHEE=
+
+Name: fr/umlv/unitex/frames/ConcordanceDiffFrame.class
+sha-256-Digest: kJTOuaPAWliCDHDYFrpV5/DqOB9016Q/Pu66eprwmws=
+
+Name: fr/umlv/unitex/process/commands/ErrorMessageCommand.class
+sha-256-Digest: DwuZiFTUsurHGp2w3NFRScxSMeNrZ8V5vMBXyS+yLN0=
+
+Name: fr/umlv/unitex/frames/GraphAlignmentDialogFactory.class
+sha-256-Digest: AuRa4+k7U+eRsK9EWb7B1OOVWnoT9BWQPfyIQpD/9/4=
+
+Name: fr/umlv/unitex/text/Interval.class
+sha-256-Digest: MSxXQvbSa4+/swahvvWVzqDAYR2WKYmTFfF7TFz+Lpg=
+
+Name: fr/umlv/unitex/frames/TextFrameFactory.class
+sha-256-Digest: oC7FFdGhDo/kx2vdQF91K+OjPLlzQ5dCI4UqntYW+eo=
+
+Name: fr/umlv/unitex/graphtools/Dependancies$1.class
+sha-256-Digest: t9y78hjwcpi+dzakPCV/5gbbKaLqVzsPssxH33nWkpc=
+
+Name: fr/umlv/unitex/frames/GraphFrame$30.class
+sha-256-Digest: a6Zldb+oOK8TdZmxc3veAyPaKLjFipyOPveBPCTQSp8=
+
+Name: fr/umlv/unitex/frames/TransducerListConfigurationFrame$1.class
+sha-256-Digest: 59QRO5RVJEkw73GbCwdapZm4uZRoRje1RxJHTy3pa98=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$47.class
+sha-256-Digest: uEovJanlHPQx2nZRPVAzjhYAdiPjdd91P0e00x8J0qs=
+
+Name: fr/umlv/unitex/frames/TranscodingFrame$1.class
+sha-256-Digest: wNVGM/UMAT++49Wzr9wBdHEWecxK+FH3oG4c4vgZJJs=
+
+Name: fr/umlv/unitex/config/Preferences.class
+sha-256-Digest: QVHc9iavvghL/eKxnZ1bqzUGGnWzOIj5BnhiNrWHK5Q=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$63$1.class
+sha-256-Digest: 8V/1Kh2/jvhr/JjcOxD99B570nGIOncPAEQhZCC2Bv0=
+
+Name: fr/umlv/unitex/process/commands/ConcorDiffCommand.class
+sha-256-Digest: /e3D8zaC4dmUgBdqoeZGk9lq3dNZybywnW8Z4zOyL1E=
+
+Name: fr/umlv/unitex/frames/ConcordanceParameterFrame$ConcordanceDo.cl
+ ass
+sha-256-Digest: e+Xv2xyV+tqKO2NvKYh4n4ls8710lqvcjgz5Wnxp4qo=
+
+Name: fr/umlv/unitex/process/commands/Tfst2GrfCommand.class
+sha-256-Digest: gzY9x4itA6tu/hD2lxqkHsqhZsbD/IMfZiG1BPQ4Bs4=
+
+Name: fr/umlv/unitex/graphrendering/GenericGraphicalZone$1.class
+sha-256-Digest: na39o0mfZYmAJ/RsgXLR3710B1XfeGz8JWIWW7yUUIE=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$23.class
+sha-256-Digest: hCf3LYgvGHXMs3q/3tTnly2KJzcf15f/d51bew6KpGw=
+
+Name: fr/umlv/unitex/editor/ui/DictionaryFindPanel$1.class
+sha-256-Digest: Y+lsmr4lDrhvSLCQK+73lAQZR9AjZsK/czsJz3MCFNw=
+
+Name: Unitex.ico
+sha-256-Digest: uqOqqQZ4gUIIBaXv1WNLuHC/Cw9RvNCjXTPtOEtdU+M=
+
+Name: fr/umlv/unitex/frames/XAlignFrameFactory.class
+sha-256-Digest: vORLFfyodiLlwwsNNkUqE1xpQuQVBHi9hYINPaGSUaE=
+
+Name: fr/umlv/unitex/utils/KeyUtil$3.class
+sha-256-Digest: nav3+Cf4a1oQwC7oOvoEuzvXLFcTkcplX4nsUHnmpx8=
+
+Name: fr/umlv/unitex/process/commands/CommandBuilder$2.class
+sha-256-Digest: A2yGRO+RHq5pXCKmXbKIJy3FZU9u0xi0+DfGvJsn+e0=
+
+Name: fr/umlv/unitex/exceptions/UserRefusedFrameClosingError.class
+sha-256-Digest: LWbNbphd8v3XWM9LSNnMuLOe+ciM/R+iaQx6rzNnrcI=
+
+Name: fr/umlv/unitex/process/commands/TaggerCommand.class
+sha-256-Digest: hoVshFxCAYQbcfb2zIh47cQoIWYRHF0ndWs4B8qS6nI=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFindAndReplaceDialog$2.class
+sha-256-Digest: MC6izv9+Icq1oIgOHVwgS2beHWDtJ2CiOvXwEaBAZq8=
+
+Name: fr/umlv/unitex/frames/InflectFrame.class
+sha-256-Digest: EASheIS4bMa/+bgDIRUiAralfX5Lt/jeT6CoycF5vB0=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame.class
+sha-256-Digest: uWYHmLmGLnYq5Nxp2sd0rwbys3SeGfbsI7f3LpV/zr4=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalToolBox.class
+sha-256-Digest: +nnAi/NMikWH9++CiRHj/x3bJ9PWdZ+uMv1ANkNovA4=
+
+Name: fr/umlv/unitex/frames/ExportTextAsPOSListDialog$2$2.class
+sha-256-Digest: 8CjfG1EhgTAWdKwJZ7dCQbxvs0nnryjBVGb8q0LiOyU=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame$4.class
+sha-256-Digest: L/VpuTo1xaJ0OuW7+g6o8x/6htzfGPGfJk63QYdQGUw=
+
+Name: fr/umlv/unitex/frames/BuildKrMwuDicFrame$4.class
+sha-256-Digest: 6aZKPms+v3WwtmGGN2581jT4reBo6DJhj45DMLyD+n4=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$24.class
+sha-256-Digest: o4lersDnq0EQ9Z3oW9SdQ4GPeU4b3IBSmGE0kMyorio=
+
+Name: fr/umlv/unitex/graphrendering/TfstGraphicalZone.class
+sha-256-Digest: uydP/R/QoMTqm60osXeyNvjZ0cGF50Jqh4UzxbtUg/k=
+
+Name: fr/umlv/unitex/print/PrintManager.class
+sha-256-Digest: Iw7/v+zhvbjxsYR0P1G8+TkEUhC8mZud97SdOSsI5Zg=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$8.class
+sha-256-Digest: hOURcPamD9C7GvvFDQQ+63n/dG7hnRL9nQcxvWiRn+4=
+
+Name: fr/umlv/unitex/text/BigTextArea$3.class
+sha-256-Digest: 3J7Ly/GHRvAY2wx7AhxVo6o7YI1JOAGgp2+9MOcgBgw=
+
+Name: fr/umlv/unitex/frames/ExportTextAsPOSListDialog$2.class
+sha-256-Digest: iqqJX7hCvq19zq+VlJ/7jwifTj8TKWlBxme1oyMapns=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$7.class
+sha-256-Digest: 4e5YmnhyNegMPEnslZGks6xTI0STubymBU4xpN5GoBw=
+
+Name: fr/umlv/unitex/frames/ConcordanceFrame$2.class
+sha-256-Digest: N0cc+lPf5HL+TrUQxOL8tCkeiiSuO7fam4T7MeOnsLw=
+
+Name: fr/umlv/unitex/xalign/ConcordanceModelImpl$2.class
+sha-256-Digest: dlO5JQx/kao74rI2JKkEJwRKfSBi9Wfu0Uf8hgkzGQk=
+
+Name: fr/umlv/unitex/RegexFormatter.class
+sha-256-Digest: RFbGHPT5ot7AF0+4iZknmCBruznavVFgf9ngWVF5Kp0=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$14.class
+sha-256-Digest: sbf/6Y5wOojKmfroxkg4iPRNRWKXwtrWbyfpxRtbD5I=
+
+Name: fr/umlv/unitex/editor/ui/DictionaryFindPanel$2.class
+sha-256-Digest: htW47ZnBBCvQq4/PEAVG6HO/fQu+ONZtlezlXt9/75w=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$25.class
+sha-256-Digest: 3CJzQjdPMNg/pQ/UkEKLU3EMEvZ7TLOzrxSYRb07Lz8=
+
+Name: fr/umlv/unitex/frames/ProcessInfoFrame$5.class
+sha-256-Digest: zKYazCwwEznGto14w05otrV7/BXYnB7qFxm1mIznVTY=
+
+Name: fr/umlv/unitex/xalign/ConcordanceLoader.class
+sha-256-Digest: ShGxd7FihlyMa1o10GJ0ZDmeeFDfMhgaWY1UIn+SJbo=
+
+Name: fr/umlv/unitex/frames/GraphFrame$MyInternalFrameListener.class
+sha-256-Digest: lPnJms2OFb804NPSa3gLfdZJEMJnh5DRH8gTpaRSyUo=
+
+Name: fr/umlv/unitex/process/commands/ConvertCommand.class
+sha-256-Digest: 0pgDqI8O61B8BKmcvFfv9Jy0bHGl+hZyhCz6jrs5gcM=
+
+Name: org/mozilla/universalchardet/prober/statemachine/CodingStateMach
+ ine.class
+sha-256-Digest: uVu9bMtqZ0pw7T6Uskv7yzGIllysL8WHsrNogk+vfos=
+
+Name: fr/umlv/unitex/console/ConsoleTableCellEditor.class
+sha-256-Digest: u+ypB/9ELGMUZEW9sR0qCzGE9VRnB1zABIeoqYVcLx0=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$77.class
+sha-256-Digest: tqDneZdnMkr2M2F0uaiA4G9wCD3y9i3yZdW9fTh4ztg=
+
+Name: fr/umlv/unitex/config/SntFileEntry.class
+sha-256-Digest: Oij6bRbX/PtMou6B83SMa406GDa4ajhVMaal8G2Bz44=
+
+Name: fr/umlv/unitex/frames/GraphFrame$18.class
+sha-256-Digest: Xvn2vqEmbRhjvLM1ab69rC/c5+rRzc5m5dSxAbb4X44=
+
+Name: fr/umlv/unitex/debug/Coverage.class
+sha-256-Digest: zGZJBweFp0w1sXJ9klyV7QSCAyvt7S/JtkXeh2+r+aQ=
+
+Name: fr/umlv/unitex/diff/GraphDecorator.class
+sha-256-Digest: MaLt7O2j17gJ2TLa9tW2sXAYWbyapO4QX5otJ65PJJE=
+
+Name: fr/umlv/unitex/editor/FileManager.class
+sha-256-Digest: IAsJlyUjIy/fbV7lWBv2wqTYhss5Hmc+hWf18KbM/kw=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$4.class
+sha-256-Digest: uRQRMDOQNT5jYbRIES7wJ9gmh5LXa5YSqoNSAyH4ajI=
+
+Name: fr/umlv/unitex/linkBoxesCursor.gif
+sha-256-Digest: Rsg+yw2bNENCKAbD+o+tnROdQMgc15dTuOSkGzHaohA=
+
+Name: fr/umlv/unitex/undo/MultipleEdit.class
+sha-256-Digest: Ysa92ElvidAw6luIlj+TcGoY1TY/62ta1nMIxA+inqQ=
+
+Name: fr/umlv/unitex/process/commands/GrfDiffCommand.class
+sha-256-Digest: L2c/Ht5gzOQdhoeS5yPZ8XhSyfazV2ZrVuUIvBwTAjg=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$9.class
+sha-256-Digest: pQng/vSLhfd8xKKlMSEf0xbthRQR/3sr2JzpQbAlzqE=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$20.class
+sha-256-Digest: 46X5/xqTH7ckvx1XK84yYnuQqy/ggrEaz2hRPExLR38=
+
+Name: fr/umlv/unitex/frames/TransducerListConfigurationFrameFactory.cl
+ ass
+sha-256-Digest: NsdZpmVgEiM61V4rqS+00H9n7T2viw+1zFxnO2fja7Y=
+
+Name: fr/umlv/unitex/tfst/TokenTags.class
+sha-256-Digest: D6W+bB4LfCGYvPsLRULCorbX+DdZ4Nu3ep9J9m9GO4I=
+
+Name: fr/umlv/unitex/process/commands/Grf2Fst2Command.class
+sha-256-Digest: B/cDc8RHYnaOdlB9449NIN3a15qJW+e/Ce9AJWbPo9M=
+
+Name: fr/umlv/unitex/frames/ElagCompFrame$4.class
+sha-256-Digest: YiKX4SyszoB4GMwmYw3OjOZEkj46CDyIUtM5IlNNkv4=
+
+Name: fr/umlv/unitex/text/TextAsListModelImpl.class
+sha-256-Digest: kIdA0z0Y8zrC4bkpOwYwQwnfBPjQ4oCls7cELn0xStg=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$56.class
+sha-256-Digest: NpyutPxjue+PzJRAyKm202nfBkcoG4FPQxiKkHDjg/M=
+
+Name: fr/umlv/unitex/frames/DelaFrame$8.class
+sha-256-Digest: G/SxMMsPlnYN5i6i5XYTF/9VMwffOFQl/p+db0psFtU=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$2.class
+sha-256-Digest: pK1Bd/uti0h3NGdlEF7s86QxuxwsYPZDSU0xmTgmjhU=
+
+Name: fr/umlv/unitex/process/Executor.class
+sha-256-Digest: myelbO/Zqh1QbyXf6dyOd8nPn9hztWSzEy4QjHNwN2s=
+
+Name: fr/umlv/unitex/cassys/ConfigurationFileAnalyser$EmptyLineExcepti
+ on.class
+sha-256-Digest: TVFM+3mGyTUDy4tURR8nvUKUVgQBY6484UFsIN//3Rg=
+
+Name: fr/umlv/unitex/cassys/DataListFileRankRenderer.class
+sha-256-Digest: ZaGfyHzz+qad7b7HReOmjCPu+P598lcC93M7Yun+bFs=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$6.class
+sha-256-Digest: +smFF9ZMVUvyocEL13OPnZkOt61eBHY41CkUkMso63A=
+
+Name: fr/umlv/unitex/frames/DelaFrame$1.class
+sha-256-Digest: sW6U7Ydv5+fUfpHYIjuMhuQ6naubV41WJoFh0mOGhVs=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$7$Alignment.class
+sha-256-Digest: 3K2NcMwdyCLbCyNB0hfVXn1o/mqZLJ1aiFLtG5oe0Rk=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$9.class
+sha-256-Digest: lXYJacmsPQyumdr81C7WIJwBQ8+pXUxn6YveydRou7g=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$1.class
+sha-256-Digest: Lp7Vi7LAe/LT8Zi3SDb+yfOy6lN41kaD9/yLFFsdtkM=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$43.class
+sha-256-Digest: k5xRm5rMmVTmjWBscyVhhCWNEuDrowqf2uOIH8pt6Wg=
+
+Name: fr/umlv/unitex/frames/ConvertTfstToTextFrame$3.class
+sha-256-Digest: 4B6rCfwEeoCVj393MRNVW5sgJb72pkEC2dB/7BhLijc=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$72.class
+sha-256-Digest: fRimAnmCCflY2v3IXMsgQWwx/BMHbiY7N2QzitbGRN0=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$5.class
+sha-256-Digest: FHogVfKB5WuC5uccaDi89wzb6BdS4T9hT2bXS4QvkuE=
+
+Name: fr/umlv/unitex/frames/GraphFrame$22$1.class
+sha-256-Digest: VSsCb8xY9pLWakA/V1A719yaxRFfszrrHwTu1RDktAE=
+
+Name: fr/umlv/unitex/frames/Seq2GrfFrame$4.class
+sha-256-Digest: x6XVNCKj//ydN0oyoliRD+njmMfO9ILBnYuSl+0kEwk=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFindAndReplaceDialog$7.class
+sha-256-Digest: ihpp4QIlLeLPBehU0eWcPHCrg1l8KgCJiCZw/NzNuQk=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$RedoIt.class
+sha-256-Digest: HNPwdnknPlXRkm5iQVBF89HqenBV1DEf0NpCnpvzW+w=
+
+Name: fr/umlv/unitex/frames/CassysFrame$CassysDo.class
+sha-256-Digest: 7Lush9w+89Jm+Ox8suNXdbYvrScYFXdaGYWXI7CoN+o=
+
+Name: fr/umlv/unitex/frames/TextDicFrame$3.class
+sha-256-Digest: i3TXrwxY/9rP3HZsgvCRllDGCKn+3C5NYHiIT8EWp4c=
+
+Name: fr/umlv/unitex/frames/ConcordanceDiffFrame$5.class
+sha-256-Digest: drxSNc3JT+DV3qea5WZGXjebnDnt4gJglc6lBHY/YW8=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$2.class
+sha-256-Digest: mOVro8FHIzZx+b9ijn8PYc6wQZDsEW8Exr0LlxvzIXU=
+
+Name: org/mozilla/universalchardet/prober/statemachine/EUCTWSMModel.cl
+ ass
+sha-256-Digest: HlWongpyzU8lDWH0OqteI/sedBIxPqjuwWi3isG9ifk=
+
+Name: fr/umlv/unitex/common/project/manager/ProjectManager.class
+sha-256-Digest: gfUKqTuJqrGB5zxK5v8NWSC7Xn0KES+/HJZIy/93Ujg=
+
+Name: org/mozilla/universalchardet/prober/sequence/Latin7Model.class
+sha-256-Digest: 4quH3NdMMZEOu8rcDIxz7JoNStpgMvMb6Aj4wC8e5ew=
+
+Name: fr/umlv/unitex/frames/GraphFrame$16.class
+sha-256-Digest: kEuuup+lBbVIVSEIiBmF3GA3bYefbmkP8Ws5Gf+luL4=
+
+Name: fr/umlv/unitex/FontInfo.class
+sha-256-Digest: mEv5Nqviw1GtPAqwk4UpVPHU1OabofdoCbzcHPQr218=
+
+Name: fr/umlv/unitex/process/commands/TrainingTaggerCommand.class
+sha-256-Digest: RVKZjDxh2czBgocJt9V2s+C0kbr8YSXdVUtiB2LCP+0=
+
+Name: org/mozilla/universalchardet/prober/contextanalysis/JapaneseCont
+ extAnalysis.class
+sha-256-Digest: K/zC2Iufknb1Aw1hxspQDvTg8+NTQDKnHi5RcFZyK7g=
+
+Name: fr/umlv/unitex/frames/GraphFrame$29.class
+sha-256-Digest: YWu92NKLaEDzmsDAs1wynYmmUZtDcI0PSr3nhAm7mWg=
+
+Name: fr/loria/xsilfide/multialign/Div.class
+sha-256-Digest: wXY99vjr1fcOlIG2Krt8A450E5Etv2sKZy05P116nvc=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$14.class
+sha-256-Digest: ZyAeNBNnsYq+g1dA9rf5za9oyGIiPOuWsVwLrmsJ+/o=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$9.class
+sha-256-Digest: C6w14tcb0p5anHEeGU+V9z7phMuQN1uyj2ZKomVeauc=
+
+Name: fr/umlv/unitex/debug/DebugDetails.class
+sha-256-Digest: 50OlfxYMsvnoq0Ot75NLtIw6xFeNapNDaAy3yYqgfRk=
+
+Name: fr/umlv/unitex/process/commands/LocateTfstCommand.class
+sha-256-Digest: 35H3Ub/g9uwM+GCGt6ghcNszfP3EBmx5xSqQd7uMnWw=
+
+Name: fr/umlv/unitex/editor/ui/FindPanel$1.class
+sha-256-Digest: q/jA2ob80YN+I1HNnDiZBCyn50xoMawjWxxL+qTw/lw=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$27.class
+sha-256-Digest: TDTJph6oWtSwCEmbCkWz1Qa0Sj6BYSqKAqBRO0U326M=
+
+Name: fr/umlv/unitex/frames/ProcessInfoFrame$3.class
+sha-256-Digest: rd8lBOEZf/p6cpX/kivA9XZEVDo/j1CvkVcGxaTcoJE=
+
+Name: fr/umlv/unitex/process/commands/RebuildTfstCommand.class
+sha-256-Digest: nShb6gn9VE1/YSvyo+0kS8QL6+gPseyx7noR1QdyFvU=
+
+Name: org/mozilla/universalchardet/prober/contextanalysis/JapaneseCont
+ extAnalysis$Order.class
+sha-256-Digest: R9ub84aiJKY9xMpGtvqIQvZeRehQo643cGvsrkw2ImA=
+
+Name: fr/umlv/unitex/frames/DelaFrame$3.class
+sha-256-Digest: xfzmtZCmTwf3dCDnUHBmzLM3qCl+viifBG99rQYIGvU=
+
+Name: fr/umlv/unitex/undo/TranslationEdit.class
+sha-256-Digest: ShMG+2FdYwc3P5iQIelZ/Q6mapv0XInXz8vw6kpsvh0=
+
+Name: org/mozilla/universalchardet/prober/Big5Prober.class
+sha-256-Digest: kf0FlvQ+ucdkoiImp7O8tbl6Gixu3jCYr09aQAxzrPY=
+
+Name: fr/umlv/unitex/frames/GraphSizeDialog$2.class
+sha-256-Digest: PlFSO+ltbM1d1f75h6qDYSWu1v8GuZBZk2nQ1l0Yk1Q=
+
+Name: fr/umlv/unitex/transcoding/Transcoder.class
+sha-256-Digest: wsxtAlVNMZB0nwiTVFQYI8kMG6yqC7fSQUl4sAl8r5I=
+
+Name: fr/umlv/unitex/process/commands/ImplodeTfstCommand.class
+sha-256-Digest: QudJpw3S99hr2m63UrSCDR9iFlwQTZqeoVZQcgi92aI=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$27.class
+sha-256-Digest: Z92qgPqxTlEfv0vGTz8cAtrFTczMnx5nGukT4eG2aBs=
+
+Name: fr/umlv/unitex/xalign/DisplayMode.class
+sha-256-Digest: gn1sG7S9/OekaUSlC6Akv2bCdQokgNzGym7sRIFabsE=
+
+Name: fr/umlv/unitex/frames/TextDicFrame$5.class
+sha-256-Digest: 8p1T2BLBaypBt/dKt5DR8D/mMgVXvGhinXTK/P1UIFc=
+
+Name: fr/umlv/unitex/frames/VariableInsertionDialog$1.class
+sha-256-Digest: AErL74li/8UEWXavUZ1dJQGs5eeTHaIucfC4miyqsN4=
+
+Name: fr/umlv/unitex/frames/DelaFrame$6.class
+sha-256-Digest: LHWzeQPx/LNrWuTINTghdUf5faqS3/a9kKDt7X+n8go=
+
+Name: fr/umlv/unitex/tfst/FilterListener.class
+sha-256-Digest: p8Q3BotZy/3FJxfF/5nKNfiGeiIjkOSxAbbNWSWpfMQ=
+
+Name: fr/umlv/unitex/exceptions/NoClosingQuoteException.class
+sha-256-Digest: XOJ25htuqcfSTTy78GUCVWSJiBdJJpICjHnTObMMMD8=
+
+Name: fr/umlv/unitex/frames/TfstTagsFrame$1.class
+sha-256-Digest: l9cGpkR+iIkB2+leS8h2zKcwr8/vUwS3UW9FhiJnQkY=
+
+Name: fr/umlv/unitex/process/list/ProcessOutputList.class
+sha-256-Digest: Pj0zCo/DpNOL+QnYM8jUEepKw+HmkSvfF9/ccF8LNq0=
+
+Name: fr/umlv/unitex/process/list/ProcessOutputListModel.class
+sha-256-Digest: zNAgCwfr228x600SqpAa1VZoav4aCl6o2b4dtWe0v04=
+
+Name: fr/umlv/unitex/frames/GraphFrame$11.class
+sha-256-Digest: C8jljqCVPVOgKFt/sGUbWlvl/2hGmu7ACCRyzTXXqXg=
+
+Name: fr/umlv/unitex/frames/LocateFrame$LocateDo.class
+sha-256-Digest: xYB6J8mrVv8jIaeJpFVcNDGgPXxBRsdQbi2NJ6dEHAQ=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$7.class
+sha-256-Digest: G+D7tjm+rWqYxSjTPkAoV/k5z+RKBTPkpJfxy3CNqHo=
+
+Name: fr/umlv/unitex/process/commands/TokenizeCommand.class
+sha-256-Digest: cTAmgeShH2pvEjHYESuEf4hsIaaAlyMEi/FQvRk8Q/g=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$6.class
+sha-256-Digest: RV0w2/I0Cdz8RBFt+MTJnna5rOEF0te/HyI/sN9/WAw=
+
+Name: fr/umlv/unitex/arrowIcon.gif
+sha-256-Digest: kUe2D8PX+bqDeXXpdCDfHgfGMJi+fA+2w0VBmfXxSFs=
+
+Name: fr/umlv/unitex/cassys/TransducerListTableModel.class
+sha-256-Digest: DbrUa49jF+oMEIFpxo63DUAadCiQEIe9Bb36sZ2dy6M=
+
+Name: fr/umlv/unitex/frames/ProcessInfoFrame$5$1.class
+sha-256-Digest: oYTdc0jC/CpnTFchgjUUy0OToOh1oPzyIp8LIiFbebM=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$14.class
+sha-256-Digest: 1bhdsYp9nawAhA97KcdX6lmFbkZtsgf08HWLgPV+44g=
+
+Name: fr/umlv/unitex/graphrendering/GraphBoxInfo.class
+sha-256-Digest: FBZfjGEn+w7nUcNH5HBWiXdSheAQ2lo1tmrpYtEF2Mg=
+
+Name: fr/umlv/unitex/process/commands/ElagCompCommand.class
+sha-256-Digest: TQM3b7zams8rtBdr//aE0gw2hPNmjR1NcZKJMiO1FuU=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$70.class
+sha-256-Digest: zCA0Ov/S3RJbkvKMF3QfpI2z/Ei5Kil9ThWbGLRDkCc=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame$6.class
+sha-256-Digest: KS2BlhKTFf4flqLvI7pbhxxdzh0qh8kvt3EiijjA3fM=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$28$1.class
+sha-256-Digest: QCTfza7yKOudNWOUHJERdzLqz/rEosLhMhcah/Glde8=
+
+Name: fr/umlv/unitex/frames/ConvertTfstToTextFrame$1.class
+sha-256-Digest: 09i1d0qjp8d3OZ/eDTwQ5H8Rrox8a1x/qPGL1M03TKs=
+
+Name: fr/umlv/unitex/frames/DicLookupFrame.class
+sha-256-Digest: B3I4kRxCehdANWxU8rU+OWTKWHT3OTKz6iGFhJTK/NQ=
+
+Name: fr/umlv/unitex/copyIcon.gif
+sha-256-Digest: XZ1ErsHhsYXEgKx4qaw3C02GDcl+8ErFTmhi9cHQhIw=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame$9.class
+sha-256-Digest: vabqmwJ3sjd/ySQalhKLKqxt9+PqVjTidLoJvup6FXs=
+
+Name: org/mozilla/universalchardet/prober/MBCSGroupProber.class
+sha-256-Digest: e9qE8aQlqAnIIj2ilc40t7XPyIpEKjHatfbuJLTlyr8=
+
+Name: fr/umlv/unitex/frames/TextFrame$2.class
+sha-256-Digest: upFfAPfg75A9Wva0K6jBiaYdmKSwdiuDfOAFRDRlW2I=
+
+Name: fr/umlv/unitex/editor/ui/FindPanel$3.class
+sha-256-Digest: VsIVAOs4pzVKOreEBQPEwBt2objC0XRQB5WEjxMk64k=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$3.class
+sha-256-Digest: lHH4ILJWzvTGlEKgO90SbozyWRro9Dm/VpAsGOGVGsI=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFindAndReplaceDialog$4.class
+sha-256-Digest: ZW8zXcxI1Dj00pjfY89u/pMlUNdZCYBMjYjVJjA89uk=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$16.class
+sha-256-Digest: DYfE8oQtxKZwe8QCdvL/1xDDqDGsxfJf6v6LX23iY0M=
+
+Name: org/mozilla/universalchardet/prober/HebrewProber.class
+sha-256-Digest: 3QJo8P7QLS5f9w5pgOdsHCUjoAWmubx5hngCXGwGrI0=
+
+Name: fr/umlv/unitex/cassys/DataList.class
+sha-256-Digest: uvphjDnxpSOsMOXK75e8bMLqMcE8ikbHbYesLzScOYI=
+
+Name: fr/umlv/unitex/frames/TextDicFrame$1$1.class
+sha-256-Digest: OZDPeM1iAoD3GDzjaSqVdSwP61Ia3+SyYBy2oz2zKJc=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$8.class
+sha-256-Digest: IF+4oOdnUfPIkqqVbYoi52AsPgA9XSmzJ1cbk410X9M=
+
+Name: fr/umlv/unitex/process/commands/ExtractCommand.class
+sha-256-Digest: JjmQwyvJI025ozTVFfPWmWGecG7xEN1Sx0NRnnWLzeU=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$29.class
+sha-256-Digest: vlr2sdZycsD7Wz8TikVfimV8wSSOwWhcLY/luzUe79A=
+
+Name: fr/umlv/unitex/listeners/LanguageListener.class
+sha-256-Digest: M0ufTqaKP8ow0fpEqQW0wf9NOhHZOVOoigVB/H6kllw=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$12.class
+sha-256-Digest: x/6UTLGjdpaZps1SixpvsnBZoM+bQqF1W2zu0F/WElc=
+
+Name: fr/umlv/unitex/graphrendering/ContextsInfo.class
+sha-256-Digest: 47u4wsgpBmV3D8eEacl+w2sY4E11r7EdYPJKf9BFcJo=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$40.class
+sha-256-Digest: 5ol4Sy9pf9vKtrVJJZ/cyR4jYcb3YbcU2uQajZy6WIM=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$8$2.class
+sha-256-Digest: mVpoOQcypXEcFLSo15Sc9El7kDgfHEYV3FNKTqewGqE=
+
+Name: fr/umlv/unitex/frames/UnitexFrame.class
+sha-256-Digest: Xza8Vsa+qPGHHRlCptCjUwvTA9m/elqd/HNNzxwdDRc=
+
+Name: fr/umlv/unitex/frames/TfstTagsFrame$3.class
+sha-256-Digest: OoshgZP+46u7HiCj9NEM6bpQXYiqwrhJTB99TtxzM4Y=
+
+Name: fr/umlv/unitex/text/SntUtil.class
+sha-256-Digest: t7B/ya7xkomE8X9mPT/o3oQyxN04MmkzzdVNUHfwwfA=
+
+Name: fr/umlv/unitex/debug/DebugGraphPane.class
+sha-256-Digest: lZjTjMOaiPgpXExJ/dZ6XCysZU3lUiA4wG7D3Ie+wCA=
+
+Name: fr/umlv/unitex/graphrendering/MultipleSelection.class
+sha-256-Digest: otefFVTEnBFHPzJA48rEvBPqWpIikwPDtuT/+F3M+zQ=
+
+Name: fr/umlv/unitex/frames/Seq2GrfFrame$1.class
+sha-256-Digest: ICZVVdhpz5uVy6pZXcENBavDXhG57HTzox17VE0ryMg=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFindAndReplaceDialog.class
+sha-256-Digest: HhJvxVcnUrqUTq124eVx7AAyExxs7bLJU9upwZ2oYYg=
+
+Name: fr/umlv/unitex/editor/ui/DictionaryFindPanel$7.class
+sha-256-Digest: YLuLd8Fg4xcTjf77Qzf8MO6FLPyXJZC1P7Nzsxbh03I=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$5.class
+sha-256-Digest: F7eZTnfu5lVOZCMt3zO9rtkjTVlyVkmhMpB+1fk96Ys=
+
+Name: fr/umlv/unitex/concord/ConcordanceDiffAsListModel$DiffLine.class
+sha-256-Digest: bKYqBViqBs1Es5QuDqYHjhMmVP1+2ydiGSyTId79o1w=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$25.class
+sha-256-Digest: u7LAVQGnu8mE8BjG4x3GE+g6aAa8yEVVFwSBNWbmul4=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$28$1.class
+sha-256-Digest: 3rvazufGdW+bhyU7KFd3nT5FRSyuWiDk4Ols9x5qNdY=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$58.class
+sha-256-Digest: j68WVETIFVGMOwErzh/3L4LynF73PAO7i4ib6erqfRg=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$6.class
+sha-256-Digest: DcpxSV00yBE5Mq70Qs7xjGpLVuIST9iBOdId9J4HrxE=
+
+Name: fr/loria/xsilfide/multialign/MultiAlign.class
+sha-256-Digest: CM60rtApzHO3nZrViB6ht/i8hWFPylPAJMEALLOaWlg=
+
+Name: fr/umlv/unitex/editor/ui/SearchPanel.class
+sha-256-Digest: pnGB7PehPFx90s9rjp+FZAaTSydjsOIv7iSjrrpigGQ=
+
+Name: fr/umlv/unitex/frames/GraphFrame$13.class
+sha-256-Digest: uCccXt4GR3pbEBXk+YmsJsKcT65AIjL5yPO+jtdUScA=
+
+Name: fr/umlv/unitex/frames/DelaFrame$3$1.class
+sha-256-Digest: 6VtzcJbab/CwLlycEcgkuWCqlidcQ/dQNjENykVnS9s=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$9.class
+sha-256-Digest: u+qF9cp73Y+thMXyuAcnn4CtMuby3E55N8dLXrehMfU=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$6.class
+sha-256-Digest: DnSnRyRhq+8EYxdCkt3wZ5dyQPxr+WofG0lwFTzJsA8=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$2.class
+sha-256-Digest: fGDWM3GD1uVtbZIl/a/n6R5A1cwhfgfzFJ8C9lSC1DI=
+
+Name: fr/umlv/unitex/frames/SplashScreen.class
+sha-256-Digest: H4XCU9nbJ//Ohillv6bHXu29XhKzzpoM9vZct9rAy1o=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$21.class
+sha-256-Digest: sFVy2IlEfKfY1ZGxSdh8eoMceylUDZgtTybdY5kAyJU=
+
+Name: org/mozilla/universalchardet/prober/distributionanalysis/JISDist
+ ributionAnalysis.class
+sha-256-Digest: +8WK4lm8TzBbSnbJHaABBSmbT4ZElto6dSVdmr8e+M8=
+
+Name: fr/umlv/unitex/compilationIcon.gif
+sha-256-Digest: QjZxfEhx48Txov3joSZf2kNQH498rbRtPAifzsp6y7I=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame$7.class
+sha-256-Digest: NMZmWfil+7Q6mqDhRoWHfBIRI5eksxV3HGGbEbfdSsU=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$12.class
+sha-256-Digest: HueMAcaFK4xrqdfM+kxAKDm42yjCSaEsGhsa2u3075c=
+
+Name: fr/umlv/unitex/process/commands/RmCommand.class
+sha-256-Digest: Qlbye2ooHnsISBkCY/CIjTu8T+0yuYCG+i5pzbr9akg=
+
+Name: fr/umlv/unitex/frames/TextDicFrame$1.class
+sha-256-Digest: KQg42W25P/a29WvZvTp5wsmY0mnQGZhi5K8WdC7o+50=
+
+Name: fr/umlv/unitex/frames/ConcordanceDiffFrame$1.class
+sha-256-Digest: CbGpHrirQ/uMFeQuTaBDL1OYxZGjzdoiKtMv6f9w2ZU=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$11.class
+sha-256-Digest: 5hDjbP4fBtPdeUZGoKNqzoTbqgJsV41vqfwoy6XVuUc=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$80$JFrameComparator.class
+sha-256-Digest: SV5ZQBkmSSkiFo8cT20kQ2QUpgXDMjpXXWPj79o8dQU=
+
+Name: fr/umlv/unitex/frames/LemmatizeFrame$4.class
+sha-256-Digest: +1EbnGVEndV7CF/sqMIsvPQ+wBNpyrZuwmGpDC2wRH8=
+
+Name: fr/umlv/unitex/frames/UnitexInternalFrameManager.class
+sha-256-Digest: 9IaIr1XBNE0NW5wpNod/efoUVi3hMZjsLuUSyjAqQP0=
+
+Name: fr/umlv/unitex/listeners/FontListener.class
+sha-256-Digest: 8xoTfIiMGrwDKTVz/lh2a/EFwAYMfhdyZIVQmsQcUI4=
+
+Name: fr/umlv/unitex/svn/SvnMonitor$1.class
+sha-256-Digest: lClHnNwQ2Ggm+AAnRbjv42tmCkarM0Psup71VoN1zgs=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$74.class
+sha-256-Digest: CVwnzhP6ntx8R6m4z1+jracHJqOo5czkomLOq4Xh3yU=
+
+Name: fr/umlv/unitex/frames/GraphFrame$29$1.class
+sha-256-Digest: hVMPRFWWzEgVE0v6tfvXvDKdRwXXLLaVIE/pVAZ9QZk=
+
+Name: fr/umlv/unitex/frames/LoadSentenceDo1.class
+sha-256-Digest: g2P8TOTYuIF9j2uYkuUQEGC8G/Poq27FIgeKxKFl9cs=
+
+Name: fr/umlv/unitex/editor/ui/TextAreaSeparatorException.class
+sha-256-Digest: 92cHb0QbjLo1+yjmUY0p8Fq2Fa4ZIRcRsN+zZ0DXSIM=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$5.class
+sha-256-Digest: IcoY3vjEEtLKAN32GryWUPfihs94si5uW10/acc7GnM=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$18.class
+sha-256-Digest: /w8GW/S0kz6JQ+SovwDZf1r7XiGFmujJTaD6SuSnKK4=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$7.class
+sha-256-Digest: LUGqjr7IxB7Bzy42fzOHl+Xpif25tRzZVGFQii0cMZo=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$16.class
+sha-256-Digest: zeeCDjNuduXgN3rtHzQlDRluiByR/oNJqmdD+6MckNY=
+
+Name: fr/umlv/unitex/frames/GraphFrame$30$1.class
+sha-256-Digest: YZhVwpgDOVkdlyHAw1id33teU6LcPoxjz/L9g+dZRuA=
+
+Name: org/mozilla/universalchardet/prober/sequence/GreekModel.class
+sha-256-Digest: yciV8mYmzAu8NTnI4A9ihW/4Se+1ahI9JmK9KlBk/FU=
+
+Name: fr/umlv/unitex/frames/FindAndReplaceDialog$10.class
+sha-256-Digest: HKy5o7UQEoT0v3GqtAOpIF1QU80e+7ZMhyYJFqNQUlw=
+
+Name: fr/umlv/unitex/editor/ui/FindPanel$5.class
+sha-256-Digest: hC7L20vLzo+sT2D6MMcqDePfL5BGr0rdKZuc64a8PNY=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$8$1.class
+sha-256-Digest: P5PulCfoQqizvWgiX8aX3acii4WZ//Knvd0vqoKPulY=
+
+Name: fr/umlv/unitex/linkBoxesIcon.gif
+sha-256-Digest: dLA1LiBTBw6FnoBT/6albZoUA6z0aA8OqEUbY52rdM4=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$26.class
+sha-256-Digest: wOvoj99MwVP4Qo8ii4pDxuxrC4h0J6292mqhYmLl2/A=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$23.class
+sha-256-Digest: nJAsn/PzHvR6gJEY5pV+bNmA0c87lPW+Did2To0AcLc=
+
+Name: fr/umlv/unitex/frames/TextDicFrame$2.class
+sha-256-Digest: cGgO/5T2hsF9HbnP7a/Nz3aac7lNJ+g6JejuHYiQc00=
+
+Name: fr/umlv/unitex/frames/TabbableInternalFrame.class
+sha-256-Digest: ngPYq1JuYKroRH3cbtbq6eImaCba229vY62PrDjUR/4=
+
+Name: fr/umlv/unitex/editor/ui/FindSentencePanel$1.class
+sha-256-Digest: rKEGqTDMmiVoDPQU/kLCApkocfqlRTU7b9jwhNldyRw=
+
+Name: fr/umlv/unitex/frames/HelpOnCommandFrame.class
+sha-256-Digest: 0UxGZt2q8Pd73nlGeTHd3bBIvoLI/Lr65Hgc4dvSOCQ=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$7.class
+sha-256-Digest: 3At9vdMwtu8n0XeMdBdT5nNfNEuO0nLec39WNdArhb8=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$79.class
+sha-256-Digest: ra9tvyvAhXK1x9NXyI7yeSwobSbAQhqr9svLM1590ms=
+
+Name: fr/umlv/unitex/Unitex$2$1$1.class
+sha-256-Digest: pcj5YlNOBbgU/dx/Shk8qALOqVAKFByAyIPTRrA8Mlk=
+
+Name: fr/umlv/unitex/svn/SvnMonitor.class
+sha-256-Digest: habhGdmdGz/2OLcl8crGjsccxYeMgLISMgxWR2C40pA=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$8.class
+sha-256-Digest: +BCNAKdJ6v7voDx0RArNilpOF4j2eznMwTrlIjc6XLY=
+
+Name: fr/umlv/unitex/process/ExecParameters.class
+sha-256-Digest: 0QkMig4yZD+gBluHcrrOxJMovxbJtJ3ZmfgXGx+jIjU=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$19.class
+sha-256-Digest: N2Dlchkox6xtPSxkB9eZn+k+tbmj+9e/oMvqI0FGwr0=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$7.class
+sha-256-Digest: L9tEDRrQ6erjrVOqa5hTUth9fH7UySbqO5qVkkJ/2ec=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$22.class
+sha-256-Digest: SxIWefXzuhLsZ4X0d369Qxi1hpwDmn31MBNrR7uy69g=
+
+Name: org/mozilla/universalchardet/prober/statemachine/HZSMModel.class
+sha-256-Digest: 8N0pPsRR/sjsvJty1rFkB0ic+7erDhW0p0zG/DutJGE=
+
+Name: fr/umlv/unitex/xalign/XAlignPane$10.class
+sha-256-Digest: e4ZlB7JINDmAwmIUN8+hYw13Jah4poTpPMvMXSGh/K0=
+
+Name: fr/umlv/unitex/editor/ui/FindPanel$6.class
+sha-256-Digest: X3Kd9V+X9+VpRl9Xbf66Ld2NJfUFXtuGBnE74+6AKZg=
+
+Name: fr/umlv/unitex/frames/GraphFrame$10.class
+sha-256-Digest: z38mlea7vcNc9DuXNWeHJ/ZP3Sl/9zYmo5kVDZ7t4LQ=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$1.class
+sha-256-Digest: /F+8WFaZqDzuYFqyef75wvaiQm7CKR/ny0sP/hss0kw=
+
+Name: fr/umlv/unitex/xalign/XMLTextLoader.class
+sha-256-Digest: iiA7AR0yPYxzfLS/Dvr0kcsU4Glb+XyZ1iWM6wf8/pg=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$27.class
+sha-256-Digest: cdQF6n94HoBdVta9I0ZDvf43OdUaQcetfBwX2YJZ92I=
+
+Name: fr/umlv/unitex/process/ToDoAfterSingleCommand.class
+sha-256-Digest: 6EzARUCOghnbpwF/Gy0YSQltuwRhjfnvRx8WrpUhI7U=
+
+Name: fr/umlv/unitex/frames/LoadSentenceDo2.class
+sha-256-Digest: IU+Ra3bwQMuyT0Nurz0+fOtUVicabs2/b83imcxXUFA=
+
+Name: fr/umlv/unitex/graphrendering/ListDocument.class
+sha-256-Digest: SDWJql5K3CYLNq9/vLRBahxzbt866Rhwp/Y/jwNIjZw=
+
+Name: fr/umlv/unitex/process/commands/MultiCommands.class
+sha-256-Digest: dAu1pIPfKUYgMap+EXy6dJnAGn1UiAVcgqlrMCq6vZ8=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$20.class
+sha-256-Digest: J5lJuILSjuNgBcuYCc+FcA6isG6XFjNpyI5F4V4+Q2U=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$1.class
+sha-256-Digest: vR8SEESh5GNoP528qLsnus+/UdA3qitPjYYf2vwgPU4=
+
+Name: fr/umlv/unitex/frames/ConstructTfstFrame.class
+sha-256-Digest: slz122B4/06W8LTfiEhWUpyf8iAc5wMnpfDmRK7PIRc=
+
+Name: fr/umlv/unitex/process/commands/MessageCommand.class
+sha-256-Digest: FmGZ6VBGxpQNBcd03Xa4ScGUizJ/1S0hh7gR5E4FCPU=
+
+Name: org/mozilla/universalchardet/prober/statemachine/ISO2022KRSMMode
+ l.class
+sha-256-Digest: phA5eQITWqetmuvxXBugeb/9Xic5vHlj5GIqRtQs2hA=
+
+Name: fr/umlv/unitex/frames/GraphAlignmentDialog.class
+sha-256-Digest: K9vayc+9QHcaWRdiTBhTssGid3XpDAfoSS7ftlOaodw=
+
+Name: fr/umlv/unitex/frames/TfstFrame.class
+sha-256-Digest: UZ7Djisxe12abrSL/R/oy9NEsLaDwa3A69KzhJDC6BY=
+
+Name: fr/umlv/unitex/editor/EditionTextArea.class
+sha-256-Digest: 10O/CMIJHp+DrUf8KKLeNBxJ/zboT9ZZPDEr8nzMoPo=
+
+Name: fr/umlv/unitex/frames/SvnConflictsFrame$1.class
+sha-256-Digest: YM4JV3V3NXqJdieWBz0i3NvPkzW/IV/q/D9fpNzZIFk=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$2.class
+sha-256-Digest: AS2/KF9Um3ZL52osut3WWixO0+c4HB4gT3m1Dldoa+A=
+
+Name: fr/umlv/unitex/graphrendering/TextField$SpecialCopy.class
+sha-256-Digest: +AC6df8o9BuHpSh/Out+esx99u0mxIo69F5ccXU3NkY=
+
+Name: fr/umlv/unitex/callersGrf.png
+sha-256-Digest: Pen09kfWJSeJm4+WAynZXsVVKTHcQwn7hAxIwU+hUvo=
+
+Name: fr/umlv/unitex/editor/ui/FindSentencePanel$1findSentence.class
+sha-256-Digest: AsZuZRBaGHmkj8C7ZwmchwplTcjMpg8S+UGcSGls/uE=
+
+Name: fr/umlv/unitex/editor/ReplacementTargetException.class
+sha-256-Digest: qJgDryzo4XVCFuC6yK4tqZ4hsjbVcdwzRWupqnIE9lE=
+
+Name: fr/umlv/unitex/graphrendering/GraphicalZone$21.class
+sha-256-Digest: k+BrdUfqmzbSLfsi50FoaYkTCHUgPL55arT982lHFnA=
+
+Name: fr/loria/xsilfide/multialign/Paquet.class
+sha-256-Digest: szHRuFdpP19LzTmYPcWT7qT36X7LlkLDoaSHpaiZkYs=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialogFactory.class
+sha-256-Digest: GL7zFwFSp4WjCMMfISowUSB64QgtgpFbr34D78AhQPA=
+
+Name: fr/umlv/unitex/text/BigTextArea$1.class
+sha-256-Digest: PnzXoR2kbgnAB+AmzDZYhWNkoYJIqQvmXBwbzjXimoQ=
+
+Name: fr/umlv/unitex/frames/ConcordanceDiffFrame$3.class
+sha-256-Digest: A8abs0cFdf+q5td/8zWTBYN/j9RBBfSHCni1McHds1c=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame$3.class
+sha-256-Digest: FCilKLywigNh3eDYCW8igWZIztRGiPD3mYtzRQtN+ho=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$22.class
+sha-256-Digest: jcmTlSPLiX/26Hv4PEj+I2VVK7yyVzy0/+oslIoX+ZQ=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$73.class
+sha-256-Digest: ffbLU7Mo7JsXbcFMoC0JduOSZhViGTPGDS1vn3eWGjo=
+
+Name: fr/umlv/unitex/svn/SvnMonitor$2.class
+sha-256-Digest: oQ84wCD5AeXAxzBU5DY6IsQHbKgueQQEaIAhMXmpKf0=
+
+Name: org/mozilla/universalchardet/prober/distributionanalysis/SJISDis
+ tributionAnalysis.class
+sha-256-Digest: TGoiM1KWmEw6/a2l46kU0xR6r9hQzwuGjJXuVlHm1VY=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFindAndReplaceDialog$10.class
+sha-256-Digest: AZA7isBkvryizAlLupaFqpfhpC/sRBsteSg4eSimbGA=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$11.class
+sha-256-Digest: HCiTnX1eKC5EswnHIHyeTMpIqXRR/WC140HjDaQNgBk=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$6.class
+sha-256-Digest: 9HRaXNmHtflH0oHCJR2ASFm9YdtakBO4mS9OQGpQ0GY=
+
+Name: org/mozilla/universalchardet/UniversalDetector$1.class
+sha-256-Digest: +Eb6yfmtUtji03XyW/2GNOjan/U+tk7RMH5Gydb8pI4=
+
+Name: fr/loria/xsilfide/multialign/AlignPreparedTexts.class
+sha-256-Digest: u+jPCewKkcZFZcGwiY38Za+tGaWzwrSw5sPqlnQhgPQ=
+
+Name: fr/umlv/unitex/diff.png
+sha-256-Digest: rWWOQQDcwl0ux8ALq41xkBb+W/sVxedfQD8Jk6cSHQc=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$9.class
+sha-256-Digest: zoifle4DLlhzuDzbXVPbGHkwzJpHQuSW5D0g+JDvkXs=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$10.class
+sha-256-Digest: S/O9Pwf3mwTIy0oQNOQffRWEQRMAtXMhBj+4mwyfrtI=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$3.class
+sha-256-Digest: vzg+o6erjXsKftuK0tsdfFegzqDMefHFcnW0pfysXCo=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$25.class
+sha-256-Digest: dGMo4InUUPm//5T2LdjXYnSojroXYxwW8ER2rm/SU5E=
+
+Name: fr/umlv/unitex/svn/SvnMonitor$3.class
+sha-256-Digest: 35beHWVO2LG8a83ktQcX8M03ACJCdUeIz1dJMH8wpKM=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$14.class
+sha-256-Digest: AqN9UmwWH7ZeorIH/ZzzabLeIgKBHF7JwgWGp8Nloqk=
+
+Name: fr/umlv/unitex/process/ProcessInfoThread.class
+sha-256-Digest: 2iKiL8xa2REaLhyp2tHUJ8ScJnOCBBkoww4DE37nErE=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame$2.class
+sha-256-Digest: n+s8VR74YiLrv0Dmt3G9VwCQr96fn10Vyb3SyEIQGOs=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$76.class
+sha-256-Digest: wky3boZk+Wf8/DuR4/m+Kmqa/DelnL9ABG/VE9VRq6c=
+
+Name: fr/umlv/unitex/process/commands/SortTxtCommand.class
+sha-256-Digest: 8AfFj2D2Q38eOsPpiJfzFkyBPgRevq4+Y9AEYGAmq74=
+
+Name: fr/umlv/unitex/frames/ExportTextAsPOSListDialogFactory.class
+sha-256-Digest: cfP9lLBVBe88/Aa4xBMrhB0bkygpDZL0MTTi0sK+4S0=
+
+Name: org/mozilla/universalchardet/prober/statemachine/SJISSMModel.cla
+ ss
+sha-256-Digest: br5KIX33RNXNUQ6hP4Rixh7qeJiz1TZyufB6/aOO0Ho=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$23.class
+sha-256-Digest: tRjWhDyKF6VOn8EFnkDRHdqesKKA63vZhqDZBPcHXFk=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$13.class
+sha-256-Digest: mZU7tt8SY+8IqiTiur7f/kidyHr2fBtkdhr+9v6RCio=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$4.class
+sha-256-Digest: lb/YHAXKqVU50cRLnhI3PwOgnwMsdxfN4zWH6zfZLa0=
+
+Name: fr/umlv/unitex/editor/TargetException.class
+sha-256-Digest: UfXTqI42LyUioqXkYi+4zur3T75nrKRPwQPpgbHQLpI=
+
+Name: fr/umlv/unitex/frames/FindDialog.class
+sha-256-Digest: jAsgGPgOfJPLQjEDJqvN9GSkOFHDbLHyIklAZH6W/K0=
+
+Name: fr/umlv/unitex/frames/SvnConflictsFrameFactory.class
+sha-256-Digest: Spefy1YOhKEE8kMjiWyZVsWuFd3OUYQGhVKN4doHpMA=
+
+Name: fr/umlv/unitex/graphtools/Dependancies.class
+sha-256-Digest: V2cPrfttcCwVNDL+XjZvytG76GVYWmR9r7AsZIu0N90=
+
+Name: fr/umlv/unitex/frames/SvnConflictsFrame$2.class
+sha-256-Digest: Akhf5zZLPkHqT3rZXMhN1P4Dv99yi6mXxsGgn6i1qUk=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFindAndReplaceDialog$11.class
+sha-256-Digest: ouL/8rx6Di2K86oOwFE6rTsfs+4hVQ+sNwc1jP+YmFU=
+
+Name: fr/umlv/unitex/process/commands/AbstractMethodCommand.class
+sha-256-Digest: O4ja5dYEpVe8ugFse3PNeLkn5eqtEhNqGiF6k7AHmao=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$4.class
+sha-256-Digest: 6fSgPG1nHeBibxBc8sy6gXEDh0hOQ6fTal1QzuhjacI=
+
+Name: fr/loria/xsilfide/multialign/Paragraphes.class
+sha-256-Digest: Y5rrIvvvIshfO5G2wOQGFOnCp5KOnYvVECdYgcwH8AU=
+
+Name: fr/umlv/unitex/frames/InflectFrame$LoadDelaDo.class
+sha-256-Digest: pWwUIRlbsQanxiE2oR2qYOw35g4yI1bzD/KNdP4p+dc=
+
+Name: fr/umlv/unitex/undo/AddBoxEdit.class
+sha-256-Digest: 9nlYo/ZC8S/idvSaFkiBKL11mP73tPUaVqf3sEx+feo=
+
+Name: fr/umlv/unitex/frames/TextAutomatonFrame$5.class
+sha-256-Digest: 6sfue0rLN7VgDMJ6Q3SgbNkQdUyO4bA3uXeJB+8KfDQ=
+
+Name: fr/umlv/unitex/frames/TextDicFrame.class
+sha-256-Digest: OBB6/TsX5qmJiZ7DwPJ6b1YiLfozTNPXa9WdJ/HD8o0=
+
+Name: fr/umlv/unitex/frames/UnitexFrame$75.class
+sha-256-Digest: 0b6rjWlNa9DIhYBvdameOLc5ThhIPlzB+u5I/DRgLlI=
+
+Name: fr/umlv/unitex/frames/GraphPathFrame$13.class
+sha-256-Digest: iEN2mXhd/azssGeJ3bp0hQLLZTgJHe6iLXFb6wtNvDw=
+
+Name: fr/umlv/unitex/editor/FileEditionMenu.class
+sha-256-Digest: yOjTB0Xgyr9wkDPz/q3m1rWbxt2rgU763N2qgxrmGtQ=
+
+Name: fr/umlv/unitex/process/commands/ErrorMessageCommand$1.class
+sha-256-Digest: 48V2+1Z2IJCy/LONWOdfCP0CzH8sxLfIkyo6accgwag=
+
+Name: fr/umlv/unitex/frames/GlobalPreferencesFrame$12.class
+sha-256-Digest: QMa00oFGb1qNJKPRR1gafPO+48R20VtW8Ed9sy9nve0=
+
+Name: org/mozilla/universalchardet/prober/statemachine/Big5SMModel.cla
+ ss
+sha-256-Digest: eInrQkO6do+wwutJsFcUKe+ngVq1oheWEnRkN06t3cM=
+
+Name: fr/umlv/unitex/frames/GraphPresentationDialog$5.class
+sha-256-Digest: NpwSHi41PS9/Qc2KF/EjUuuAhcIgAwMw7+IrdchdNDk=
+
+Name: org/mozilla/universalchardet/prober/statemachine/EUCKRSMModel.cl
+ ass
+sha-256-Digest: amjq6DN/irdo+J8UliJRpT89LhzJXINWImYoXtcKfSk=
+
+Name: fr/umlv/unitex/frames/XAlignLocateFrame.class
+sha-256-Digest: uTMUZWdw7ilwWhkICa5HAp/5u6tMI3Iw36qGt4X5/IE=
+
+Name: fr/umlv/unitex/frames/ConcordanceDiffFrame$2.class
+sha-256-Digest: 9nzUvl+U0bbWOjnsdTax4xMkDd5SC+0aY8VB36niUqo=
+
+Name: fr/umlv/unitex/frames/TransducerListConfigurationFrame.class
+sha-256-Digest: 5tDfBt78bZyaVckBe8IEAKgDXFx62/H9RqqmHhhgp0A=
+
+Name: fr/umlv/unitex/frames/FileEditionTextFrame$1.class
+sha-256-Digest: 8jRq7i4u3JZpmLsUyo+9tqQVHiz68zFKRx5dlmfQaE0=
+
+Name: fr/umlv/unitex/text/BigTextArea$2.class
+sha-256-Digest: mFfeYVTwnGNhVunbtOmE9HnbJpwx/T5tzoDW+kYps+A=
+

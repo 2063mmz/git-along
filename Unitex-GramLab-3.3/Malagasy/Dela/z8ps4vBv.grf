@@ -1,0 +1,47 @@
+#Unigraph
+SIZE 1872 903
+FONT Times New Roman:  14
+OFONT Arial Unicode MS:B 14
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+27
+"<E>/" 18 137 1 7 
+"" 889 155 0 
+":t1" 195 84 1 3 
+":8" 249 84 1 6 
+"<V+0+z8ps4vBv>/$V$" 355 100 1 5 
+"<E>/,$V.LEMMA$.$V.CODE$}" 564 100 1 9 
+"<E>/{" 303 100 1 4 
+"$<" 65 137 1 8 
+"<E>//" 96 137 4 2 10 19 25 
+"$>" 828 155 1 1 
+":t2" 193 181 1 15 
+"<V+ana+z8ps4vBv>/$V$" 357 181 1 12 
+"<E>/,$V.LEMMA$.$V.CODE$}" 564 181 1 14 
+"<E>/{" 303 181 2 11 16 
+":X" 643 181 1 9 
+":B" 246 181 1 13 
+"<V+na+z8ps4vBv>/$V$" 355 241 1 17 
+"<E>/,$V.LEMMA$.$V.CODE$}" 564 241 1 18 
+":Y" 643 241 1 9 
+":t5" 196 30 1 20 
+":8" 250 30 1 23 
+"<V+a+z8ps4vBv>/$V$" 358 30 1 22 
+"<E>/,$V.LEMMA$.$V.CODE$}" 564 30 1 24 
+"<E>/{" 303 30 1 21 
+":zeroa" 629 30 1 9 
+":t4" 194 137 1 26 
+":ps4" 240 137 1 6 

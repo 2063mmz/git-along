@@ -1,0 +1,26 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  12
+OFONT Arial Unicode MS:B 14
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+6
+"<E>" 98 214 4 2 3 4 5 
+"" 440 209 0 
+":a9ps41Cy+:a9ps42Co+:a9ps42Cy+:z9ps42Co+:z9ps43Cy+:a9ps72Co" 170 173 1 1 
+":a9ps4vCo+:az9ps4vCo+:v9ps4vCv+:a9ps11vCo+:a9ps14vCo" 168 59 1 1 
+":a9ps141Co+:a9ps141Cy+:az9ps141Co+:z9ps141Co+:a9ps142Co+:a9ps142Cy+:z9ps142Co+:a9ps143Co+:a9ps162Co+:a9ps172Cy+:a9ps172Coy" 160 345 1 1 
+":az9ps4iCo" 273 122 1 1 

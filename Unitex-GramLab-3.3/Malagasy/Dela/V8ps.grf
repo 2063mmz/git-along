@@ -1,0 +1,31 @@
+#Unigraph
+SIZE 1434 840
+FONT Times New Roman:  12
+OFONT Arial Unicode MS:B 14
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+11
+"<E>" 278 306 4 4 7 8 9 
+"" 955 346 0 
+":a8ps13Bo+:a8ps41Bo+:az8ps41Bo+:v8ps41By+:z8ps41Bo+:a8ps42Bo+:a8ps42By+:a8ps42Boy+:v8ps42Bo+:v8ps42Bv+:z8ps42Bo+:z8ps42By+:z8ps42Boy+:a8ps43Bo+:a8ps43By+:az8ps43Bo+:a8ps52Bo+:a8ps71Bo+:a8ps72Bo" 584 389 1 1 
+":a8ps1vBy+:z8ps1vBo+:a8ps4vBo+:a8ps4vBy+:a8ps4vBoy+:a8ps4vBv+:az8ps4vBo+:az8ps4vBy+:v8ps4vBo+:v8ps4vBy+:v8ps4vBv+:z8ps4vBo+:z8ps4vBy+:z8ps4vBoy+:z8ps4vBv+:az8ps14vBo+:a8ps14vBo+:a8ps14vBy+:v8ps14vBo+:v8ps14vBy+:v8ps14vBv+:z8ps14vBo+:z8ps14vBoy+:z8ps14vBv" 483 354 1 10 
+":a8ps141Bo+:a8ps141By+:a8ps141Boy+:a8ps142Bo+:a8ps142By+:az8ps141Bo+:v8ps141By+:v8ps141Bv+:z8ps141Bo+:v8ps142Bo+:v8ps142By+:v8ps142Bv+:z8ps142Bo+:a8ps143Bo+:a8ps143By+:v8ps143Bv+:z8ps143Bo+:a8ps172Bo+:a8ps172By" 391 499 1 5 
+"<E>" 696 499 1 1 
+":a8ps4iBo+:z8ps4iBoy+:a8ps17iVo" 677 204 1 1 
+"<E>" 333 247 1 3 
+"<E>" 333 203 1 6 
+"<E>" 358 387 1 2 
+"<E>" 694 247 1 1 

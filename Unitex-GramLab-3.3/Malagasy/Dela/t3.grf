@@ -1,0 +1,29 @@
+#Unigraph
+SIZE 1842 906
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+9
+"<E>" 60 129 1 4 
+"" 381 129 0 
+"no" 188 129 1 6 
+"ho" 195 189 1 7 
+"<E>/{" 105 129 3 2 3 8 
+"<E>" 330 129 1 1 
+"<E>/,.T:p}" 225 129 1 5 
+"<E>/,.T:f}" 267 189 1 5 
+"<E>/<E>,m.T:r}" 192 53 1 5 

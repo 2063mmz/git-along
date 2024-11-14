@@ -1,0 +1,1058 @@
+ced3770 -  (HEAD, tag: v3.3-rc, tag: v3.3-beta, tag: v3.3, origin/master, origin/HEAD, master) [minor refactor] Update copyright date to 2021 (3 months ago) <Cristian Martinez>
+641f39e -  Update README.md (1 year, 1 month ago) <Cristian Martinez>
+08e8538 -  (origin/enhance/132) [enhance] Improve korean graph paths exploring (1 year, 1 month ago) <Cristian Martinez>
+0cdde9c -  [minor refactor] Update copyright date to 2020 (1 year, 1 month ago) <Cristian Martinez>
+82a5868 -  [minor refactor] Update constants and function names related with TaggingState (1 year, 1 month ago) <Fabien LAMBERT--DELAVAQUERIE>
+ecd8aa0 -  (tag: v3.3-alpha, tag: v3.2) Update README.md (2 years, 1 month ago) <Cristian Martinez>
+686dd2b -  Update README.md (2 years, 3 months ago) <Cristian Martinez>
+f26122c -  Update README.md (2 years, 3 months ago) <Cristian Martinez>
+73548ae -  [fix] Use the correct dialog box to open .snt text files (2 years, 5 months ago) <Cristian Martinez>
+2d05410 -  [enhance] Set always a default file filter on dialog boxes (2 years, 5 months ago) <Cristian Martinez>
+8b27cfb -   [fix #125] Allow to open URLs from the Help menu on Linux (2 years, 5 months ago) <Cristian Martinez>
+cbfd6bb -  [ci fix] Update pullapprove.yml to v3 (2 years, 5 months ago) <Cristian Martinez>
+b3f9c56 -  [minor refactor] Update copyright date to 2019 (2 years, 6 months ago) <Cristian Martinez>
+c106de1 -  (tag: v3.2-rc) [enhance #122] Redesign explore graph paths frame (2 years, 9 months ago) <Kalkhas>
+a49aebd -  Update issue templates (2 years, 10 months ago) <Cristian Martinez>
+ea45932 -  (tag: v3.2-beta) Update README.md (2 years, 10 months ago) <Cristian Martinez>
+08401fe -  [enhance #120] Add check for loops button to Explore Grapth Paths (2 years, 10 months ago) <Kalkhas>
+cd7244c -  [enhance #115] Add option to flatten graph when using `explore grapth paths` (2 years, 10 months ago) <Kalkhas>
+6debe38 -  [minor fix] Make text uneditable in `explore graph paths` (2 years, 11 months ago) <Kalkhas>
+a63a47d -  [minor fix] Correct typo in verify braces code (2 years, 11 months ago) <Kalkhas>
+94e7057 -  [fix #109] Use Korean colour marking for all languages (2 years, 11 months ago) <ylaabidi>
+840ce38 -  [minor fix] UI fixes (2 years, 11 months ago) <MaxenceRobin>
+14b7430 -  [minor fix #77] Resolve a null pointer exception ExportTextAsPOSListDialog (3 years ago) <mthouv>
+6f1120a -  [minor fix #107] Resolve compilation problem with Cascade (3 years ago) <MaxenceRobin>
+b18170a -  [minor feature] Update closing generalization boxes (3 years ago) <MaxenceRobin>
+eb4dd69 -  [doc enhance] Update contribution guidelines (3 years, 2 months ago) <Cristian Martinez>
+be2077a -  [refactor enhance] Add a note about unicode functions (3 years, 2 months ago) <Cristian Martinez>
+d0390e0 -  Update PULL_REQUEST_TEMPLATE.md (3 years, 2 months ago) <Cristian Martinez>
+40fc66f -  [refactor] Migrate PullApprove from v1 to v2 (3 years, 2 months ago) <Cristian Martinez>
+910ba03 -  [refactor #103] Change 'explore graph paths' option description (3 years, 2 months ago) <Kalkhas>
+520e522 -  [fix #99] Give focus to the active dictionary (3 years, 3 months ago) <ylaabidi>
+dc91672 -  [fix #98] Make all windows accessibles when using explore path graph (3 years, 4 months ago) <Kalkhas>
+1359076 -  [minor refactor] Update copyright date to 2018 (3 years, 5 months ago) <Cristian Martinez>
+e5aa5ca -  [fix] Resolve exception while exporting and unsaved graph into SVG (4 years ago) <Cristian Martinez>
+0efaf99 -  [minor fix] Avoid to draw a coverage label over an input variable (4 years ago) <Cristian Martinez>
+c655cce -  [minor fix] Use blue color for output variables while exporting into SVG (4 years ago) <Cristian Martinez>
+228ca74 -  [exp enhance] Draw input variable names above parenthesis (4 years ago) <Cristian Martinez>
+acb0f11 -  Update ISSUE_TEMPLATE.md (4 years, 1 month ago) <Cristian Martinez>
+6a27f18 -  [ci fix] Resolve issue with JDK Travis builds (4 years, 1 month ago) <Cristian Martinez>
+1ce6900 -  Add CODE_OF_CONDUCT.md (4 years, 1 month ago) <Cristian Martinez>
+4d69e55 -  [fix #88] Resolve exception when deleting a transition (4 years, 1 month ago) <Maxime Petit>
+7ea2b6c -  [minor refactor] Update '0 matches' message (4 years, 2 months ago) <Cristian Martinez>
+33a891b -  [fix #70] Resolve null exception calling Locate Pattern (4 years, 2 months ago) <Maxime Petit>
+7d4d3d1 -  [minor fix] Count sub-graph as brace (4 years, 3 months ago) <Anubhav>
+172cbb1 -  [feature #6] Allow to copy the list of called graphs to the clipboard (4 years, 3 months ago) <Maxime Petit>
+f3e6ad4 -  [feature #39] Add Save As/Open concordance (4 years, 3 months ago) <Maxime Petit>
+bd11454 -  Update CONTRIBUTING.md (4 years, 3 months ago) <Cristian Martinez>
+e35fe5e -  Update README.md (4 years, 3 months ago) <Cristian Martinez>
+3d416f8 -  Update PULL_REQUEST_TEMPLATE.md (4 years, 3 months ago) <Cristian Martinez>
+4c32a2b -  Add a template for pull requets (4 years, 3 months ago) <Cristian Martinez>
+6b74dbd -  Add a template for contributions (4 years, 3 months ago) <Cristian Martinez>
+1562e23 -  Add a template for reporting issues (4 years, 3 months ago) <Cristian Martinez>
+13ed2cb -  [minor refactor #33] Rename Reset Sentence Graph and Rebuild FST-Text (4 years, 3 months ago) <Maxime Petit>
+a14e5e0 -  [fix #37] Resolve exception with transition cycles in FST-Text (4 years, 3 months ago) <Maxime Petit>
+dc66c86 -  [feature #32] Add Undo/Redo for FST-Text (4 years, 3 months ago) <Maxime Petit>
+3d3325b -  [feature #26] Add find and replace sequence (4 years, 4 months ago) <Maxime Petit>
+e9c07d4 -  Update braces verification tool (4 years, 4 months ago) <Anubhav>
+be7e75d -  [fix #7] Output of Fst2List not displayed (4 years, 5 months ago) <rahariti>
+ca5057f -  [ci enhance] Test against JDK9 EA (4 years, 5 months ago) <Cristian Martinez>
+4bd13fc -  [minor refactor] Add license header to PR #72 files (4 years, 5 months ago) <Marwin Damis>
+50c3eec -  Update the LICENSE file (#73) (4 years, 5 months ago) <Marwin Damis>
+5478ced -  Add a tag filter for the text automaton (#72) (4 years, 5 months ago) <Marwin Damis>
+c46754f -  Update Find & Replace tfst (#71) (4 years, 5 months ago) <Marwin Damis>
+d1f8780 -  [feature #38] Add option to save a .snt corpus as (4 years, 5 months ago) <Maxime Petit>
+0d73546 -  [exp feature] Add feature to check for balanced braces (4 years, 6 months ago) <Anubhav>
+00550f5 -  [minor refactor #33] Rename Reset Sentence Graph and Rebuild FST-Text (4 years, 6 months ago) <Maxime Petit>
+daac8c3 -  Add find and replace to text automaton (#68) (4 years, 6 months ago) <Marwin Damis>
+9990566 -  Add a preference to display/hide errors in ProcessInfoFrame (#66) (4 years, 6 months ago) <Marwin Damis>
+f2f9a7c -  Update colors in the text automaton (#65) (4 years, 6 months ago) <Marwin Damis>
+d9396aa -  [Feature #59] Colour marking in the text automaton (#64) (4 years, 6 months ago) <Marwin Damis>
+0c1eae3 -  [feature #61] Allow to set a file name on Explore graph paths (4 years, 6 months ago) <rewopkram>
+dcb4ac8 -  [minor refactor] Update copyright date to 2017 (4 years, 7 months ago) <Cristian Martinez>
+bacdb8b -  [minor fix] Update the default text for a generic graph (4 years, 9 months ago) <Anubhav>
+66f8e49 -  Use JDK 1.7+ (5 years ago) <Cristian Martinez>
+ea41e0a -  Set UTF-8 as encoding of source files (5 years ago) <Cristian Martinez>
+e8044d1 -  Update .gitattributes (5 years ago) <Cristian Martinez>
+e91656b -  [minor refactor] Remove redundant code (5 years ago) <Mukarram Tailor>
+ad77bcd -  [minor fix] Correct a spell error (5 years ago) <Mukarram Tailor>
+9d75ded -  [minor enhance] Copy text licenses when installing (5 years ago) <Cristian Martinez>
+010e2cc -  [feature #24] Add Find and replace for graphs (5 years ago) <Maxime Petit>
+97b8edf -  ci enhance: Avoid receiving email notifications from forks (5 years ago) <Cristian MARTINEZ>
+e054b64 -  minor refactor: Rename developers to committers (5 years ago) <Cristian MARTINEZ>
+9e81d2e -  feature #16: Allow to create a non-existent sub-graph (5 years ago) <Mukarram Tailor>
+d5cf5c1 -  minor refactor: Change interns' team name (5 years ago) <Cristian MARTINEZ>
+ae511b1 -  minor refactor: Update .gitignore [ci skip] (5 years ago) <Cristian MARTINEZ>
+f8c9e2c -  fix #18 pressing [Esc] closes the current dialog box (5 years ago) <Mukarram Tailor>
+4b2f9a2 -  fix #17 add a copy button on error message dialogs (5 years ago) <Aleksandra>
+9bd2526 -  minor refactor: update interns team name [ci skip] (5 years ago) <Cristian MARTINEZ>
+fb84d29 -  add .editorconfig (5 years ago) <Cristian MARTINEZ>
+e8cb512 -  add .pullapprove.yml (5 years ago) <Cristian MARTINEZ>
+819c048 -  fix #10 Apply Lexical Resources Buffer Underflow (5 years ago) <Cristian MARTINEZ>
+f0fd037 -  enhance: allow to use .info files to document dictionaries (5 years ago) <Cristian MARTINEZ>
+18aa0dc -  minor: do not ignore .jar files on the lib folder (5 years ago) <Cristian MARTINEZ>
+379b895 -  minor: ignore dist directory (5 years ago) <Cristian MARTINEZ>
+34f8dab -  minor: update .gitignore (5 years ago) <Cristian MARTINEZ>
+7c92662 -  minor: update .gitignore (5 years ago) <Cristian MARTINEZ>
+773f207 -  remove Unitex1.ico (5 years ago) <Cristian MARTINEZ>
+ce82c12 -  update README.md (5 years ago) <Cristian MARTINEZ>
+dab6477 -  minor: refactor menu strings (5 years ago) <Cristian MARTINEZ>
+0036d43 -  minor: encoding from UTF-16 to UTF-8 (5 years ago) <Cristian MARTINEZ>
+774b45e -  add licenses folder (5 years ago) <Cristian MARTINEZ>
+ea7d3d4 -  minor refactor convert CRLF => LF (5 years ago) <Cristian MARTINEZ>
+ca1c83b -  add .gitattributes (5 years ago) <Cristian MARTINEZ>
+f8012c0 -  Add a preference to update the UI font and size (5 years ago) <mdamis>
+e5e524a -  update README.md (5 years ago) <Cristian MARTINEZ>
+c4a2c7c -  minor fix: maven is not longer used to compile (5 years ago) <Cristian MARTINEZ>
+38f74d7 -  update .travis.yml (5 years ago) <Cristian MARTINEZ>
+d6e9001 -  update README.md (5 years ago) <Cristian MARTINEZ>
+25565dc -  add support for travis builds (5 years ago) <Cristian MARTINEZ>
+1f9807e -  update .gitignore (5 years ago) <Cristian MARTINEZ>
+c89a1a2 -  enhance: expose project's menu on main menu bar (5 years ago) <Cristian MARTINEZ>
+d572c54 -  Update README.md (5 years ago) <Cristian Martinez>
+be00e67 -  Update README.md (5 years ago) <Cristian Martinez>
+fceaa0a -  Update README.md (5 years ago) <Cristian Martinez>
+6b640f8 -  enhance readme (5 years ago) <Cristian MARTINEZ>
+2242a0b -  add .gitignore (5 years ago) <Cristian MARTINEZ>
+c363b9a -  enhance ant scripts to compile both Unitex.jar and Gramlab.jar (5 years ago) <Cristian MARTINEZ>
+8365172 -  minor: move resources and lib directories to their parent (5 years ago) <Cristian MARTINEZ>
+e9d78b6 -  remove useless files related to eclipse (5 years ago) <Cristian MARTINEZ>
+abf3562 -  minor refactor: move Unitex-Java into unitex (5 years ago) <Cristian MARTINEZ>
+b48e8fb -  Fix textfield height in LocateFrame (5 years ago) <Marwin Damis>
+6f54420 -  Fix background color error in TsftGraphBox (5 years ago) <Marwin Damis>
+bbd9bce -  fix r4247, Cassys is now CasSys (6 years ago) <Cristian Martinez>
+19566c9 -  minor: version regex update to ignore the dash preceding a suffix (6 years ago) <Cristian Martinez>
+90aaa76 -  fix r4252 bug reading Manifest.mf (6 years ago) <Cristian Martinez>
+30b1f9f -  minor: catch exceptions when calling getUnitexToolLoggerSemVer (6 years ago) <Cristian Martinez>
+6ef4475 -  minor: update getUnitexToolLoggerSemVer() (6 years ago) <Cristian Martinez>
+cc542c4 -  minor: set java target version to 1.6 (6 years ago) <Cristian Martinez>
+82da12c -  hotfix: temporal workaround bug reading Manifest.mf (6 years ago) <Cristian Martinez>
+fb8d31b -  enhance: version information is read from Manifest.mf (6 years ago) <Cristian Martinez>
+df575f7 -  add function to get the UnitexToolLogger SemVer (6 years ago) <Cristian Martinez>
+df277c4 -  add new VersionInfoCommand class (6 years ago) <Cristian Martinez>
+ac88cc6 -  minor: avoid io hangs when configuring UnitexToolLogger (6 years ago) <Cristian Martinez>
+6cfdc38 -  minor: fix 4241 to support Java 1.6+ (6 years ago) <Cristian Martinez>
+49809d9 -  enhance: improve UnitexToolLogger detection and configuration (6 years ago) <Cristian Martinez>
+0d3c3c6 -  like revision 1220 and 2059, 2691, 3390, 3539 and 3753, Updating copyright to 2016 (6 years ago) <Gilles Vollant>
+02d9cd2 -  minor refactor: update semver varname (6 years ago) <Cristian Martinez>
+ec40541 -  rename LICENSE.md to LICENSE (6 years ago) <Cristian Martinez>
+5b78fd0 -  minor fix: add missing quotes (6 years ago) <Cristian Martinez>
+87e0a99 -  minor fix: add missing concatenation operator (6 years ago) <Cristian Martinez>
+f281858 -  minor refactor: update string version format (6 years ago) <Cristian Martinez>
+6e245bc -  hotfix: r4206 version information (6 years ago) <Cristian Martinez>
+ea384d5 -  enhance: version information does not depend more on external files (6 years ago) <Cristian Martinez>
+92765c6 -  add a file template including version information (6 years ago) <Cristian Martinez>
+0291858 -  enhance: update dialog loads disclaimers/Unitex-GramLab.txt (6 years ago) <Cristian Martinez>
+87a75d5 -  refactor: find svnkitclient.jar in App/lib directory (6 years ago) <Cristian Martinez>
+099e6cd -  update build.xml to use App/lib hierarchy (6 years ago) <Cristian Martinez>
+a41eb5a -  minor refactor: update Class-Path (6 years ago) <Cristian Martinez>
+e23c7a9 -  enhance: add templatized Manifest.md for XAlign (6 years ago) <Cristian Martinez>
+330212f -  enhance: add templatized Manifest.md including version information (6 years ago) <Cristian Martinez>
+6ce2a26 -  enhance: add a main license for the GramLab IDE (6 years ago) <Cristian Martinez>
+a151fec -  update Xerces-J 2.9.1 to 2.11.0 (6 years ago) <Cristian Martinez>
+19f051c -  minor: update copyright year (6 years ago) <Cristian Martinez>
+6e07278 -  minor refactor replace Gramlab by GramLab (6 years ago) <Cristian Martinez>
+4a3ff0c -  Update bug report message (6 years ago) <Marwin Damis>
+71b0546 -  Default encoding is set to UTF-8 in the preferences. (6 years ago) <Silver Estla>
+e75bbcd -  refactor search stop policy panel (6 years ago) <Cristian Martinez>
+8f06f2a -  Fix bug related to newProcessInfoFrame in GramLab (6 years ago) <Marwin Damis>
+0d8e7f6 -  enhance: highlight attribute=value dictionary entries (6 years ago) <Cristian Martinez>
+2941d15 -  fix: Escape HTML entities for dictionaries display (6 years ago) <Cristian Martinez>
+aea7384 -  minor: add missing hotkey in help menu (6 years ago) <Cristian Martinez>
+10bb1c3 -  Replace AboutUnitexFrame & AboutGramlabDialog by a common class (6 years ago) <Marwin Damis>
+d8a7d5e -  Fix errors in LocateCommand (6 years ago) <Marwin Damis>
+c974d2a -  Add help menu (6 years ago) <Marwin Damis>
+e4650d1 -  Update LocateFrame to include new Locate parameters (6 years ago) <Marwin Damis>
+7a0a32b -  Separate Language and Presentation into 2 tabs like GramLab (6 years ago) <Marwin Damis>
+9695e7c -  Add UnitexInternalFrameManager (6 years ago) <Marwin Damis>
+3cd1723 -  Update the implementation of InternalFrameManager using the Type Token Pattern (6 years ago) <Marwin Damis>
+75dd977 -  Update the language selection dialog box to appear always on top (6 years ago) <Marwin Damis>
+e03a151 -  Create snt directory before launching Normalize (6 years ago) <Silver Estla>
+389535a -  A generic graph cannot be applied in replace mode nor in fix until point mode. (6 years ago) <Silver Estla>
+a016ccf -  Change UI to support r3950 (6 years ago) <Silver Estla>
+8ff7d44 -  Add $G instead of $@ in the UI for generic graphs. (6 years ago) <Silver Estla>
+5c66d9e -  Fix r3950 bug. (6 years ago) <Silver Estla>
+1366fe5 -  Normalize creates output offsets without preprocessing. (6 years ago) <Silver Estla>
+dc6c136 -  Display output along with '@' in generic graphs. (6 years ago) <Silver Estla>
+e6f7682 -  Added a new button to the Graph UI that indicates generic graph box. (6 years ago) <Silver Estla>
+87087ec -  fix r3949 errors (6 years ago) <Silver Estla>
+473a217 -  Display a column to mark a graph as generic. (6 years ago) <Silver Estla>
+ccd8de1 -  Pass normalize.out.offsets to Cassys (6 years ago) <Silver Estla>
+a5d3f47 -  fix style errors of r3946 (6 years ago) <Silver Estla>
+0607f68 -  By default, normalize will create offsets. (6 years ago) <Silver Estla>
+2721482 -  Added 'Match word boundaries' option (6 years ago) <Sebastien Paumier>
+9e517c0 -  Fixed a bug which disabled display of Cascade list once Edit Cascade had been called from FSGraph (6 years ago) <Silver Estla>
+ac64051 -  restore cleanupIntermediateFiles in CassysCommand (7 years ago) <Gilles Vollant>
+3ab5547 -  modifying cassys : management of absolute path, suppressing export/import and others (7 years ago) <Nathalie Friburger>
+b20593d -  add cassys option option in java Command file (7 years ago) <Gilles Vollant>
+c3575c8 -  [#13] fix in the cropping rectangle calculation (7 years ago) <Nebojsa Vasiljevic>
+e69cd6b -  Fixes in build.xml (7 years ago) <Nebojsa Vasiljevic>
+7fbc06c -  [#13] a compilation error and several warnings fix (also some copyright notices added) (7 years ago) <Nebojsa Vasiljevic>
+3b2ab94 -  [#13] New "Export as Image" feature for graphs (7 years ago) <Nebojsa Vasiljevic>
+de1a882 -  Gramlab compatibility fix (7 years ago) <Nebojsa Vasiljevic>
+6fee3d8 -  Java 6 (JRE System Library) compatibility fix (7 years ago) <Nebojsa Vasiljevic>
+c59ba11 -  Text & FSGraph menu: added "Clear Recent" option (7 years ago) <Nebojsa Vasiljevic>
+0f23710 -  Open recent, open windows list and saved last language selection - Graph & Text menus: Open Recent - Windows menu: list of open windows - Initial language selection: selection is saved as default (7 years ago) <Nebojsa Vasiljevic>
+ab17e55 -  Graph editor: improvements related to box content editing (7 years ago) <Nebojsa Vasiljevic>
+320ae32 -  FSGraph menu: disable (gray out) non-applicable menu items (7 years ago) <Nebojsa Vasiljevic>
+c316c2e -  Under Linux, fix a problem when trying to access an invalid directory path pointed by unitex.cfg file (8 years ago) <Cristian Martinez>
+0065329 -  like revision 1220 and 2059, 2691 and 3390, Updating copyright to 2014 (8 years ago) <Gilles Vollant>
+036eb73 -  Graph open dialog: *.grf is default filter (8 years ago) <Nebojsa Vasiljevic>
+6f24d6f -  Graph editor: right click resets cursor to normal (8 years ago) <Nebojsa Vasiljevic>
+acdfcc3 -  Default file name in the save as dialog of the graph editor (8 years ago) <Nebojsa Vasiljevic>
+7fea400 -  Fixed close action in the quit confirmation window (8 years ago) <Nebojsa Vasiljevic>
+6622597 -  fixes for "Changes related to the box selection in the graph editor" (8 years ago) <Nebojsa Vasiljevic>
+b079663 -  Changes related to the box selection in the graph editor: (1) drag threshold - small mouse moves  (up to the some threshold) between the button press and release will not start dragging (2) rollover highlight for boxes (3) in GenericGraphicalZone.unSelectAllBoxes() both both selection list and selection flags of all boxes are cleared (4) unSelectAllBoxes() is called after undo operation (8 years ago) <Nebojsa Vasiljevic>
+5e3e7cf -  Change of the name of the last column named "Until Fix Point" (8 years ago) <Nathalie Friburger>
+2febd5e -  in TransducerListConfigurationFrame, change of size for the buttonPanel and columns of the table (8 years ago) <Nathalie Friburger>
+80e8ce3 -   (8 years ago) <Nathalie Friburger>
+6c5a5a7 -  change of the name of our operator star : it is now named run until fix point (8 years ago) <Nathalie Friburger>
+82678c5 -  Correcting a bug in export of cassys file : the parameter Enabled/Disabled was missing ! (8 years ago) <Nathalie Friburger>
+333e968 -  Correct a bug in the order of the JTable and the Object that stock the data to copy in the JTable (8 years ago) <Nathalie Friburger>
+9f5f67d -  Changes in the order of the columns in the Jtable Transducer List Configuration (8 years ago) <Nathalie Friburger>
+170e369 -  like revision 1220 and 2059 and 2691, Updating copyright to 2013 (9 years ago) <Gilles Vollant>
+783a7fb -  Rank now begin at 1 (9 years ago) <David Nott>
+890d31c -  add button bug fix (9 years ago) <David Nott>
+c578aa7 -  Removing unnecessary casts (9 years ago) <Sebastien Paumier>
+a909903 -  Added "enable all" and "disable all" button (9 years ago) <David Nott>
+105e19d -  The graphical part to the graph iteration feature (9 years ago) <David Nott>
+2fd6c62 -  Added 'new Cascade' and 'Edit Cascade ...' entry in the graph menu (9 years ago) <David Nott>
+972a09a -  Warning fix (9 years ago) <David Nott>
+d83f28b -  post cassys enhancement (9 years ago) <David Nott>
+56addea -  author description (9 years ago) <David Nott>
+f0bcf1a -  got the "Config.getUserCurrentLanguageDir()" out of the ToDo class as requested by specification (9 years ago) <David Nott>
+5c65995 -  Added a layer on top of the TableModel which returns the index of a column. (9 years ago) <David Nott>
+191892b -  table index bug fix (9 years ago) <David Nott>
+8a19fba -  Fix a bug in debug mode. Irony :) (9 years ago) <Sebastien Paumier>
+8bcf065 -  Added deleting directories and creating directories in a cassys callback "before" (9 years ago) <Nathalie Friburger>
+1d16da8 -  Suppressed System.out.println (9 years ago) <Nathalie Friburger>
+f4db230 -  Made a real field of the rank field (9 years ago) <Nathalie Friburger>
+4f9a9ed -  Bug fix (9 years ago) <Sebastien Paumier>
+79a702f -  add transducer bug fix (9 years ago) <Nathalie Friburger>
+05c30e5 -  Starting version 3.1beta (9 years ago) <Sebastien Paumier>
+62a9153 -  Creating version 3.0 (9 years ago) <Sebastien Paumier>
+3aec7a8 -  Bug fix (9 years ago) <Sebastien Paumier>
+88b603c -  1) forbid reordering column in transducer list table 2) display rank of transducer without disabled one 3) refactored table management (replaced anonymous inheritance by explicit one) (9 years ago) <Nathalie Friburger>
+9f8f704 -  multiple edit TransducerListConfigurationFrame bug fix (9 years ago) <Nathalie Friburger>
+6ceacba -  Disable graphical refresh bug fix (9 years ago) <Nathalie Friburger>
+be0301a -  Show disabled Transducer striked and in gray (9 years ago) <Nathalie Friburger>
+f8d710a -  Adding RmCommand (9 years ago) <Sebastien Paumier>
+04f45a9 -  Added a column in the graphical Cassys transducer list interface to permit users to disable transducers (9 years ago) <Nathalie Friburger>
+6c65ce8 -  Pleasing Fanny (9 years ago) <Sebastien Paumier>
+e0558c5 -  Added Cassys in the list of commands (9 years ago) <Nathalie Friburger>
+bc85c98 -  Display rank of transducer in the list (9 years ago) <Nathalie Friburger>
+17cb3bc -  Added a compile all graphs of the cascade feature (9 years ago) <Nathalie Friburger>
+d44b9a0 -  share transducer list bug fix : protect the windows file separator (9 years ago) <Nathalie Friburger>
+a51f48f -  Documentation for ShareTransducerList class (9 years ago) <Nathalie Friburger>
+3563598 -  Remembering last directory when adding a morphological dictionary (9 years ago) <Sebastien Paumier>
+5ed3a1b -  Added two features to Cassys : 1) automatic use of morphological dictionnaries when available 2) export and import action to help cassys users to share their cascade configurations (9 years ago) <Nathalie Friburger>
+e1c3777 -  Bug fix (9 years ago) <Sebastien Paumier>
+0c7d3bd -  Adding tfst-to-CSV export (9 years ago) <Sebastien Paumier>
+12a0300 -  Changing concord.html to lemmatize.html in Concord for --lemmatize option (9 years ago) <Sebastien Paumier>
+247075b -  Adding number of matches in lemmatization frame (9 years ago) <Sebastien Paumier>
+9fda65d -  Bug fix: right click scroll restored in LemmatizeFrame (9 years ago) <Sebastien Paumier>
+660c087 -  Changing default settings in lemmatization frame (9 years ago) <Sebastien Paumier>
+2492e50 -  Bug fix (9 years ago) <Sebastien Paumier>
+7ac0e91 -  Bug fix (9 years ago) <Sebastien Paumier>
+f9b5a09 -  Font change (9 years ago) <Sebastien Paumier>
+d78c362 -  Bug fix (9 years ago) <Sebastien Paumier>
+925f25a -  Warning removal (9 years ago) <Sebastien Paumier>
+ac4f129 -  Lemmatization is ready for tests (9 years ago) <Sebastien Paumier>
+91f4421 -  Adding "Cancel pending modifications" button (9 years ago) <Sebastien Paumier>
+974870c -  Can now lemmatize several elements at once (9 years ago) <Sebastien Paumier>
+226361e -  When lemmatizing an element, autoscrolling to make the corresponding box visible (9 years ago) <Sebastien Paumier>
+b6b2ed8 -  Bug fix (9 years ago) <Sebastien Paumier>
+4803203 -  Making manual tfst tagging persistent when navigating to another sentence graph (9 years ago) <Sebastien Paumier>
+c074366 -  Adding lemmatization frame (under construction) (9 years ago) <Sebastien Paumier>
+dc5549d -  Bug fix (9 years ago) <Sebastien Paumier>
+655496d -  Change in Seq2Grf output graph names (9 years ago) <Sebastien Paumier>
+ab4d065 -  Bug fix: there was an exception when opening a .snt while a .snt was already open (9 years ago) <Sebastien Paumier>
+d64508e -  Another bug file chooser bug fix (9 years ago) <Sebastien Paumier>
+ab358af -  Another bug fix about graph file chooser (9 years ago) <Sebastien Paumier>
+a25f69e -  Bug fix about graph file chooser (9 years ago) <Sebastien Paumier>
+496f552 -  Enabling a button (9 years ago) <Sebastien Paumier>
+578ac70 -  Changing colors in text automaton (9 years ago) <Sebastien Paumier>
+6d1a1bf -  Updating Compress command (9 years ago) <Sebastien Paumier>
+e0ffc30 -  Adding a clickable error message for morphological mode errors (9 years ago) <Sebastien Paumier>
+0bf4caf -  Adding a function to list recursively the content of a directory (9 years ago) <Sebastien Paumier>
+c8d7dad -  Bug fix (9 years ago) <Sebastien Paumier>
+f754d50 -  Bug fix (9 years ago) <Sebastien Paumier>
+256da96 -  Bug fix in graph dependencies display (9 years ago) <Sebastien Paumier>
+a3b56aa -  Adding graph names in graph diff frame (9 years ago) <Sebastien Paumier>
+aa5efe1 -  Updating build.xml (9 years ago) <Sebastien Paumier>
+c3f541b -  Adding menu item for Seq2Grf (9 years ago) <Sebastien Paumier>
+d7af798 -  Adding -S option to Grf2Fst2 (9 years ago) <Sebastien Paumier>
+0e0a93e -  Handling TEI files for Seq2Grf (9 years ago) <Sebastien Paumier>
+c3ac479 -  Updating Seq2Grf frame according to mockups (9 years ago) <Sebastien Paumier>
+35d7f28 -  New Seq2Grf frame (9 years ago) <Sebastien Paumier>
+e404d8b -  Fixing a lot of warnings (9 years ago) <Sebastien Paumier>
+93e39c4 -  Adding svn cleanup (9 years ago) <Sebastien Paumier>
+e0d8fee -  Changing svn things in graph frames (9 years ago) <Sebastien Paumier>
+321c841 -  Bug fix (9 years ago) <Sebastien Paumier>
+9ccd89c -  Bug fix (9 years ago) <Sebastien Paumier>
+1db0668 -  Bgu fix (9 years ago) <Sebastien Paumier>
+9dc5c05 -  Scroll bug fix in graph diff frame (9 years ago) <Sebastien Paumier>
+3bd5c5b -  Bug fix (9 years ago) <Sebastien Paumier>
+0e901ec -  Adding revisions numbers on Use buttons (9 years ago) <Sebastien Paumier>
+310fe97 -  Bug fix (9 years ago) <Sebastien Paumier>
+6d4c11a -  Gramlab change (9 years ago) <Sebastien Paumier>
+f60994c -  Changing diff to ..diff to hide those files in Gramlab (9 years ago) <Sebastien Paumier>
+9e26161 -  Adding some debug prints (9 years ago) <Sebastien Paumier>
+c2e4195 -  Improving merge process usability (9 years ago) <Sebastien Paumier>
+6eab4b3 -  Adding svn resolved (9 years ago) <Sebastien Paumier>
+ffc7aee -  Bug fix (9 years ago) <Sebastien Paumier>
+0610c22 -  Bug fix around svn merge (9 years ago) <Sebastien Paumier>
+5fad77d -  Adding --force to svn add (9 years ago) <Sebastien Paumier>
+2549d27 -  Bug fix with graph frames with conflicting .grf (9 years ago) <Sebastien Paumier>
+25514cf -  Bug fix in graph diff (9 years ago) <Sebastien Paumier>
+ecf61e6 -  In SVN conflict frame, one can open graphs with a double-click (9 years ago) <Sebastien Paumier>
+b51edd0 -  Adding svn delete on a URL (9 years ago) <Sebastien Paumier>
+d3ee7ed -  Updating java svn client (9 years ago) <Sebastien Paumier>
+ab1bc6a -  Fixing svn revert depth bug (9 years ago) <Sebastien Paumier>
+397f8a1 -  Bug fix: svn conflict frame could appeared in the bad gramlab project desktop (9 years ago) <Sebastien Paumier>
+1513270 -  Fixing bad head revision number in gramlab update frame (9 years ago) <Sebastien Paumier>
+80d10a9 -  Fixing svn commit bug (9 years ago) <Sebastien Paumier>
+77a7211 -  Updating GUI for the new version of Seq2Grf (9 years ago) <Sebastien Paumier>
+4621e81 -  Adding -v option support for Locate (9 years ago) <Sebastien Paumier>
+dd26bb3 -  Moving a class from Gramlab to Unitex (9 years ago) <Sebastien Paumier>
+1cd66a4 -  Adding svn revert (9 years ago) <Sebastien Paumier>
+382469c -  Gramlab change (9 years ago) <Sebastien Paumier>
+79a5fa0 -  Adapted Seq2Grf menu produce Sequence graphs using a dictionary (9 years ago) <Adrien Durand>
+d7dfdbd -  Adapted Seq2Grf menu to produce Sequence graphs using a dictionary (9 years ago) <Adrien Durand>
+73ee458 -  Gramlab change (9 years ago) <Sebastien Paumier>
+a07f221 -  Always ignore .svn directories when copying files (9 years ago) <Sebastien Paumier>
+4150646 -  Bug fix (9 years ago) <Sebastien Paumier>
+69993e6 -  Mini change (9 years ago) <Sebastien Paumier>
+b73e14e -  Fixing bug around \r\n (9 years ago) <Sebastien Paumier>
+f44ab5e -  Bug fix (9 years ago) <Sebastien Paumier>
+6df4c18 -  Updating svn import command (9 years ago) <Sebastien Paumier>
+745e7c8 -  Gramlab change (9 years ago) <Sebastien Paumier>
+42d7a3d -  Bug fix (9 years ago) <Sebastien Paumier>
+977235a -  Bug fix (9 years ago) <Sebastien Paumier>
+95189a9 -  Updating SnvCommand (9 years ago) <Sebastien Paumier>
+474b34a -  Adding a util method (9 years ago) <Sebastien Paumier>
+e8b655d -  The title of the internal text editor indicates both the name of the file and whether it has been modified or not (9 years ago) <Sebastien Paumier>
+421fd13 -  Adding ctrl+z and ctrl+y to undo and redo in graph editor (9 years ago) <Sebastien Paumier>
+331c97a -  Evil hack to enable ctrl+s to save in the internal text editor (9 years ago) <Sebastien Paumier>
+4e70a34 -  Gramlab change (9 years ago) <Sebastien Paumier>
+1d2c931 -  Preparing for Uncompress support in Gramlab (9 years ago) <Sebastien Paumier>
+3c75068 -  Gramlab changes (9 years ago) <Sebastien Paumier>
+f4bab0c -  Gramlab change (9 years ago) <Sebastien Paumier>
+f5d1c8e -  Gramlab change (9 years ago) <Sebastien Paumier>
+578340c -  Bug fix (9 years ago) <Sebastien Paumier>
+55a0a1a -  Bug fix (9 years ago) <Sebastien Paumier>
+5c66f7f -  Support for svn:ignore (9 years ago) <Sebastien Paumier>
+c5499db -  Support for 'svn resolve' (9 years ago) <Sebastien Paumier>
+088cd9a -  Update for SVN (9 years ago) <Sebastien Paumier>
+cc5973e -  Bug fix in Fst2List invokation (9 years ago) <Sebastien Paumier>
+bca3473 -  Supporting 'svn delete' (9 years ago) <Sebastien Paumier>
+fedaab9 -  Bgu fix (9 years ago) <Sebastien Paumier>
+80f1307 -  Refactoring (9 years ago) <Sebastien Paumier>
+daa2ecb -  One can specify the working directory to be in when creating a process for an external command (9 years ago) <Sebastien Paumier>
+a2a7fe6 -  Preparing for commit (9 years ago) <Sebastien Paumier>
+0a9925f -  Gramlab change (9 years ago) <Sebastien Paumier>
+0cda86e -  Changes for Gramlab compatibility about SVN monitoring (9 years ago) <Sebastien Paumier>
+88483e2 -  Preserving the local .grf when detecting a svn conflict (9 years ago) <Sebastien Paumier>
+adc36c2 -  Gramlab change (9 years ago) <Sebastien Paumier>
+477bee3 -  SVN things (9 years ago) <Sebastien Paumier>
+5032e07 -  Small change for Gramlab compatibility (9 years ago) <Sebastien Paumier>
+e31431b -  Bug fix: "Help on commands" did not work when UTF8 was set as the output encoding (9 years ago) <Sebastien Paumier>
+9c5ed18 -  Bug fix (9 years ago) <Sebastien Paumier>
+7f20fc8 -  Adding support for option -v of Grf2Fst2 (9 years ago) <Sebastien Paumier>
+4c0594f -  Putting graph configuration menu item in the graph popup (9 years ago) <Sebastien Paumier>
+4dc2ef8 -  Adding a monitoring timer on file edition text frames (9 years ago) <Sebastien Paumier>
+af301be -  Bug fix (9 years ago) <Sebastien Paumier>
+01daae2 -  Gramlab update (9 years ago) <Sebastien Paumier>
+1b2562e -  Gramlab update (9 years ago) <Sebastien Paumier>
+6d120b0 -  Fixing assembla bug #91 (9 years ago) <Sebastien Paumier>
+884ebcb -  Bug fix (9 years ago) <Sebastien Paumier>
+cfde832 -  Bug fix (9 years ago) <Sebastien Paumier>
+4d51014 -  Gramlab change (9 years ago) <Sebastien Paumier>
+bf0dcc5 -  Bug fix (9 years ago) <Sebastien Paumier>
+bde721a -  Gramlab change (9 years ago) <Sebastien Paumier>
+36b7cb2 -  When pasting a box selection, we make sure that the pasted selection in the visible area of the scroll pane (9 years ago) <Sebastien Paumier>
+a7ecdea -  When creating a new graph from a box selection, adjusting the size of the new graph (9 years ago) <Sebastien Paumier>
+f8d17b1 -  When exporting a box selection as a new graph, don't add input/output transition to a box that had none in the original graph (9 years ago) <Sebastien Paumier>
+4c42563 -  Allowing infinite undo in graph editor (9 years ago) <Sebastien Paumier>
+11d3a84 -  In debug mode, don't count graph calls twice (9 years ago) <Sebastien Paumier>
+851e7f9 -  Bug fix (9 years ago) <Sebastien Paumier>
+14953af -  Bug fix about debug mode (9 years ago) <Sebastien Paumier>
+bbe97cb -  Double-clicking on a graph diff opens the clicked graph (9 years ago) <Sebastien Paumier>
+5884745 -  Bug fix (9 years ago) <Sebastien Paumier>
+cfb0ac8 -  Bug fix due to f$*%#ing Windows paths! (9 years ago) <Sebastien Paumier>
+6057ed0 -  SVN changes (9 years ago) <Sebastien Paumier>
+1c8c821 -  Bug fix (9 years ago) <Sebastien Paumier>
+3455056 -  Bug fix to avoid closing stdout and stderr (9 years ago) <Sebastien Paumier>
+dbeff33 -  Update about svn (9 years ago) <Sebastien Paumier>
+479f892 -  Under Windows, trying to write user configuration file in the user home directory if "Users" is not writable (9 years ago) <Sebastien Paumier>
+1a40d1f -  SVN change (9 years ago) <Sebastien Paumier>
+45d5414 -  Preparing the arrival of SVN in Gramlab (9 years ago) <Sebastien Paumier>
+0410a5d -  Updating build.xml (9 years ago) <Sebastien Paumier>
+6de0312 -  Updating build.xml (9 years ago) <Sebastien Paumier>
+7f93a95 -  Adding the Java svn client svnkit, repackaged in a single jar (9 years ago) <Sebastien Paumier>
+fc5054c -  Adding things for the gramlab console (9 years ago) <Sebastien Paumier>
+062c469 -  Gramlab oriented changes (9 years ago) <Sebastien Paumier>
+d1d115d -  Making GUI consistent with Grf2Fst2 about loops on boxes with ranges (9 years ago) <Sebastien Paumier>
+28d495f -  One more bug fix (9 years ago) <Sebastien Paumier>
+be347df -  Bug fix (9 years ago) <Sebastien Paumier>
+807089e -  Undo bug fix (9 years ago) <Sebastien Paumier>
+d555396 -  Asking for confirmation when the user tries to add a loop transition on a box containing a range definition (9 years ago) <Sebastien Paumier>
+296d655 -  Refactoring to adapt drap and drop for gramlab (9 years ago) <Sebastien Paumier>
+5d7a3cf -  More refactoring (9 years ago) <Sebastien Paumier>
+3040083 -  Refactoring to replace direct accesses by setters/getters (9 years ago) <Sebastien Paumier>
+33fcf50 -  Super big code cleaning to remove a lot of warnings (9 years ago) <Sebastien Paumier>
+871310b -  Cleaning MyDropTarget (9 years ago) <Sebastien Paumier>
+463e626 -  Cleaning GraphCollection (9 years ago) <Sebastien Paumier>
+3210cb5 -  Cleaning GlobalPreferencesFrame (9 years ago) <Sebastien Paumier>
+4a0f9a0 -  Code cleaning in GraphFrame (9 years ago) <Sebastien Paumier>
+c442009 -  Bug fix+code cleaning (9 years ago) <Sebastien Paumier>
+c085a28 -  Bug fix in graph presentation configuration (9 years ago) <Sebastien Paumier>
+0dbc5dc -  Gramlab change (9 years ago) <Sebastien Paumier>
+6be5419 -  One can also set a callback to be invoked before a command is executed (9 years ago) <Sebastien Paumier>
+57e15d6 -  Changing from Runnable to a custom interface (9 years ago) <Sebastien Paumier>
+906c340 -  One can set a Runnable to be run after the end of a command, to allow finer control than the big ToDo executed only after a whole command sequence (9 years ago) <Sebastien Paumier>
+b38825a -  Adding facilities for recursively setting read/write mode on directories (9 years ago) <Sebastien Paumier>
+9207501 -  Emitting a message when trying to save a read-only text file (9 years ago) <Sebastien Paumier>
+d3ec8fe -  Emitting a message when trying to save a read-only graph (9 years ago) <Sebastien Paumier>
+ed0e644 -  Adaptation for Gramlab graph search facility (9 years ago) <Sebastien Paumier>
+f8bf4cf -  Minor change for Gramlab compatibility (9 years ago) <Sebastien Paumier>
+0cc626b -  Graph diffs are now presented with two synchronized scroll panes (9 years ago) <Sebastien Paumier>
+75c2886 -  Changing location of GrfDiff's result file (9 years ago) <Sebastien Paumier>
+e570288 -  Bug fix (9 years ago) <Sebastien Paumier>
+61a1e81 -  Gramlab adjustments (9 years ago) <Sebastien Paumier>
+a7c171c -  No problem when clicking on a concordance link when the text frame is hidden +making text edition frames tabbable (9 years ago) <Sebastien Paumier>
+0677273 -  Adding new option support to some commands (9 years ago) <Sebastien Paumier>
+aea705d -  Bug fix +Gramlab graph frame tabs have "*foo.grf" when foo.grf has been modified and not saved yet (9 years ago) <Sebastien Paumier>
+0e5d5ef -  Change for Gramlab compatibility (9 years ago) <Sebastien Paumier>
+448438b -  Adaptations for Gramlab (9 years ago) <Sebastien Paumier>
+fc8f2dd -  Adding support for Locate's --time option (9 years ago) <Sebastien Paumier>
+ec0ded7 -  Trying to fix a bad designed behavior (9 years ago) <Sebastien Paumier>
+4639144 -  Bug fix (9 years ago) <Sebastien Paumier>
+dbee98f -  Bug fix about right to left text rendering (9 years ago) <Sebastien Paumier>
+591a09a -  Adding onlyMatches option to Concord (9 years ago) <Sebastien Paumier>
+649246e -  Making Concord's Thai configuration compatible with Gramlab + launching external command via Launcher (9 years ago) <Sebastien Paumier>
+843b533 -  Removing unused field (9 years ago) <Sebastien Paumier>
+f28acb6 -  Small change to be compatible with Gramlab (9 years ago) <Sebastien Paumier>
+6d67745 -  Adding support for tabbed frames (9 years ago) <Sebastien Paumier>
+845fdca -  Bug fix (9 years ago) <Sebastien Paumier>
+ce38eb8 -  Bug fix (9 years ago) <Sebastien Paumier>
+f1b8799 -  Update of Grf2Fst2's options -e and -s usage (9 years ago) <Sebastien Paumier>
+d4ac6b2 -  Bug fix (9 years ago) <Sebastien Paumier>
+ad5a2f3 -  Adding -r option to Grf2Fst2Command (9 years ago) <Sebastien Paumier>
+8d399f5 -  Adding support for repository names in graph editor (9 years ago) <Sebastien Paumier>
+2b612ca -  Bug fix about default preferences (9 years ago) <Sebastien Paumier>
+9fc1b8e -   (9 years ago) <Adrien Durand>
+e27c3c9 -  Adding missing Dutch case to PolyLexCommand (9 years ago) <Sebastien Paumier>
+6d877ec -  Adding new option for 'text as POS list' export (9 years ago) <Sebastien Paumier>
+484b621 -  Adding lemma when export a text as a POS list (9 years ago) <Sebastien Paumier>
+5c2c63e -   (9 years ago) <Adrien Durand>
+f0a2a1f -   (9 years ago) <Sebastien Paumier>
+6a4b02e -  Bug fix (9 years ago) <Sebastien Paumier>
+b78059c -  Bug fix (9 years ago) <Sebastien Paumier>
+cc8eee3 -   (9 years ago) <Sebastien Paumier>
+0558155 -  A change required by Gramlab (10 years ago) <Sebastien Paumier>
+0db03f5 -  Adding CpCommand (10 years ago) <Sebastien Paumier>
+45c2d12 -  Adding output parameter to Grf2Fst2 command (10 years ago) <Sebastien Paumier>
+bb3da9c -  Bug fix in ProcessOutputListModel (10 years ago) <Sebastien Paumier>
+8e8d61b -  Some more refactoring around processes (10 years ago) <Sebastien Paumier>
+2dd96b9 -  Big refactoring in order to clean the code dedicated to processes (10 years ago) <Sebastien Paumier>
+9d5b1d1 -  Changed label from Construct Tfst to Construct GRF (10 years ago) <Adrien Durand>
+eab9ea5 -  Adding support for mvn command (10 years ago) <Sebastien Paumier>
+07c81d1 -  Add a checkbox to allow User to get Sequences Graphs with or without Beautify (10 years ago) <Adrien Durand>
+b4cff57 -  Bug fixes on Seq2Grf Menu so that - the preprocessing use the right graphs for Merge and Replace - produced graph is saved in the user's Graphs folder (10 years ago) <Adrien Durand>
+346a02c -  adding a normalize command forgotten in multicommand object. (10 years ago) <Adrien Durand>
+88c0427 -  changes in use of graphs for TEILite preprocessing (10 years ago) <Adrien Durand>
+4146aa0 -  Keep "Construct Sequence Automaton" menu accessible after closing a text (10 years ago) <Adrien Durand>
+75c4614 -  skip preprocessing if using snt file (10 years ago) <Adrien Durand>
+673cbbe -   (10 years ago) <Adrien Durand>
+0d1e7d4 -  New Menu for the construction of a Sequence automata at once. (10 years ago) <Adrien Durand>
+df838d4 -  like revision 1220 and 2059, Updating copyright to 2012 (10 years ago) <Gilles Vollant>
+a27430e -  Code cleaning (10 years ago) <Sebastien Paumier>
+7c7be3d -  Code cleaning (10 years ago) <Sebastien Paumier>
+2b3ff35 -  Supporting Enter validation when surrounding boxes with a variable (10 years ago) <Sebastien Paumier>
+2a16e23 -  Adding comment when surrounding boxes with a variable (10 years ago) <Sebastien Paumier>
+e9e5ea7 -  Adding PRLG support for Latin (10 years ago) <Sebastien Paumier>
+ae10ce5 -  Bug fix in graph editor (10 years ago) <Sebastien Paumier>
+cb7e9a4 -  Updating PRLG support to other ancient languages (10 years ago) <Sebastien Paumier>
+6f225a2 -   (10 years ago) <Sebastien Paumier>
+9bef8f2 -  Introducing PRLG support for Ancient Greek in GUI (10 years ago) <Sebastien Paumier>
+2e14570 -  Bug fix in Locate frame (10 years ago) <Sebastien Paumier>
+6114c68 -  Update of Seq2Grf and its Frame in Unitex Java interface : builds now sequences graphs with one or multiple jokers. (10 years ago) <Adrien Durand>
+6477d61 -  Little change in grf diff frame (10 years ago) <Sebastien Paumier>
+4070f34 -  Bug fix in graph editor (10 years ago) <Sebastien Paumier>
+8d7117d -  Adding an option to inflection frame (10 years ago) <Sebastien Paumier>
+e9375a9 -  Patrick Watrin's bug fixed (10 years ago) <Sebastien Paumier>
+0c29bc9 -  Font bug fix in DicLookupFrame (10 years ago) <Sebastien Paumier>
+2c9c0cd -  Bug fix around popup triggering in graph frames (10 years ago) <Sebastien Paumier>
+650cfe8 -  Keeping ':' when merging grapĥ boxes (10 years ago) <Sebastien Paumier>
+29c948e -  Possibility to create a new graph from a box selection (10 years ago) <Sebastien Paumier>
+73644ea -  Improving box merge (10 years ago) <Sebastien Paumier>
+18ccc72 -  Bug fix in box merge (10 years ago) <Sebastien Paumier>
+900674c -  Improving undo for box merge (10 years ago) <Sebastien Paumier>
+d6bcadf -  Allowing graph box merging from popup menu (10 years ago) <Sebastien Paumier>
+344e33a -  Handling Apple key under MacOs instead of Ctrl (10 years ago) <Sebastien Paumier>
+e028def -  Removing debug print (10 years ago) <Sebastien Paumier>
+aa2388d -  One can select several graph boxes in several steps with Ctrl+Shift+click (10 years ago) <Sebastien Paumier>
+6d147e9 -  Adding "Create box" item in graph popup menu (10 years ago) <Sebastien Paumier>
+a85f7ff -  When toto.grf does exist but toto.fst2 does, corresponding graph calls are displayed in grey (10 years ago) <Sebastien Paumier>
+683cd05 -  Corrections on the ouput GRF Filename (10 years ago) <Adrien Durand>
+2db4990 -   (10 years ago) <Adrien Durand>
+8e96c30 -  Bug fix around graph dependencies (10 years ago) <Sebastien Paumier>
+408839a -  Bug fix (10 years ago) <Sebastien Paumier>
+f08bfbd -  Bug fix in graph dependency computation + new display for graph dependency (10 years ago) <Sebastien Paumier>
+2e33662 -  Bgu fix: opening a graph that is already in a frame makes this frame selected (10 years ago) <Sebastien Paumier>
+082300c -  Bug fix around preference inheritance (10 years ago) <Sebastien Paumier>
+f9bde19 -  Modifying preference code, in order to really use the notion of preference inheritance (10 years ago) <Sebastien Paumier>
+aa11313 -  Deleting package fr.gramlab that has been transfered on the Gramlab svn server (10 years ago) <Sebastien Paumier>
+e231b96 -  Deleting package fr.gramlab that has been transfered on the Gramlab svn server (10 years ago) <Sebastien Paumier>
+01819a4 -  Deleting package fr.gramlab that has been transfered on the Gramlab svn server (10 years ago) <Sebastien Paumier>
+bad960a -  Bug fix (10 years ago) <Sebastien Paumier>
+fd14ac2 -  After the inflection of a DELAS, the resulting DELAF is automatically opened in a new frame (10 years ago) <Sebastien Paumier>
+88af2d3 -  It is now possible to have several DELA open at the same time (10 years ago) <Sebastien Paumier>
+90c3bbc -  Big update to make the frame manager system compatible with gramlab (10 years ago) <Sebastien Paumier>
+c8bd515 -  Using a clean singleton for the project manager (10 years ago) <Sebastien Paumier>
+fa5ea88 -  Advance in the project tree in gramlab (10 years ago) <Sebastien Paumier>
+50a1613 -  Using a clean singleton for the internal frame manager (10 years ago) <Sebastien Paumier>
+a4ecd8f -  Bug fix in the process execution frame (10 years ago) <Sebastien Paumier>
+86d613b -  Prototype of project explorer in gramlab (10 years ago) <Sebastien Paumier>
+808a7e5 -   (10 years ago) <Sebastien Paumier>
+addf0a5 -  Moving a listener (10 years ago) <Sebastien Paumier>
+cf78821 -  Changes on Gramlab IDE (10 years ago) <Sebastien Paumier>
+b807057 -  Commit of the gramlab IDE skeleton (10 years ago) <Sebastien Paumier>
+510380a -  Fixing bad display of standalone boxes (10 years ago) <Sebastien Paumier>
+9335e9f -  Adding sequence automata construction (10 years ago) <Adrien Durand>
+f76dda4 -  Removing encoding argument for external commands like mkdir (10 years ago) <Sebastien Paumier>
+195f78f -  Command frame always stays open if something was printed on the error output stream (10 years ago) <Sebastien Paumier>
+1ce5cc1 -  Bug fix: restoring the debug mode (10 years ago) <Sebastien Paumier>
+c989135 -  Bug fix around svn conflict detection (10 years ago) <Sebastien Paumier>
+c7044b3 -  Introduction of real comment boxes in graphs. A comment box is a one that starts with / Lines are separated with + and \ can be used to protect either a + or itself. \ are not displayed It is not possible to have any transition from or to such a box (10 years ago) <Sebastien Paumier>
+808e420 -  Adding undo/redo support for box selection surrounding operations (10 years ago) <Sebastien Paumier>
+e73c642 -  Adding new functions in graph editor to surround box selections with left and right contexts (10 years ago) <Sebastien Paumier>
+adbb479 -  Adding new functions in graph editor to surround box selections with input/output variables and morphological mode (10 years ago) <Sebastien Paumier>
+37c908b -  Removing bad import in CommandBuilder (10 years ago) <Sebastien Paumier>
+db0afb8 -  Bug fix around use of Scanner with versatile encodings (10 years ago) <Sebastien Paumier>
+974ab52 -  Cleaning Config class (10 years ago) <Sebastien Paumier>
+656d1c6 -  Moving file utilities code from Config to FileUtil (10 years ago) <Sebastien Paumier>
+2c71d4b -  Big GUI commit: the config code has been refactored in order to facilitate the export of Unitex components into external java projects such as Gramlb (10 years ago) <Sebastien Paumier>
+680bab7 -  Refactoring code around GraphFrame (10 years ago) <Sebastien Paumier>
+25d066c -  Removing unnecessary method call (10 years ago) <Sebastien Paumier>
+2857566 -  Updates around versatile encodings (10 years ago) <Sebastien Paumier>
+84f202b -  Removing deprecated class (10 years ago) <Sebastien Paumier>
+9eb5020 -  Bug fix around versatile encodings (10 years ago) <Sebastien Paumier>
+bd0a220 -  Adapting internal text editor to variable encoding (10 years ago) <Sebastien Paumier>
+0e0b371 -  Bug fix in text loading (10 years ago) <Sebastien Paumier>
+504e458 -  GUI now supports variable file encodings (10 years ago) <Sebastien Paumier>
+2061642 -  Filtering tfst tags with a regexp (10 years ago) <Sebastien Paumier>
+bb342ba -  Reversing tfst scrolling direction (10 years ago) <Sebastien Paumier>
+2862865 -  Bug fix (10 years ago) <Sebastien Paumier>
+2edd096 -  Renaming TextAsListModel (10 years ago) <Sebastien Paumier>
+94cb67e -  Can scroll in the tfst using drag with either Ctrl+click or right click (10 years ago) <Sebastien Paumier>
+2054e7a -  Tagging in tfst can also be made with right click (10 years ago) <Sebastien Paumier>
+4be606e -  New feature in GUI: one can easily trim by hand the text automaton (10 years ago) <Sebastien Paumier>
+e534545 -  Small improvement around graph path exploration (10 years ago) <Sebastien Paumier>
+710b9d2 -  Bug fix in graph collection (10 years ago) <Sebastien Paumier>
+12c9c22 -  Bug fix around svn monitoring (10 years ago) <Sebastien Paumier>
+c15eeda -  Svn monitoring deals with svn clients that do not produce .mine files (10 years ago) <Sebastien Paumier>
+a487b44 -  Adding test on .svn directory (10 years ago) <Sebastien Paumier>
+72f41df -  Adding SVN conflict support (10 years ago) <Sebastien Paumier>
+cb21dbb -  A step toward SVN support for graphs in Unitex (10 years ago) <Sebastien Paumier>
+893eaf2 -  Minor cosmetic update about concordance diff frame (10 years ago) <Sebastien Paumier>
+b285e64 -  Changing diff colors (10 years ago) <Sebastien Paumier>
+55052b0 -  Minor change in graph edition (10 years ago) <Sebastien Paumier>
+a0707d3 -  If the user select a graph file that does not end with ".grf", the suffix ".grf" is added only if the file does not exist with the original name (10 years ago) <Sebastien Paumier>
+f3dbda2 -  Concordance diff is now clickable as the normal concordance frame (10 years ago) <Sebastien Paumier>
+5945407 -  Updating diff display (10 years ago) <Sebastien Paumier>
+b89deb5 -  Fixing bug around concordance diff frame display (10 years ago) <Sebastien Paumier>
+488c46b -  Concordance frames (normal+diff) are now sized to the largest line they contain (10 years ago) <Sebastien Paumier>
+5a8fff6 -  Add wheel scrolling to text frame (10 years ago) <Sebastien Paumier>
+d3cff75 -  Emitting error messages when trying to open non existing files (10 years ago) <Sebastien Paumier>
+fda6648 -  "Show ambiguous outputs" is not enabled if there are no ambiguous outputs (10 years ago) <Sebastien Paumier>
+b341cbb -  Minor debug update (10 years ago) <Sebastien Paumier>
+ec26ea9 -  Bug fix (10 years ago) <Sebastien Paumier>
+bb13f67 -  Updating GUI to display valid grf's unit test boxes in blue (10 years ago) <Sebastien Paumier>
+ee54883 -  Bug fix in tfst display for Korean (10 years ago) <Sebastien Paumier>
+e77057d -  Adding GUI support for box ranges (10 years ago) <Sebastien Paumier>
+134aed2 -  Bug fix in debug mode (10 years ago) <Sebastien Paumier>
+26d0562 -  Adding a debug class to produce an hexadecimal view of text files (10 years ago) <Sebastien Paumier>
+90c7089 -  Applying Unxmlize only if the extension is .xml or .html. By default, the file will be taken as a .txt one (10 years ago) <Sebastien Paumier>
+3540ad1 -  Bug fix (10 years ago) <Sebastien Paumier>
+b197847 -  In dic lookup frame, the input text field uses text font (10 years ago) <Sebastien Paumier>
+fd8d9ff -  Updating debug mode display (10 years ago) <Sebastien Paumier>
+aef1235 -  In debug mode, each box is displayed with its path counter (10 years ago) <Sebastien Paumier>
+6774f06 -  debug concordance frame: it's now possible to open a graph with a double-click on it (10 years ago) <Sebastien Paumier>
+ed56ec8 -  Bug fix about context marks in debug mode (10 years ago) <Sebastien Paumier>
+ec2afa9 -  Bug fix: no need to find an <E> path when we stay within the same box (10 years ago) <Sebastien Paumier>
+e4418fc -  Bug fix (10 years ago) <Sebastien Paumier>
+d92b5fb -  Better handling of <E> tags in debug mode (10 years ago) <Sebastien Paumier>
+b964990 -  Adding graph debugger to GUI (10 years ago) <Sebastien Paumier>
+18b5291 -  Using split panes in text dictionary frame (10 years ago) <Sebastien Paumier>
+213dfe9 -  Bug fix: it was possible to set $|( or $|) as box content (10 years ago) <Sebastien Paumier>
+5c526ef -  Adapting concordance frame to new url format with match number (10 years ago) <Sebastien Paumier>
+a398f2d -  Bug fix in graph diff frame when comparing graphs that contain subgraph calls (10 years ago) <Sebastien Paumier>
+80d3e90 -  Integration of visual graph diff in GUI (10 years ago) <Sebastien Paumier>
+3221b48 -  Adding GrfDiff command to GUI (10 years ago) <Sebastien Paumier>
+06c811e -  Bug fix in "Lexicon-grammar > Compile to GRF" (10 years ago) <Sebastien Paumier>
+78b2068 -  Adding checkbox to preprocessing frame to skip separator normalization (10 years ago) <Sebastien Paumier>
+e4e579a -  GUI bug fix (10 years ago) <Sebastien Paumier>
+4ce13b0 -  New feature: Unitex can open xml and html files, removing their tags. (10 years ago) <Sebastien Paumier>
+5b81b2e -  Bug fix: startup dialog boxes are no longer in background (10 years ago) <Sebastien Paumier>
+834ed77 -  Bug fix about lexicon-grammar table frame (10 years ago) <Sebastien Paumier>
+2596625 -  Log dir error detected (10 years ago) <Sebastien Paumier>
+9279207 -  Bug fix about PolyLex (10 years ago) <Sebastien Paumier>
+fd2f841 -  GUI modification to deal with two variants of Norwegian (10 years ago) <Sebastien Paumier>
+d6c09ce -  Adding missing null tests (10 years ago) <Sebastien Paumier>
+5d151d5 -  Refreshing paths in Preprocess frame when language changes (10 years ago) <Sebastien Paumier>
+f7e12a7 -  Making concordance diffs more readable (10 years ago) <Sebastien Paumier>
+a1bbccd -  Removing "identical sequences" label in concordance diff frame (10 years ago) <Sebastien Paumier>
+3e0bba3 -  Adding -d/--diff_only option to ConcorDiff (10 years ago) <Sebastien Paumier>
+579c841 -  Uniconifying text frame when clicking on a concordance line (10 years ago) <Sebastien Paumier>
+784e1ea -  Adding missing timer stop (10 years ago) <Sebastien Paumier>
+dd70030 -  For graphs: adding a refresh button and a timer that auto-detects updates from files on disk (10 years ago) <Sebastien Paumier>
+8b201eb -  Adding a search panel to the dictionary frame (10 years ago) <Sebastien Paumier>
+ca17233 -  Adding new functionalities in graph frame to know: - which graphs are called from the current one - which graphs are calling the current one (10 years ago) <Sebastien Paumier>
+54e72d9 -  Adding code for getting: all grf that call a given one all grf called by a given one (10 years ago) <Sebastien Paumier>
+c3da948 -  Introducing some facilities to compute relative file paths (10 years ago) <Sebastien Paumier>
+1e8c657 -  Forcing graph icon bar to be at North (10 years ago) <Sebastien Paumier>
+2baa9d9 -  Adding a "Show ambiguous outputs" button in the concordance parameter frame (10 years ago) <Sebastien Paumier>
+b8bb3df -  Introduction of new things that were put aside for 2.1 stable version: - dictionary lookup - graph box creation with right click - unreachable subgraphs are displayed in red instead of grey (10 years ago) <Sebastien Paumier>
+522093c -  Updating disclaimer for 3.0beta (10 years ago) <Sebastien Paumier>
+4d628d4 -  Removing close icon from text frames (11 years ago) <Sebastien Paumier>
+14d5fba -  Bug fix in Malagasy: the table view of the tfst did not show the first token if the analysis started by an empty morpheme (11 years ago) <Sebastien Paumier>
+9b4aa63 -  Bug fix for Malagasy: some transitions were incorrectly drawn with dash lines (11 years ago) <Sebastien Paumier>
+dfdb0bc -  Bug fix: no exception is raised anymore on empty sentence automata (11 years ago) <Sebastien Paumier>
+eefd49c -  Bug fix: sentence automaton was not refreshed when reconstructing tfst (11 years ago) <Sebastien Paumier>
+94c4b1a -  Any unknown system will be assumed to be a linux-like one (11 years ago) <Sebastien Paumier>
+e6bf711 -  Any version of Windows will be recognized and supported by Unitex (11 years ago) <Sebastien Paumier>
+0f50905 -  Bug fix: dela frame did not reappear after a sort (11 years ago) <Sebastien Paumier>
+2431406 -  Fixing exception raised when trying to open a subgraph by alt-clicking on an empty box (11 years ago) <Sebastien Paumier>
+6eda2e9 -  Bug fix around dragging multiple box selections (11 years ago) <Sebastien Paumier>
+6ce25b5 -  Updating copyright (11 years ago) <Sebastien Paumier>
+75e9250 -  Adding a file filter csc for the cassys frame (11 years ago) <Nathalie Friburger>
+3e10add -   (11 years ago) <Nathalie Friburger>
+cfca78b -  Bug fix in text automaton frame (11 years ago) <Sebastien Paumier>
+b45632d -  Adding Untokenize in the "Help on commands" frame (11 years ago) <Sebastien Paumier>
+424d700 -  Bug fix in Text FST table display (11 years ago) <Sebastien Paumier>
+3bb91aa -  Bug fix in GUI (11 years ago) <Sebastien Paumier>
+87b87a9 -  Updating TextDicFrame to show tags_err content (11 years ago) <Sebastien Paumier>
+de7b3f0 -  Text FST is rendered with the text right-to-left attribute, instead of the graph right-to-left attribute (11 years ago) <Sebastien Paumier>
+431053d -  Made some declarations final  - like the previous bulk change this is merely a syntactic change and can't affect any app logic  - improves style an memory management (11 years ago) <Alexander Orlov>
+9f7b1e5 -  Declaration access can be weaker: public > local > private (11 years ago) <Alexander Orlov>
+7f5c3d3 -  Tagger : modify default data filename for tagger ('raw' -> 'cat'). (11 years ago) <Anthony Sigogne>
+437baf1 -  Tagger : modify default data filename for tagger . (11 years ago) <Anthony Sigogne>
+6fb0609 -  Bug fix in GUI: files sentenceXXX.grf were removed before invoking RebuildTfst, causing it to do nothing (11 years ago) <Sebastien Paumier>
+c69ef47 -  Adding TrainingTagger in GUI, but just in the command list (11 years ago) <Sebastien Paumier>
+470e5a4 -  Moving operations in some XXXCommand constructors that produced bad display in the "Help on command" frame (11 years ago) <Sebastien Paumier>
+ff8803f -  Adding support for "Cassys" directory (11 years ago) <Sebastien Paumier>
+8eabe88 -  Bug fix (11 years ago) <Sebastien Paumier>
+33e7c4e -   (11 years ago) <Nathalie Friburger>
+87e8e5f -   (11 years ago) <Nathalie Friburger>
+dad93fb -  Scrollbar position is correct in text automaton frame for right-to-left languages (11 years ago) <Sebastien Paumier>
+fabff5e -  And the missing parts of previous commit... (11 years ago) <Sebastien Paumier>
+8c036b6 -  Bug fix in XAlign Locate frame (11 years ago) <Sebastien Paumier>
+7d69cd2 -  Fix scrollbar position bug for right-to-left languages (11 years ago) <Sebastien Paumier>
+c28fe4f -  Changing layout in global preference frame (11 years ago) <Sebastien Paumier>
+c68706a -  Adapting GUI to new -m option style in Dico and Locate (11 years ago) <Sebastien Paumier>
+ce2315c -  Bug fix in XAlign configuration (11 years ago) <Sebastien Paumier>
+cb900cb -  Splitting "right to left" property into two: - one for text rendering - one for graph rendering (11 years ago) <Sebastien Paumier>
+98001d1 -  Adding missing -u to LocateCommand (11 years ago) <Sebastien Paumier>
+7f8d778 -  Adding transliteration frame (11 years ago) <Sebastien Paumier>
+cf914d8 -  Bug fix in GUI (11 years ago) <Sebastien Paumier>
+a86792f -  Updating GUI to support the semitic option (11 years ago) <Sebastien Paumier>
+3f0440a -  Adding checks to avoid crashing Unitex when loading a corrupted .grf file (11 years ago) <Sebastien Paumier>
+03e497e -  Close / open frame cassys bug fix (11 years ago) <Nathalie Friburger>
+1e1ba95 -  Warning removal (11 years ago) <Sebastien Paumier>
+7e07c4f -  Adding a test for corrupted empty boxes (11 years ago) <Sebastien Paumier>
+c714de9 -  Redundant type cast removed. (11 years ago) <Alexander Orlov>
+4cc4cbf -  Simplified boolean expressions. (11 years ago) <Alexander Orlov>
+a9e2f12 -  Added warning and message errors while reading a transducer list file (11 years ago) <Nathalie Friburger>
+9df2ead -  Unnecessary boxing removed: (11 years ago) <Alexander Orlov>
+fdbf369 -  Redundant String constructors removed (affecting memory consumption) (11 years ago) <Alexander Orlov>
+e993fbb -  File edition detector bug fixed (11 years ago) <Nathalie Friburger>
+736022d -  Suppressed the 'new' button and added an error message in graph selection frame for Cassys (11 years ago) <Nathalie Friburger>
+0e6bab3 -  Frame title Bug fix in cassys transducer frame selection (11 years ago) <Nathalie Friburger>
+c1b8f2e -  Bug fix: Ctrl+A and Ctrl+C in console copy the commands again and not the log numbers (11 years ago) <Sebastien Paumier>
+9883247 -  Removing error introduced for test (11 years ago) <Sebastien Paumier>
+20e237e -  Bug fix (11 years ago) <Sebastien Paumier>
+e69ca8d -  Committing a java error to test error alert (11 years ago) <Sebastien Paumier>
+5fff152 -  Warning fix (11 years ago) <Sebastien Paumier>
+7d298f1 -  Bug fix: graph paths were not displayed anymore in graph frame title bars (11 years ago) <Sebastien Paumier>
+f325a36 -  Add of graphical of Cassys : Package cassys + class CassysFrame + class TransducerListConfigurationFrame in package frames + class CassysCommand in package process.commands (11 years ago) <Nathalie Friburger>
+8d68b60 -  Bug fix in graph editor (11 years ago) <Sebastien Paumier>
+ec6119a -  Changing (...) + (...) to (...)|(...) when exporting text automaton as tagged text (11 years ago) <Sebastien Paumier>
+7795be7 -  Bug fix (11 years ago) <Sebastien Paumier>
+b6836d9 -  Ensure that all tfst related files are deleted when the tfst is about to be (re)built (11 years ago) <Sebastien Paumier>
+e8b2138 -  Adding missing fires (11 years ago) <Sebastien Paumier>
+f729bf7 -  Changing default ant target (11 years ago) <Sebastien Paumier>
+1a5deb0 -  Refreshing morphological dictionary list when language changes (11 years ago) <Sebastien Paumier>
+cb4a2c6 -  Modifying output format when exporting text automaton as a tag list (11 years ago) <Sebastien Paumier>
+937ee8b -  Commenting all modifications related to lexical path repository (11 years ago) <Sebastien Paumier>
+307ff98 -  Removing annotion (11 years ago) <Sebastien Paumier>
+6d3039b -  Warning fix (11 years ago) <Sebastien Paumier>
+91f9f0c -  Warning fix (11 years ago) <Sebastien Paumier>
+7686578 -  Added a global preference to set the "lexical graph repository" anologous to the global "graph repository" (a feature asked by many Unitex users) (11 years ago) <Alexander Orlov>
+2a30391 -  FIXED "this.xxx=.... warning" by removing a file recently addedd which basically was a skeleton for further app logic (11 years ago) <Alexander Orlov>
+a7f3659 -  Bug fix about splash screen display (11 years ago) <Sebastien Paumier>
+240d988 -  + Made simple "ERROR" messages more verbose + Tryed to speedup startup time by declaring some objects as final (11 years ago) <Alexander Orlov>
+7c7104d -  Multicore capability skeleton added (not yet activated) (11 years ago) <Alexander Orlov>
+2e22248 -  + Each class should be placed in a separate file (PreprocessDo file added) + Added mnemonics to the PreprocessDialog (11 years ago) <Alexander Orlov>
+cbcaf1b -  Reapplied code consolidation that was accidently overwritten in a previous commit (11 years ago) <Alexander Orlov>
+4420443 -  Consolidation of pre Java 5 syntax (11 years ago) <Alexander Orlov>
+04bf8ac -  Tfst tags stats have been integrated in GUI (11 years ago) <Sebastien Paumier>
+9e5d261 -  Bug fix: when clicking not on a box, if no boxes were selected, the graph does not become "Unsaved" (11 years ago) <Sebastien Paumier>
+d3c79bc -  After "Apply lexical resources" on Korean, the text automaton is automatically rebuilt (11 years ago) <Sebastien Paumier>
+114d309 -  Adding BuildKrMwuDic to GUI (11 years ago) <Sebastien Paumier>
+acc3f42 -  And removing debug prints (11 years ago) <Sebastien Paumier>
+572231d -  Fix drap and drop bug under Linux/gnome (11 years ago) <Sebastien Paumier>
+3b927a2 -  Bug fix (11 years ago) <Sebastien Paumier>
+b2428ff -  Added IntelliJ IDEA project meta-data: (11 years ago) <Alexander Orlov>
+3a2c7d5 -  Adding to GUI support for output variables like $|aaa( Some of previous modifications have been undone due to diff problems with eclipse (11 years ago) <Sebastien Paumier>
+5e6d6ba -  + Strings should be compared with equals() (11 years ago) <Alexander Orlov>
+0913512 -  Consolidation of a few further IF statements (11 years ago) <Alexander Orlov>
+a524bd3 -  Replaced some FOR loops with appropriate "FOR EACH" loops which are supported since Java 5 (11 years ago) <Alexander Orlov>
+216700e -  Simplified boolean expresions (11 years ago) <Alexander Orlov>
+df9448d -  Void methods don't need any "return" directives in Java (11 years ago) <Alexander Orlov>
+f3caa29 -  Redundant IF statements removed: (11 years ago) <Alexander Orlov>
+63229e9 -  Performance issue: Consistent string concatenation (replaced "+" in StringBuilder by append) (11 years ago) <Alexander Orlov>
+fb7a666 -  IDE inspection performance/code style improvement proposal applied (many files affected): declared variables as final. It's a safe change as app logic can't be affected. (11 years ago) <Alexander Orlov>
+9c49af6 -  Unnecessary unboxing removed; not necessary since Java 5 (11 years ago) <Alexander Orlov>
+3100dda -  Unnecessary boxing removed; not necessary since Java 5 (11 years ago) <Alexander Orlov>
+d2fad9e -  Performance issue: Replaced redundant String constructor String s = new String("string") by String s = "string" (11 years ago) <Alexander Orlov>
+7887c78 -  Updated libs from Xerces 2.6.0 to recently published Xerces 2.10.0 (API compatibile) (11 years ago) <Alexander Orlov>
+2455d32 -  Adding new visualization mode for text automaton (11 years ago) <Sebastien Paumier>
+fac5ff0 -  Performance issue: Avoid creation of unnecessary temporary objects => replaced "NEW Integer(intNumber).intValue()" by "Integer.valueOf(intNumber)" (11 years ago) <Alexander Orlov>
+77358a5 -  Performance issue: Replaced "new Boolean(false)" through "Boolean.FALSE" (11 years ago) <Alexander Orlov>
+2f52585 -  Declaring "private" or "static" methods as "final" is redundant as private/static methods cannot be overriden (11 years ago) <Alexander Orlov>
+2ff42db -  Performance issue: replaced a manual array copy by a system built-in array copy method (11 years ago) <Alexander Orlov>
+e6db90b -  IDE's code analysis report: "field can be local" => reduced the scope of some global variables (reduces memory usage); automatic IDE-driven import optimization (11 years ago) <Alexander Orlov>
+1ea8933 -  generic code optimizations and significant code cleanup to improve maintainability (11 years ago) <Alexander Orlov>
+8790911 -  GUI uses arabic_typo_rules.txt for Dico (11 years ago) <Sebastien Paumier>
+334e209 -  Adding option --pkgdir to MultiFlex in GUI (11 years ago) <Sebastien Paumier>
+157b129 -  Bug fix in GUI: some text automaton transitions were not displayed with dash stroke as they should have been (11 years ago) <Sebastien Paumier>
+4d11938 -  Adding shortcuts (11 years ago) <Sebastien Paumier>
+1dd7cda -  Concordance frame is not shown when there is no match (11 years ago) <Sebastien Paumier>
+d2eee0a -  Bug fix (11 years ago) <Sebastien Paumier>
+8d5c318 -  Introducing log system in GUI (11 years ago) <Sebastien Paumier>
+a6047b0 -  Users can configure their private directory on non-Windows systems (11 years ago) <Sebastien Paumier>
+a6dc74b -  Closing XAlign locate frame when closing XAlign frame (11 years ago) <Sebastien Paumier>
+e46607f -  Introducing LanguageListener (11 years ago) <Sebastien Paumier>
+a4294fb -  Creating packages (11 years ago) <Sebastien Paumier>
+a6d7271 -  Merging loadGraph and loadSentenceGraph (11 years ago) <Sebastien Paumier>
+6ca0c2a -  Cleaning code about graph zones (11 years ago) <Sebastien Paumier>
+428dd57 -  Removing Edit menu and special cut/copy/paste/select all operations in TfstTextField (11 years ago) <Sebastien Paumier>
+35ee468 -  Replacing some calls to mkdir() by MkdirCommand (11 years ago) <Sebastien Paumier>
+5113d81 -  Cleaning ListCopyDialog (11 years ago) <Sebastien Paumier>
+2381258 -  Removing TODO (11 years ago) <Sebastien Paumier>
+a5f65e7 -  Bug fix in TextAutomatonFrame (11 years ago) <Sebastien Paumier>
+2101622 -  Removing TODOs (11 years ago) <Sebastien Paumier>
+a7ccbd4 -  Using a stroke to draw graph frames (11 years ago) <Sebastien Paumier>
+79a82e4 -  Removing class ColorRectangle (11 years ago) <Sebastien Paumier>
+89cbcfe -  Removing bounds rendering (11 years ago) <Sebastien Paumier>
+fd03784 -  Updating build.xml (11 years ago) <Sebastien Paumier>
+2f7432d -  Minor change in build.xml (11 years ago) <Sebastien Paumier>
+4a5de4f -  Replacing paints by fire... (11 years ago) <Sebastien Paumier>
+d425702 -  Adding missing @Override annotations (11 years ago) <Sebastien Paumier>
+f5dc24c -  Some more cleaning (11 years ago) <Sebastien Paumier>
+0eb0723 -  Cleaning things around graphical zones (11 years ago) <Sebastien Paumier>
+30335e1 -  Moving listeners in a dedicated package+minor cleaning (11 years ago) <Sebastien Paumier>
+d5ed953 -  Cleaning UnitexFrame (11 years ago) <Sebastien Paumier>
+b328f5b -  Cleaning XAlignLocateFrame (11 years ago) <Sebastien Paumier>
+0ce67fd -  Cleaning XAlignFrame (11 years ago) <Sebastien Paumier>
+bffb9e2 -  Cleaning XAlignConfigFrame + ToDo are executed in the Swing Thread (11 years ago) <Sebastien Paumier>
+d546c79 -  Cleaning TranscodingFrame (11 years ago) <Sebastien Paumier>
+e02fcc3 -  Cleaning TokensFrame (11 years ago) <Sebastien Paumier>
+c569e35 -  Cleaning TextDicFrame (11 years ago) <Sebastien Paumier>
+91cec88 -  Cleaning TextAutomatonFrame (11 years ago) <Sebastien Paumier>
+b9c36af -  Cleaning StatisticsFrame (11 years ago) <Sebastien Paumier>
+6baefd8 -  Cleaning ProcessInfoFrame (11 years ago) <Sebastien Paumier>
+b37b0a0 -  Cleaning PreprocessDialog (11 years ago) <Sebastien Paumier>
+877cc26 -  Cleaning MessageWhileWorkingFrame (11 years ago) <Sebastien Paumier>
+aae9e28 -  Cleaning LocateFrame (11 years ago) <Sebastien Paumier>
+aa1d668 -  Cleaning ConvertLexiconGrammarFrame (11 years ago) <Sebastien Paumier>
+b61b6b8 -  Cleaning InflectFrame (11 years ago) <Sebastien Paumier>
+642b9a9 -  Cleaning GraphSizeDialog (11 years ago) <Sebastien Paumier>
+aabac59 -  Cleaning GraphPresentationDialog (11 years ago) <Sebastien Paumier>
+feaf613 -  Cleaning GraphPathDialog (11 years ago) <Sebastien Paumier>
+f966da1 -  Bug fix about right to left rendering in graphs (11 years ago) <Sebastien Paumier>
+ff3275e -  Cleaning GraphFrame (11 years ago) <Sebastien Paumier>
+9921566 -  Cleaning GraphCollectionFrame (11 years ago) <Sebastien Paumier>
+94d6cad -  Cleaning GlobalPreferencesFrame, moving font listener management to Preferences (11 years ago) <Sebastien Paumier>
+a340c50 -  Minor cleaning (11 years ago) <Sebastien Paumier>
+94147ff -  Hiding action text for icon buttons (11 years ago) <Sebastien Paumier>
+256f7fe -  Cleaning FileEditionTextFrame (11 years ago) <Sebastien Paumier>
+dd71bd2 -  Cleaning ElagCompFrame (11 years ago) <Sebastien Paumier>
+0f8dfbd -  Cleaning DelaFrame (11 years ago) <Sebastien Paumier>
+b589588 -  Cleaning ConvertTfstToTextFrame (11 years ago) <Sebastien Paumier>
+65787f5 -  Cleaning ConvertLexiconGrammarFrame (11 years ago) <Sebastien Paumier>
+176ec82 -  Cleaning ConstructTfstFrame (11 years ago) <Sebastien Paumier>
+bf0ddf9 -  Cleaning ConsoleFrame (11 years ago) <Sebastien Paumier>
+53aa761 -  Cleaning ConcordanceParameterFrame (11 years ago) <Sebastien Paumier>
+4e8f8af -  Cleaning ConcordanceFrame (11 years ago) <Sebastien Paumier>
+9ed9764 -  Cleaning ConcordanceDiffFrame (11 years ago) <Sebastien Paumier>
+644e3a4 -  Cleaning CheckResultFrame (11 years ago) <Sebastien Paumier>
+b99defb -  Cleaning CheckDicFrame (11 years ago) <Sebastien Paumier>
+0b89abb -  Cleaning ApplyLexicalResourcesFrame (11 years ago) <Sebastien Paumier>
+d3ecd36 -  Cleaning AboutUnitexFrame (11 years ago) <Sebastien Paumier>
+e5a1687 -  Checking that no frame constructor is called bypassing the factory system (11 years ago) <Sebastien Paumier>
+8bf15d1 -  Refactoring frame&dialog factories (11 years ago) <Sebastien Paumier>
+2018c8b -  Removing warnings (11 years ago) <Sebastien Paumier>
+8605a9c -  Avoiding implicit values in command parameters (11 years ago) <Sebastien Paumier>
+58b01b0 -  Deleting NumericTextField (11 years ago) <Sebastien Paumier>
+357c5bc -  Code cleaning around GraphSizeDialog (11 years ago) <Sebastien Paumier>
+de92eac -  Code cleaning around GraphAlignmentDialog (11 years ago) <Sebastien Paumier>
+6e529e2 -  Removing public field Preferences.pref (11 years ago) <Sebastien Paumier>
+541a7c8 -  Huge code cleaning around graph configuration dialog and preferences (11 years ago) <Sebastien Paumier>
+d751d04 -  Code cleaning around font dialogs (11 years ago) <Sebastien Paumier>
+efe16ed -  Code cleaning around XAlignLocateFrame (11 years ago) <Sebastien Paumier>
+a5ca29b -  Code cleaning around XAlignFrame (11 years ago) <Sebastien Paumier>
+24b1392 -  Code cleaning around XAlignConfigFrame (11 years ago) <Sebastien Paumier>
+4fa70e3 -  Config update (11 years ago) <Sebastien Paumier>
+142c146 -  Bug fix (11 years ago) <Sebastien Paumier>
+946d71f -  Adding warning on multi-drop of non .grf files (11 years ago) <Sebastien Paumier>
+a99dd90 -  Code cleaning around TranscodingOneFileDialog (11 years ago) <Sebastien Paumier>
+36786aa -  Code cleaning around FileEditionTextFrame (11 years ago) <Sebastien Paumier>
+ee795b0 -  Modifying console visibility behavior (11 years ago) <Sebastien Paumier>
+4b6748f -  Renaming Console__ to Console (11 years ago) <Sebastien Paumier>
+db1aec7 -  Bug fix in the uncaught exception handler (11 years ago) <Sebastien Paumier>
+564e5bf -  Updating the uncaught exception handler (11 years ago) <Sebastien Paumier>
+f64dca5 -  Code cleaning (11 years ago) <Sebastien Paumier>
+42ace19 -  Code cleaning around TranscodingOneFileDialog (11 years ago) <Sebastien Paumier>
+2202cf3 -  Removing warning in fr.loria.* (11 years ago) <Sebastien Paumier>
+9313103 -  Reorganizing imports to remove .* (11 years ago) <Sebastien Paumier>
+e9ccb80 -   (11 years ago) <Sebastien Paumier>
+60c51aa -  Moving files (11 years ago) <Sebastien Paumier>
+4fd400e -  Adding package transcoding (11 years ago) <Sebastien Paumier>
+d11653b -  Code cleaning around file transcoding (11 years ago) <Sebastien Paumier>
+3a07b78 -  Disposing ProcessInfoFrame (11 years ago) <Sebastien Paumier>
+17da857 -  Replacing 'new ProcessInfoFrame(...)' by calls to 'Launcher.exec(...)' (11 years ago) <Sebastien Paumier>
+afb2634 -  Modifying splash screen code (11 years ago) <Sebastien Paumier>
+a71cd8b -  Cleaning and refactoring around HelpOnCommandFrame (11 years ago) <Sebastien Paumier>
+c0bea1a -  Moving some more classes (11 years ago) <Sebastien Paumier>
+7e58b84 -  Moving classes (11 years ago) <Sebastien Paumier>
+553235d -  Cleaning and refactoring around StatisticsFrame (11 years ago) <Sebastien Paumier>
+6ed1758 -  PreprocessDialog is now persistent (11 years ago) <Sebastien Paumier>
+9563090 -  Cleaning and refactoring around PreprocessFrame, now named PreprocessDialog (11 years ago) <Sebastien Paumier>
+9f8a1e6 -  Restoring a close (11 years ago) <Sebastien Paumier>
+7c53fe4 -  Cleaning and refactoring around MessageWhileLoadingFrame (11 years ago) <Sebastien Paumier>
+9163ca1 -  Cleaning and refactoring around LocateFrame (11 years ago) <Sebastien Paumier>
+56b30bf -  Cleaning and refactoring around LexiconGrammarTableFrame (11 years ago) <Sebastien Paumier>
+6aca0de -  Cleaning and refactoring around ConvertLexiconGrammarFrame (11 years ago) <Sebastien Paumier>
+e8f811b -  Cleaning and refactoring around InflectFrame (11 years ago) <Sebastien Paumier>
+50d9035 -  Turning GraphCollectionDialog into GraphCollectionFrame (11 years ago) <Sebastien Paumier>
+0b5fb34 -  Some more cleaning and refactoring around GraphPathFrame, that becomes GraphPathDialog (11 years ago) <Sebastien Paumier>
+b4da23c -  Cleaning and refactoring around GraphPathFrame (11 years ago) <Sebastien Paumier>
+f602bc8 -  Cleaning and refactoring around GlobalPreferencesFrame (11 years ago) <Sebastien Paumier>
+ee04f05 -  Cleaning and refactoring around ElagCompFrame (11 years ago) <Sebastien Paumier>
+f7de3d1 -  Cleaning and refactoring around ConvertTfstToTextFrame (11 years ago) <Sebastien Paumier>
+45cbce0 -  Class renaming (11 years ago) <Sebastien Paumier>
+5376013 -  Cleaning and refactoring around ConstructTfstFrame (11 years ago) <Sebastien Paumier>
+598d982 -  Cleaning and refactoring around ConcordanceParameterFrame (11 years ago) <Sebastien Paumier>
+49bb971 -  Unregistering font listener when text frame is disposed (11 years ago) <Sebastien Paumier>
+0ec1be1 -  Cleaning and refactoring around ConcordanceFrame (11 years ago) <Sebastien Paumier>
+9b65738 -  Cleaning and refactoring around ConcordanceDiffFrame (11 years ago) <Sebastien Paumier>
+c4f865e -  Cleaning and refactoring around CheckResultFrame (11 years ago) <Sebastien Paumier>
+1e53ae6 -  Cleaning and refactoring around CheckDicFrame (11 years ago) <Sebastien Paumier>
+5784527 -  Cleaning and refactoring around ApplyLexicalResourcesFrame (11 years ago) <Sebastien Paumier>
+0505535 -  Cleaning and refactoring around the about Unitex frame (11 years ago) <Sebastien Paumier>
+d13764d -  Cleaning and refactoring around the text automaton frame (11 years ago) <Sebastien Paumier>
+e5464b7 -  Cleaning and refactoring around the text dictionary frame (11 years ago) <Sebastien Paumier>
+2dad147 -  Cleaning and refactoring around the tokens frame (11 years ago) <Sebastien Paumier>
+8e37158 -  Some more refactoring (11 years ago) <Sebastien Paumier>
+9860751 -  Cleaning and refactoring around the dela frame (11 years ago) <Sebastien Paumier>
+92d4fe7 -  Cleaning and refactoring around the text frame (11 years ago) <Sebastien Paumier>
+3b35901 -  Refactoring print code into PrintManager (11 years ago) <Sebastien Paumier>
+3c3d724 -  Cleaning and refactoring around graph frames (11 years ago) <Sebastien Paumier>
+049386a -  Moving GraphFrame to package frames (11 years ago) <Sebastien Paumier>
+4ad0ff6 -  Ignoring directories whose names start with "." when collecting language names (11 years ago) <Sebastien Paumier>
+e268dc5 -  Cleaning ColorRectangle (11 years ago) <Sebastien Paumier>
+44811fa -  Turning ToDoAbstract into an interface named ToDo (11 years ago) <Sebastien Paumier>
+3c59d30 -  Fixing spell check error in other class names (11 years ago) <Sebastien Paumier>
+c95c5b9 -  Fixing spell check error in class name (11 years ago) <Sebastien Paumier>
+329c72f -  Moving Couple to fr.umlv.unitex.console (11 years ago) <Sebastien Paumier>
+f798e63 -  Adding a command builder for Fst2Check (11 years ago) <Sebastien Paumier>
+efb8b08 -  Fixing UTF8 bugs in source code+minor spell check corrections (11 years ago) <Sebastien Paumier>
+1bfa488 -  Fixing UTF8 bug in source code (11 years ago) <Sebastien Paumier>
+710edc8 -  Updating build.xml (11 years ago) <Sebastien Paumier>
+24d8c93 -  Fixing bug in GUI (11 years ago) <Sebastien Paumier>
+bd3b574 -  Bug fix in display of right to left sentence automata (11 years ago) <Sebastien Paumier>
+2656c38 -  Adding revision information to the "About" frame + exceptions are now catch and shown, offering the possibility to report them by mail (11 years ago) <Sebastien Paumier>
+29d5c8c -  Integrating Anthony Sigogne's tagger in the GUI (11 years ago) <Sebastien Paumier>
+6fa09b9 -  Now the token list behaves like a real list when one scrolls (11 years ago) <Sebastien Paumier>
+a5e5997 -  Bug fix in the DELA menu (11 years ago) <Sebastien Paumier>
+f438f11 -  Bug fix in alignement module: texts were not normalized prior to the application of XMLizer (11 years ago) <Sebastien Paumier>
+d04e67a -  Bug fix in "Help on commands" frame (11 years ago) <Sebastien Paumier>
+6cdf76a -  Adapting GUI to new Korean policy + warning removal (12 years ago) <Sebastien Paumier>
+64c24d1 -  Restoring display of number of matches in concordance frame (12 years ago) <Sebastien Paumier>
+1a71f6d -  Adapting GUI to -K/--korean (12 years ago) <Sebastien Paumier>
+2f1b36c -  Bug fix: Elag sentences were not always displayed, because of a thread problem (12 years ago) <Sebastien Paumier>
+755e4aa -  Activation of CheckDic's -n option when language is "Chinese" or "Mandarin" (12 years ago) <Sebastien Paumier>
+bd36e5c -  Updating copyright for 2010 (12 years ago) <Sebastien Paumier>
+0df3b71 -  Adapting GUI to -d removal in Elag and ElagComp (12 years ago) <Sebastien Paumier>
+c7120d2 -  When choosing "Modify text": a warning is emitted if the output file is either the current .txt or .snt (12 years ago) <Sebastien Paumier>
+de4e8e6 -  Bug fix when launching Dico for Korean (12 years ago) <Sebastien Paumier>
+b93fdb9 -  Bug fix in statistics display: occurrence numbers had only their last digit shown (12 years ago) <Sebastien Paumier>
+2ecf4f3 -  In Construct FST-Text, the user can select the normalization grammar to use (12 years ago) <Sebastien Paumier>
+77654c0 -  At preprocessing, construction of text automaton takes into account: 1) Korean parameters, if needed 2) Norm.grf, recompiling it, as done for Sentence.grf and Replace.grf (12 years ago) <Sebastien Paumier>
+0da8171 -  Statistics GUI supports now frequency with no context (12 years ago) <Sebastien Paumier>
+8cf854e -  Bug fix in statistics display: UTF16 BOM character was taken into account (12 years ago) <Sebastien Paumier>
+ff460b0 -  Adding -f/--fst2 Korean option to Dico in GUI (12 years ago) <Sebastien Paumier>
+a03e467 -  Adding new parameter to Locate (12 years ago) <Sebastien Paumier>
+26dae99 -  Adding support for Windows 7 (12 years ago) <Sebastien Paumier>
+e7bf8cd -  Bug fix #1: Tfst2Grf takes the graph font into account (12 years ago) <Sebastien Paumier>
+a2f2036 -  The integrated text editor asks before closing an unsaved text (12 years ago) <Sebastien Paumier>
+4f37360 -  Cosmetic changes around statistics (12 years ago) <Sebastien Paumier>
+a095176 -  Bug fix: the GUI called Dico and Locate with -m even if no morphological dictionary was defined (12 years ago) <Sebastien Paumier>
+c522db0 -  Ctrl+C in console copies the whole command list to the clipboard (12 years ago) <Sebastien Paumier>
+d167618 -  Fake commit, just to test Galileo (12 years ago) <Sebastien Paumier>
+636416e -  The GUI calls now UnitexTool (12 years ago) <Sebastien Paumier>
+543fd58 -  Removing debug prints (12 years ago) <Sebastien Paumier>
+44df8bf -  Green untagged token for Jee-Sun special edition (12 years ago) <Sebastien Paumier>
+b06a69b -  Normalize: don't use -r option if "Norm.txt" does not exist (12 years ago) <Sebastien Paumier>
+a0ff4de -  Bug fix: concordance with empty left and right contexts were not displayed properly (12 years ago) <Sebastien Paumier>
+7d9e215 -  Reordering commands (12 years ago) <Sebastien Paumier>
+e7ec807 -  Fst2UnambigCommand => Tfst2UnambigCommand (12 years ago) <Sebastien Paumier>
+8df874d -  Renaming Korean options of Txt2Tfst (12 years ago) <Sebastien Paumier>
+876ac8e -  Private joke (12 years ago) <Sebastien Paumier>
+7ee384f -  Adding -a option to CheckDic (12 years ago) <Sebastien Paumier>
+6a27224 -  Adding TRE's BSD licence file (12 years ago) <Sebastien Paumier>
+6890388 -  Adding -j option to Locate and Dico; no effect for the moment (12 years ago) <Sebastien Paumier>
+c8275d2 -  MultiFlex has 2 new operators for Korean: (12 years ago) <Sebastien Paumier>
+e753b0e -  Font size setting for Korean text automaton (12 years ago) <Sebastien Paumier>
+e9f8cc9 -  Console entries are editable, so users can copy their content (12 years ago) <Sebastien Paumier>
+d03a9c8 -  Changing Korean color according to Jee-Sun's wish (12 years ago) <Sebastien Paumier>
+aadcf6f -  Update of the statistics frame + new version of the console: you can see error messages emitted by programs (12 years ago) <Sebastien Paumier>
+7abf2ee -  Bug fix in HelpOnCommandFrame: does not scroll down by default (12 years ago) <Sebastien Paumier>
+a03643c -  Replacing the big "help on command" menu by a frame (12 years ago) <Sebastien Paumier>
+f6bc068 -  Statistics can be produced from concordance index files (12 years ago) <Sebastien Paumier>
+715681a -  Adding Uncompress to the program list in the GUI (12 years ago) <Sebastien Paumier>
+e940d01 -  Hidden options of Locate and LocateTfst are now accessible from the GUI (12 years ago) <Sebastien Paumier>
+cfa48b5 -  Darker color for parts of token to please Jee-Sun + Text automaton frame closed before applying Korean dictionaries, because this operation involves rebuilding the .tfst (12 years ago) <Sebastien Paumier>
+37933c0 -   (12 years ago) <Sebastien Paumier>
+39364be -  Modifying presentation of Locate configuration frame (12 years ago) <Sebastien Paumier>
+9f5bee2 -  Removing unused extra information in .tfst format (12 years ago) <Sebastien Paumier>
+80923d3 -  In a Korean text automaton, untagged token are shown in green (12 years ago) <Sebastien Paumier>
+55c2128 -  Removing debug print in the GUI (12 years ago) <Sebastien Paumier>
+6749783 -  GUI: construction of Korean text automaton is now correctly parameterized + {<E>,.....} boxes are reached by dashed transitions (12 years ago) <Sebastien Paumier>
+6d2ab54 -  We deal with the new -j option when invoking LocateTfst for Korean (12 years ago) <Sebastien Paumier>
+23ba4e7 -  When we compile a Korean graph, we don't launch the Syl2Jamo conversion program (12 years ago) <Sebastien Paumier>
+083325b -  Some bug fix in GUI for Korean (12 years ago) <Sebastien Paumier>
+3c373b4 -  When you apply lexical resources in Korean, the .tfst text automaton is automatically constructed (12 years ago) <Sebastien Paumier>
+d701ee2 -  Bounds computation is adapted to the new .tfst format that deals with Korean (12 years ago) <Sebastien Paumier>
+2a4791a -  Format .tfst has been modified in order to handle the notion of logical letter that is useful for Korean. Now, start and end offsets are represented by x.y.z where x is the position in tokens, y the position in characters in the current token and z is the position in logical letters in the current character. For Korean, it is useful to know that we are at n logical letters inside a syllabic character. For any other language, this last value should always be 0. (12 years ago) <Sebastien Paumier>
+5eef23c -  LocateTfst integrated in the Locate pattern frame (12 years ago) <Sebastien Paumier>
+4df86f8 -  Bug fix in GUI: there was an error in the automatic transcoding process (12 years ago) <Sebastien Paumier>
+1f09634 -  Adding 2 options to MultiFlex in order to forbid simple words or compound. This is useful to detect errors. (12 years ago) <Sebastien Paumier>
+b616b9f -  Updating "About Unitex" frame, because there is no more GPL code in Unitex. (12 years ago) <Sebastien Paumier>
+a464bc8 -  Some files were not fully committed, because they were both renamed and modified (12 years ago) <Sebastien Paumier>
+a25ecff -  SUPER BIG CHANGES !!! (12 years ago) <Sebastien Paumier>
+3bd3d34 -  Bug fix: multiple files are not transcoded several times (12 years ago) <Sebastien Paumier>
+f57b4a9 -  Adding icons (13 years ago) <Sebastien Paumier>
+b7921ad -  Copyright update. (13 years ago) <Sebastien Paumier>
+a7f7325 -  Bastien's special :) (13 years ago) <Sebastien Paumier>
+cd62f7c -  Bugfix in ElagCompCommand (13 years ago) <Sebastien Paumier>
+9d6816e -  XMLizer has now getopt style options (13 years ago) <Sebastien Paumier>
+b4b15d1 -  Txt2Fst2 has now getopt style options (13 years ago) <Sebastien Paumier>
+536136a -  Tokenize has now getopt style options (13 years ago) <Sebastien Paumier>
+f261b24 -  TEI2Txt has now getopt style options (13 years ago) <Sebastien Paumier>
+442a375 -  TagsetNormFst2 has now getopt style options (13 years ago) <Sebastien Paumier>
+e88f145 -  Table2Grf has now getopt style options (13 years ago) <Sebastien Paumier>
+7495aa5 -  SortTxt has now getopt style options (13 years ago) <Sebastien Paumier>
+3c0dae0 -  Reconstrucao has now getopt style options (13 years ago) <Sebastien Paumier>
+6fd680e -  PolyLex has now getopt style options (13 years ago) <Sebastien Paumier>
+0737452 -  Normalize has now getopt style options (13 years ago) <Sebastien Paumier>
+280f9dc -  MultiFlex has now getopt style options (13 years ago) <Sebastien Paumier>
+a5fa539 -  Fst2Unambig has now getopt style options (13 years ago) <Sebastien Paumier>
+8e18cf7 -  Fst2Txt has now getopt style options (13 years ago) <Sebastien Paumier>
+d2c14d2 -  Fst2Grf has now getopt style options (13 years ago) <Sebastien Paumier>
+788f60c -  Flatten has now getopt style options (13 years ago) <Sebastien Paumier>
+40ee88d -  Locate has now getopt style options New options have been added (13 years ago) <Sebastien Paumier>
+412ba84 -  Extract has now getopt style options (13 years ago) <Sebastien Paumier>
+89ff36d -  ExplodeFst2 has now getopt style options (13 years ago) <Sebastien Paumier>
+7838f3e -  Evamb has now getopt style options (13 years ago) <Sebastien Paumier>
+5b7cdeb -  ElagComp has now getopt style options (13 years ago) <Sebastien Paumier>
+db32676 -  Elag has now getopt style options (13 years ago) <Sebastien Paumier>
+de139b6 -  Dico has now getopt style options (13 years ago) <Sebastien Paumier>
+8414bca -  ConcorDiff and Compress have now getopt style options (13 years ago) <Sebastien Paumier>
+fe8b6bd -  Concord has now getopt style options (13 years ago) <Sebastien Paumier>
+8df9034 -  Compress has now getopt style options (13 years ago) <Sebastien Paumier>
+7294d8b -  CheckDic has now getopt style options (13 years ago) <Sebastien Paumier>
+6fade07 -  Grf2Fst2 has now getopt style options (13 years ago) <Sebastien Paumier>
+5bd08a1 -  Corpus text is right-aligned for right-to-left languages (13 years ago) <Sebastien Paumier>
+5be2d3f -  Switching to Unitex 2.1 beta (13 years ago) <Sebastien Paumier>
+6873793 -  Bug fix: foo.dic was not unlocked when loading a new .dic (13 years ago) <Sebastien Paumier>
+7fc2ce5 -  Adding PolyLex support for Dutch (13 years ago) <Sebastien Paumier>
+aaf431a -  Adding PolyLex support for Dutch (13 years ago) <Sebastien Paumier>
+4fcd268 -  Bug fix: list.txt file was not unlock properly when a GraphPathFrame was closed (13 years ago) <Sebastien Paumier>
+d779190 -   (13 years ago) <Sebastien Paumier>
+ced9d8e -  In the transcoding frame, the list of available encodings is built from the information given by the Convert program (13 years ago) <Sebastien Paumier>
+8da8e54 -  Adding ConcorDiff to the commands (13 years ago) <Sebastien Paumier>
+c6a89be -  Removing unused commands (13 years ago) <Sebastien Paumier>
+4478995 -  Bug fix: in XAlignFrame, there was a duplicate problem with the aligned view (13 years ago) <Sebastien Paumier>
+f53ce38 -  Removing hardcoded test language=="Hungarian" (13 years ago) <Sebastien Paumier>
+17871f4 -  Some little changes... (13 years ago) <Sebastien Paumier>
+1263e62 -  Removing template warnings (13 years ago) <Sebastien Paumier>
+9bdc1a0 -  Bug fix (13 years ago) <Sebastien Paumier>
+9349cc5 -  Adding morphological mode to Locate and left contexts (13 years ago) <Sebastien Paumier>
+b4609cb -  Now, you can set in the global preferences if the morphological use of space is allowed, e.g. if matching with Fst2Txt or Locate can start on spaces. (13 years ago) <Sebastien Paumier>
+3e69bd0 -  Error message when you try to save a graph with a name already in use. (13 years ago) <Sebastien Paumier>
+9057eb8 -  Bug fix: wide concordances are now shown with a scroll bar that is large enough (13 years ago) <Sebastien Paumier>
+963fd4a -  Updating copyright (13 years ago) <Sebastien Paumier>
+871dbe5 -  Removing default parameters for XAlign (14 years ago) <Sebastien Paumier>
+d5919e1 -  XAlign: now you can look for an expression like "king" in one text, and having only the sentences of the other text that are aligned with matched sentences of the first one (try and you'll see what I mean...) (14 years ago) <Sebastien Paumier>
+93b823e -  The system Corpus directory is now copied recursively into the user directory, when a system language is selected for the first time. (14 years ago) <Sebastien Paumier>
+48fb289 -  The GUI gives now info about Freq and Colloc (14 years ago) <Sebastien Paumier>
+3404f22 -   fixing some library paths (14 years ago) <Alexander Orlov>
+c54c372 -  Minor bug fix (14 years ago) <Sebastien Paumier>
+86c3928 -  Replacing some regular expressions (14 years ago) <Sebastien Paumier>
+19c3bf9 -  XAlign is now accessible from the GUI (14 years ago) <Sebastien Paumier>
+c7ba7c0 -  Updating copyright, because "Universite de Marne-la-Vallee" becomes: "Universite Paris-Est Marne-la-Vallee" (14 years ago) <Sebastien Paumier>
+44aae43 -  Adding manifest file for compiling XAlign as a standalone jar (14 years ago) <Sebastien Paumier>
+74d846e -  Introducing alignment feature (14 years ago) <Sebastien Paumier>
+a5fd77d -  Adding LORIA's XAlign program (14 years ago) <Sebastien Paumier>
+7f12c59 -  Adding libraries required by XAlign (14 years ago) <Sebastien Paumier>
+00b050b -  Updating info frame about licenses (14 years ago) <Sebastien Paumier>
+9af784f -  The last revision date is now taken from the file: App/revision.date (14 years ago) <Sebastien Paumier>
+173ed65 -  bug fix: the "Save" menu item in works now in the text edition frame (14 years ago) <Sebastien Paumier>
+a4c8baa -  Bug fix 1: you can open empty DELA Bug fix 2: when you close a DELA, it is no more locked (14 years ago) <Sebastien Paumier>
+ef7efd1 -  Updating code for displaying aligned texts Not yet functional! (14 years ago) <Sebastien Paumier>
+f72e69a -  Graph frame's text field is now right to left, if needed (14 years ago) <Sebastien Paumier>
+aefc840 -  Concordance frames are now set with the concordance font. They are dynamically updated if the concordance font is changed. (14 years ago) <Sebastien Paumier>
+e1497ba -  Commenting targets that are unusable while their manifest files are not on the SVN server (14 years ago) <Sebastien Paumier>
+bf2a538 -  Modifications about the TagsetnormFst2/ImplodeFst2/ExplodeFst2 (14 years ago) <Sebastien Paumier>
+deb1991 -  Removing deprecated program Inflect, now replaced by MultiFlex (14 years ago) <Sebastien Paumier>
+7c62baf -  Adding classes for presenting aligned texts This part of the GUI is not used yet! (14 years ago) <Sebastien Paumier>
+b7ce01d -  Allowing Unitex GUI to run under Windows Vista (14 years ago) <Sebastien Paumier>
+c893d6e -  Uncommenting some targets in the build.xml (14 years ago) <Sebastien Paumier>
+bd28c14 -  fixed problem with long dlc entries in text dictionary window: together with syntax highlighting long lines are clipped somewhere in the middle (14 years ago) <Unitex>
+fc40d11 -  Removing deprecated program TextAutomaton2Mft (14 years ago) <Sebastien Paumier>
+19e5aab -  The console frame reads now UTF8 text (14 years ago) <Sebastien Paumier>
+5ec1254 -  The process info frame is smarter: - things like "block 247..." are displayed on a single   line instead of displaying big lists like "Block 1..." "Block2..." - There is a colored background when a message comes from the   interface instead of external programs (14 years ago) <Sebastien Paumier>
+daedfbc -  Bug fix: mapped text files were never unlocked by the GUI (14 years ago) <Sebastien Paumier>
+39a9bd1 -  Bug fix in DelaFrame (14 years ago) <Sebastien Paumier>
+2a0a373 -  - Handling large concordance diff within Unitex - Using parameterized types (14 years ago) <Sebastien Paumier>
+cd7bbda -  Unitex can now view big concordances (15 years ago) <Sebastien Paumier>
+bdcd7fc -  Bug fix in graph size settings + removing unnecessary refresh operations in BigTextArea + refreshing regular expression field in the locate frame when the text font changes (15 years ago) <Sebastien Paumier>
+523a5d4 -  NOTE: the use of SwingWorker requires to have       java 1.6 (TextAsListModel.java has not really changed) (15 years ago) <Sebastien Paumier>
+0f52473 -  Unitex can now edit large text files + syntactic highlight for displaying dictionaries (15 years ago) <Sebastien Paumier>
+f631ed9 -  Adding a paremeter to the NotAUnicodeLittleEndianFileException (15 years ago) <Sebastien Paumier>
+276fc58 -  Calling MultiFlex from the GUI instead of Inflect (15 years ago) <Sebastien Paumier>
+1abc283 -  Adding information about the concerned file (15 years ago) <Sebastien Paumier>
+e3fb03a -  Make that the Inflection frame remembers the inflection directory (15 years ago) <Sebastien Paumier>
+1b30cca -  Updating Copyright info (15 years ago) <Sebastien Paumier>
+5a843ac -  ui (15 years ago) <Unitex>
+5cf87cb -  Forcing use of OceanTheme (15 years ago) <Sebastien Paumier>
+c1b547d -  Concordance: left and right contexts may be limited by first {S}. Added check boxes in "Display Located Sequences". (15 years ago) <Unitex>
+fc389b3 -  Setting again the Metal Look and Feel for tests (15 years ago) <Sebastien Paumier>
+98fee97 -  -Taking into account the new version of Normalize -Removing unused package rtn -Turning to the default look-n-feel, since the Ocean theme  of Java 1.5 is smart (15 years ago) <Sebastien Paumier>
+4ccb45d -  Text statistics display has been made clearer (15 years ago) <Sebastien Paumier>
+14c64e3 -  Moving the Look & Feel library in a dedicated directory (15 years ago) <Sebastien Paumier>
+041edf0 -  Introduction of a new Look & Feel (15 years ago) <Sebastien Paumier>
+e2eeb2a -  add ant build.xml file in Java subdir (15 years ago) <Unitex>
+7dfb2a5 -  Resolving the rectangle bug mystery! (15 years ago) <Sebastien Paumier>
+4de9651 -  - Restoring the 'y' parameter in calls to Grf2Fst2 - Replacing draw(Rectangle) by drawRect(...) in   order to avoid a bug while rendering graph boxes (15 years ago) <Sebastien Paumier>
+088444d -  removing the error that was introduced for tests (15 years ago) <Sebastien Paumier>
+d927d43 -  introducing a compilation error for test purpose (15 years ago) <Sebastien Paumier>
+3e446c6 -  Update Unitex title to "Unitex 2.0beta" (15 years ago) <Sebastien Paumier>
+b685527 -  versioning classes directory (15 years ago) <Sebastien Paumier>
+6b38390 -  Graph frame titles have been modified to make then more understandable when the frames are minimized (15 years ago) <Sebastien Paumier>
+d9e0519 -  Versioning of Unitex's Java sources (15 years ago) <Sebastien Paumier>
+70f61c9 -  Initial import. (15 years ago) <Sebastien Paumier>
