@@ -1,5 +1,0 @@
-cirdelaf-SrpskiU.bin
-cirDelacf-SrpskiU.bin
-cirDelacf-NepromU.bin
-NewBrojSlovima.fst2
-NewBrojSlovima_norm-z.fst2
